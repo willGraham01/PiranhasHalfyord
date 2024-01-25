@@ -87,7 +87,7 @@ Over the past month, these small-scale home thefts have given way to more ambiti
 
 A week before the adventure takes place, an attempt was made on the town treasury in the magistrate's office.
 This heist was partially successful; guards managed to arrive on the scene after being alerted by the silent alarm (spells) that protected the vault.
-Those guards that arrived reported having to fend off animated beasts seemingly made of silver, jade, and other expensive materials that when struck seemed to explode into dust, all the while the valuables from the treasury seemed to be moving of their own accord out of the vault.
+Those guards that arrived reported having to fend off animated beasts seemingly made of silver, jade, and other expensive materials that when struck seemed to break down into coins, gems, and other components that made up part of the treasury.
 Whilst the theft was interrupted, no gang members were arrested and part of the treasury was lost - a careless gang member did drop a silver tooth trinket in the escape though.
 Combined with the rejuvenated activity of the Shattered Teeth, this was enough to implicate the gang, but fresh leads were nonexistant.
 
