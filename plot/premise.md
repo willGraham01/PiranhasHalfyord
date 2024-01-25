@@ -39,11 +39,73 @@ Shufharz will provide the group with access to the case files (IE if they need a
 
 ## Ordo Magicae (in the evening)
 
+If the party chooses to head to the Ordo Magicae in the evening, they will find the entrance desk unattended.
+Jenessa will be closing up the store front, but will respond if the party rings the front bell or walks into the store of their own accord.
+
+There are several things the party can learn and do at the Ordo:
+
+- They can introduce themselves to Jenessa. She can answer some of their questions, and can provide the assistance Shufharz promised in the form of a magic ring. The ring is in the Ordo's lab, which will give them a chance to run into Groubun.
+- The store's supplies look pretty barren, but if the party asks Jenessa will part with a healing potion or two.
+- The lab is where Faire, Groubun, and occasionally Jenessa do their research. Groubun might be in here when the party arrives, or he might be in his chambers and come down before heading out. In the lab the gang may notice some oddities; most reagents and shelves are empty save for ingredients associated with polymorph & invisibility effects, Groubun's desk will have notes on a collar of antimagic (that cat-Faire is wearing).
+- Some members of the group may choose to sneak away and explore the upper floors of the Ordo. They run the risk of encountering Groubun, or some of the other staff members who will reprimand their inquisition. The common area will have notices up from the Ordo HQ about the process of selecting a replacement Ordinator, Jenessa can also provide this information if asked.
+- Groubun's room has a locked desk. Inside are blueprints for the potions that the gang are using to animate the treasure, alongside an article that has bot his and Faire's names on.
+- Groubun himself will be heading out to the Day's Rest soon. Jenessa knows he likes a drink, but doesn't know where he frequents. The party might encounter him if they spend too much time with Jenessa on the ground floor - he will insist they leave his lab to allow him to do some confidential research, but will be cordial about it for the facade of promotion.
+
+By the end of their visit, the party will hopefully have Jenessa's ring and have noticed some of the other clues in and around the Ordo.
+They shouldn't be suspicious of anyone in particular, but they should hopefully notice some inconsistencies in the reports Jenessa is giving about the state of the Ordo, the available supplies, and any of the other contextual clues.
+
+If the party heads to the Ordo after scoping out the docks, Groubun will be in the lab when they arrive.
+He will leave partway through their conversation, making any infiltration of the upper floors slightly easier _and_ avoiding arousing his suspicion if he passes them at the docks.
+But the party will loose the opportunity to tail him to the Day's Rest as they should only learn of any slight clues that he might be up to no good after he leaves.
+
 ## Docks (in the evening)
+
+The party might choose to scope out the docks, and in particular the area that Shufharz or Jenessa points them to as the mooring site for the fabricated merchant ship.
+There will be guards at the docks, depending on whether the group has visited the Ordo, word will have been passed to the guard on who they are.
+
+This gives the players a chance to scope out the area and do some planning for the day itself.
+Astute players will notice the sewage pipes that drain from the east bank into the river - these connect to the wider town sewage system and in particular to the Day's Rest.
+The main pipe can be entered by a medium creature, but quickly becomes too narrow to make progress further in - but dog-sized creatures could probably squeeze through.
+
+Groubun will pass through across one of the bridges visible from the docks during the party's visit if they went to the Ordo first.
+If they stayed long enough to encounter him, he will take note of their presence here and at the Ordo speaking with Jenessa (even if they don't reveal to him they are helping Shufharz) - the resulting encounter during the day will feature more Shattered Teeth presence.
+
+The party may choose to tail Groubun if they notice him pass by.
+He will be heading to the Day's End to deliver the next round of potions to the gang's leaders.
+The group will arrive to a busy tavern in the full swing of the evening.
+Fordem will be at the bar and Hope will be serving, Faire the cat will be in the tavern too - Hope will mention the cat is a relatively new addition and "hasn't settled" yet.
+Forden will protect Groubun and deny seeing him that evening (as will the bouncers, etc) because Groubun will be downstairs in the hideout handing off the potions (and maybe tipping Carlton off).
+Hope however will mention that Groubun arrived and is a regular here, although notes that he does just seem to pop up in the tavern during the evening and she can never pin down where he's sitting.
+She will also let slip that Fordem and Groubun are good friends, mechanically this should cast suspicion on Fordem.
+
+The players may recognise the collar on Faire if they took note in the Ordo.
+If they speak too openly, he might even try to get their attention... as might Fordem.
+
+Theoretically, the party may discover the gang hideout if they show enough ingenuity and get lucky with dice rolls.
+There is nothing stopping them from doing so - whether by forcing their way in or causing a ruckus and sneaking through instead.
+If so, they will jump directly to "infiltrating the hideout" - however, Groubun will be present and will side with the gang if not swayed otherwise.
 
 ## Docks (the planted cargo)
 
+After resting for the evening, the party will be woken up by Shafharz' aides in the morning to go through the plan for the fake shipment.
+If the party has scouted out the area, Shufharz will have been told this by her guard and will ask if they have any further leads or if there is anything in the environment they want to take advantage of.
+The party can also inform her of any insights that came from tracking Groubun.
+
+The plan is to lure the gang out with this shipment, which in reality contains mundane kitchen items, building supplies, and the like.
+Guard presence will be deliberately made to appear lighter than usual, many members of the guard will be plain clothed.
+
+The Shattered Teeth will send a team to capture the shipment in their usual manner - potions to animate what they want to steal, invisibility for the members themselves.
+Anything they animate will return to the hideout via the shortest possible route - normally this would be to use the sewer pipe, however if the goods are animated after being unloaded onto the west bank then anything animated will travel using the streets towards the Day's Rest (or leave a trail that can be followed with Jenessa's ring).
+The gang members themselves will not lead the party back to the hideout directly - if they are tailed, they will try to make sure they've thrown off their pursuers before returning.
+The gang members also do not want to die, or be captured - they will prefer to flee and leave the loot if they're at risk.
+
+Conversely, the gang members must be made to believe that the cargo is valuable - if it is unloaded and they discover it is actually a plant, they will immediately flee the scene.
+They can be prompted into acting impulsively by removing their invisibility as they approach the target (whilst it is being unloaded), a suitable "distraction" being held such as the players engaging the dock-master in conversion or pretending to be customs agents, or any other inventive ideas the party comes up with like a rival gang attempting a heist.
+Shufharz will mention this caveat to the players in the initial briefing or the morning planning session otherwise.
+
 ## On the trial of the gang (the Day's Rest)
+
+At this point, the party's investigation should lead them to conclude there is something amiss with the Day's Rest.
 
 ## Infiltrating the Hideout
 
