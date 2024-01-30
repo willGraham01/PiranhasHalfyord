@@ -106,8 +106,23 @@ Shufharz will mention this caveat to the players in the initial briefing or the 
 ## On the trial of the gang (the Day's Rest)
 
 At this point, the party's investigation should lead them to conclude there is something amiss with the Day's Rest.
+Once they arrive, there are multiple ways they might choose to proceed with their investigation.
+If Faire recognises them from the previous night, he will attempt to assist in cat form.
+
+If they followed the sewer trail from above ground, they can trace it back to the rear of the tavern.
+The back alley will have a manhole cover which connects to the sewers directly below, and can be used to access the gang's vault via the "treasure route" that the animated goods take.
+The manhole cover will not have any sentries, unless the gang members were actively pursued to the tavern itself.
+If the gang slips into the vault from the inside, they might be able to catch Carlton unawares.
+
+Alternatively, the gang can head inside the tavern to attempt to access the hideout from the trapdoor behind the bar.
+This will likely lead to a fight with Fordem and whichever bouncers he has on hand - Hope will not help either side unless convinced beforehand that the gang is right under their nose.
+Once the fight is resolved, Fordem can be looted for the cellar key.
+Hope, if onside, can point out the cellar access to the party - failing this, Faire as a cat can attempt to draw attention to it.
+Heading down into the cellar will give the party access to the hideout from the _intended_ entrance, which will loose them the element of surprise.
 
 ## Infiltrating the Hideout
+
+TSTK make map with https://app.dungeonscrawl.com/ ?
 
 ## Confrontations
 
