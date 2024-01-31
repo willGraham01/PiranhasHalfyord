@@ -74,10 +74,10 @@ Conversely, and materials the gang could provide would be "off the books" - if G
 
 Eventually a plan was conceived:
 
-- Groubun would use some alchemical components provided by the gang to create a potion of true polymorph, designing it to only take affect after a delay. This would allow Faire's transformation to take place at night.
-- The animal Faire would then be delivered to the Day's Rest to live out the next 3 months as the tavern pet.
+- Groubun would use some alchemical components provided by the gang to create a potion of true polymorph, and administer it to Faire.
+- The animal Faire would then be delivered to the Day's Rest to live out the next 3 months as the tavern pet or gang captive.
 - During these 3 months, Groubun would then provide the means to aid the Shattered Teeth gang based on the components they could gather.
-- The polymorph was designed to wear off after 3 months as an "insurance" to Groubun he would not be held to this deal for any longer time period than initially agreed. When the potion wore off, it would wipe Faire's memory of his time transformed so that Groubun and the gang would be in the clear.
+- After 3 months, the gang would move the loot they had garnered out of the hideout, and escape out of town to move onto greener pastures. Faire would be planted in the gang's old hideout, and the guards tipped off. Faire would likely spin a story about the true events and it being a plant, but with suitable evidence planted, circumstance, and Groubun's "helpfulness" with the guard's investigation, Faire would be out of the picture permanently.
 
 Groubun's aid to the gang mostly came in the form of potions and low-level magic items, since these do not depend on the user's magical prowess.
 Invisibility potions and potions of animate objects proved to be particularly useful for gang heists: an invisible thief had a much easier time breaking and entering, and animate objects could be used to make small but expensive items like coins, jewellery, and gems smuggle themselves!

@@ -122,8 +122,80 @@ Heading down into the cellar will give the party access to the hideout from the 
 
 ## Infiltrating the Hideout
 
-TSTK make map with https://app.dungeonscrawl.com/ ?
+The hideout is essentially the gang's safehouse and headquarters, but it is not a permanent residence for all the members.
+Only Carlton and Fordem have permanent lodgings, and Fordem has to bunk with the rest of the gang members that cycle through the hideout.
+
+Entering through the cellar, the party will face several challenges they'll need to overcome:
+
+- They need to find the entrance to the hideout, via a hidden wall switch.
+- The gathering hall will have gang members present, and they will notice the wall opening from the cellar.
+- Making too much noise might attract Carlton from his planning room.
+- Carlton himself will be present in the hideout, if undisturbed he will be in his drawing room.
+
+The gathering hall will have evidence that can incriminate Groubun, with the notice board even giving the location for the next supply exchange.
+The makeshift supply area in the gathering hall also contains a detailed log of the supplies the gang has available.
+
+The lodgings contain some more of the necklaces that the gang members wear, some spare sets of plain clothes, and a few weapon racks.
+The party might get a slight weapon upgrade from looting them.
+
+The vault contains most of the stolen goods of the past few weeks and months, and is sealed behind a heavy door.
+If entering from the sewers, the party will find themselves inside the vault and looking for a way out.
+Carlton has a key to the vault on him at all times.
+
+Carlton's planning room contains a few items of interest:
+
+- There is a runic key to unlock the collar that Faire is wearing, in Carlton's personal footlocker in his room.
+- There are a few doses of "potions of dispelling", which Carlton has been told can reverse the animation of the treasure early if they need it. These can also be used to "revert" Faire.
+- Carlton's desk contains a number of schematics and plans that it looks like the gang has had in storage for a while. It also contains correspondence (albeit cryptic) with Groubun.
+
+Carlton himself has a golden tooth necklace unlike the silver ones the grunts of the gang carry.
+The party can loot this as a trophy to prove to Shufharz that Carlton is present and/or dead.
+
+<!-- Move this stuff to the relevant scene info!-->
+Entering from the trapdoor behind the bar, the party will find themselves in the wine cellar.
+They will have to infer that one set of barrels is lighter than the other, and there are scratch marks and broken wood chippings on the floor leading away from the lighter barrel stack.
+Moving these barrels will reveal a wall with the gang's emblem on - pressing it will open the wall-door into the hideout.
+
+Going through the wall will place the gang in the gathering hall that the gang has underground.
+There are two further exits on either side of the far side of the room, both with closed doors.
+Immediately in front of the wall-door is a desk and a makeshift supply dump that the gang has been using for their magical items and potions.
+There is a logbook on the desk which details which materials are assigned to who for which heists or missions.
+The centre of the room is taken up by a recreation area - there are rugs and cushions to form a seating area, and a table with cards and games left lying around.
+There is a notice board on the wall just beside the "games" table which has gang announcements of sorts.
+In particular, there will be a "next delivery exchange" note which may incriminate Groubun.
+The far end of the room has a table that's used as an eatery, and an unkempt bookshelf.
+
+Taking the door at the far end of the room on the same wall as that which leads to the cellar will take the party to the lodgings.
+There are several beds in here, a few weapon racks with various items missing or mislaid, some spare plain clothes in wardrobes, and a number of silver-shark-tooth necklaces similar to those that the party might have recovered from gang members they've encountered before.
+
+The door opposite to the lodgings is reinforced, and leads into a log corridor lit by scones.
+At the end of the corridor there are two sets of doors facing each other.
+
+The first has a heavy lock and iron bars across it - this is the gang's vault.
+Inside is most of the valuables that the gang has managed to steal since Groubun begun assisting them.
+If the party manages to infiltrate the sewers they will enter directly into the vault (from the "ceiling") behind the reinforced door and will have to figure out a way to get through it!
+
+The other door is again reinforced but unlocked and leads to Carlton's planning room, and a door further in to his private room.
+Carlton will be in here waiting for the party if they manage to sneak through undetected, otherwise he may be drawn out of his HQ by any scuffles that occur in the gathering hall.
 
 ## Confrontations
 
+Whilst the gang is still getting back on its feet, Carlton is still ultimately looking to get out with as much as he can take.
+His deal with Groubun is only for convenience, and given enough incentive (either by the party taking him by surprise, or the sudden raid on his hideout) he may be inclined to spill the beans on the whole plan in exchange for his getaway.
+
+Otherwise, the party will have to fight him and his men.
+Killing Carlton solves one of Shufharz' problems, and the gang can then learn the truth if they manage to piece together Faire's cat-form-problem.
+If they cannot find Faire's whereabouts, they'll have to report back to Shufharz anyway.
+If the discovered the documents detailing the next drop-off meeting, they can catch Groubun in the act and solve the mystery that way.
+
 ## Conclusions
+
+With Carlton out of the picture, the gang's activities will grind to a halt and Shufharz' garrison can regain control of the town.
+The wealth in the vault can be redistributed where possible too.
+
+Groubun will be arrested if the plot against Faire is uncovered.
+Faire will be restored to Ordinator if he is cured, otherwise Jenessa will become acting Ordinator if Faire is not discovered.
+
+Kamonas will be delighted if the party produces results, but will stop short of offering a monetary reward due to the chaos that the redistribution of wealth is going to cause in the next few days.
+Instead, she will extend the offer of a reward in the form of ownership of the Day's Rest now that it's true purpose is revealed.
+Hope can be convinced to continue working there as caretaker / bartender if the party got her onside before the hideout raid (or she was otherwise unaware of it).
