@@ -36,4 +36,4 @@ Groubun is more of a useful accomplice than a friend, though Carlton won't hesit
 
 ## Stat Block
 
-![](./carlton-stat-block.png)
+![Carlton stat block](./monsters/carlton-stat-block.png)
