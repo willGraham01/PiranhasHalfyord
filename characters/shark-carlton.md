@@ -20,6 +20,7 @@ Their eyes offer an intense, piercing stare.
 Their clothes are practical civilian garbs often worn by dock workers or sailors, covered by leathers that serve as armour - despite being under house arrest, Carlton continues to dress as if ready to spring into action.
 They have a dagger hidden in the sole of their boots, and a scimitar sheathed around their waist.
 On their belt is a pouch of musket pellets, and on their hips two flintlock pistols are holstered.
+He wears a blink ring - supplied by Groubun - on one hand.
 
 They speak to gang members and subordinates with authority, conviction, and precision.
 Carlton typically adopts a sarcastic - almost derogatory - tone that is laced with a sense of urgency or boredom, asking "what can I get out of this interaction".
