@@ -1,2 +1,5 @@
 # DungeonScrawl files
 *.ds
+
+# Configs
+.vscode/
