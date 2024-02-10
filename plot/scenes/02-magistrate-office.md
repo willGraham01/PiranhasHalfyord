@@ -44,6 +44,7 @@ The party will be invited to either:
 - Head to the docks with Shufharz, then onto the Ordo for closing time.
 
 Shufharz will prefer the former, since Jenessa's item may be of use, and it mitigates the amount of time the party is seen actively working with the garrison.
+Before sending them to the Ordo, Shufharz will provide a small stamp or mark that the party can show to Jenessa to confirm they are working with the garrison.
 
 ## Next Scenes
 
