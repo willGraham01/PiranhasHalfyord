@@ -94,4 +94,4 @@ If he notices them tailing him, he will of course alert Fordem and the gang when
 
 The party should head to 04 - the docks at night if they have not met with Shufharz yet.
 Otherwise, they can proceed to 05 - the day's rest at night if they chose to follow Groubun.
-Finally, they may choose to not follow Groubun after coming from the docks, in which case they can proceed to 06 - the docks heist.
+Finally, they may choose to not follow Groubun after coming from the docks, in which case they can proceed to 06 - the planted cargo.

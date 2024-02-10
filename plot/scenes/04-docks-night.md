@@ -126,5 +126,5 @@ Have the group roll a group check:
 
 ## Next Scenes
 
-If the party chose to tail Groubun, they will go to 06 - the day's rest at night.
-Otherwise, skip to the next day's events in 07 - the planted cargo.
+If the party chose to tail Groubun, they will go to 05 - the day's rest at night.
+Otherwise, skip to the next day's events in 06 - the planted cargo.
