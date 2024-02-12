@@ -115,6 +115,9 @@ Do not resolve explosions yet, but take note that any dice that are revealed at 
 #### Up the Ante
 
 In poker-style, starting from the player with the highest revealed total, each player checks/matches the ante, raises the ante, or folds.
+In the event of a tied total, the player who revealed the dice with the greatest number of sides goes first (excluding the d20).
+If this is still a tie, both players roll a d4 and the player with the highest roll goes first (continuing to roll until a winner emerges).
+
 Folding looses all money placed into the pot.
 Once all players have either folded or matched the highest bet on the table, proceed to the next phase.
 
@@ -126,3 +129,33 @@ The player with the highest total, _after_ resolving explosions, wins the entire
 In the event of a tie, the pot is split between winners.
 
 NOTE: Dice can explode multiple times. If a player rolls a 4 on their d4 for example, then rolls another d4 for the explosion and _also_ gets a 4, then they take _another_ d4 and roll again. Each dice adds to their total as did the previous.
+
+#### Example
+
+3 players enter the initial buy-in phase, and roll their dice.
+Scores in **bold** are the ones that the players choose to reveal.
+
+```bash
+A : d4 - 2, **d6 - 5**, d8 - 2, **d20 - 19**
+B : **d4 - 4**, d6 - 3, d8 - 7, **d20 - 20**
+C : **d4 - 3**, d6 - 6, d8 - 8, **d20 - 13**
+```
+
+The player with the highest revealed total is tied between player A & B, however player A has revealed their d6 value compared to B's d4, so they go first.
+Player A checks - seeing B's d20 and d4 that are going to explode.
+B then plays and opts to up the ante by 1 GP.
+C elects to match B's bet, hoping that their hidden d6 and d8s that are exploding will tip the balance.
+A then folds, and since we are back to B's turn, the up the ante phase is over.
+The pot is how 5 GP (3 from buy-in, 2 from up the ante).
+
+B then reveals his remaining dice.
+His total is 4 + 3 + 7 + 20 = 34, and then his d4 and d20 explode.
+He rolls again, getting a 2 on the d20 and a 3 on the d4.
+Thus, his grand total is 4 + 3 + 7 + 20 + 3 + 2 = 39.
+
+C then reveals their dice; with a score of 3 + 6 + 8 + 13 = 30.
+They reroll the d6 and d8, getting another 6 on the d6 and a 3 on the d8.
+Their second d6 _also_ explodes, so they roll another one and get a 4.
+This gives a total of 3 + 6 + 8 + 13 + 6 + 4 + 3 = 43.
+
+Player C wins and takes the entire pot of 5GP, and the game ends.
