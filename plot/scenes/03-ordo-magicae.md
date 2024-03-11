@@ -90,6 +90,20 @@ The party will have the option to tail Groubun from the Ordo to the Day's Rest a
 The same mechanics are applicable, however Groubun will not automatically be suspicious of the party like if he catches them at the docks after seeing them at the outpost.
 If he notices them tailing him, he will of course alert Fordem and the gang when he arrives.
 
+## Opportunities for further investigation
+
+To allow additional "fail-safe" checks for the party in case they miss anything in their investigation, the upper floors of the Ordo will be unguarded so a sneaky character might be able to slip away.
+The party might also come back to the Ordo after reaching the Day's Rest and ask around for Groubun, or again poke around in his things.
+
+If the rest of the Ordo is explored, allow the players appropriate checks to discover anything they might have missed, and other useful insights like:
+
+- The Ordo role succession rules.
+- Recent Groubun and Faire publications.
+- Documents in Faire's room that indicate he is neglecting his duties, and struggling for inspiration.
+- Letters from Groubun's family asking about his career.
+- Jenessa may keep a journal that provides more insight than she is willing to speak.
+- Groubun's room will also contain a spare key for Faire's cat-collar.
+
 ## Next Scenes
 
 The party should head to 04 - the docks at night if they have not met with Shufharz yet.
