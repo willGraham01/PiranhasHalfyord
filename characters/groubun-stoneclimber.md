@@ -14,7 +14,7 @@ This his gradually built up over the past 2 years into resentment, and more rece
 
 ## Appearance & Personality
 
-Groubun is a mountain dwarf, standing around 4 foot 6 with a solid-built frame.
+Groubun is a mountain dwarf, standing around 4"6' with a solid-built frame.
 He sports a long, black beard that reaches down his neck and is braided at the tip, but is otherwise bald.
 His eyes are a cold blue, deep set into an almost chubby face.
 

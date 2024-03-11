@@ -17,7 +17,7 @@ Shufharz is the brains behind the recent decline in the Shattered Teeth's activi
 
 ## Appearance & Personality
 
-Shufharz is a female half-orc, standing 6 foot 5 inches tall, with a muscular build and deep green skin.
+Shufharz is a female half-orc, standing 6"5' tall, with a muscular build and deep green skin.
 Her hair is jet black and long, but is normally tied into a practical ponytail so it doesn't get in her face during combat.
 Short tusks protrude from either corner of her mouth, and her face carries a number of small scratches and cuts that have not quite healed.
 Her eyes are narrow with red pupils.
