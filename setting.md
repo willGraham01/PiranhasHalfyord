@@ -48,7 +48,7 @@ During the day, the guildhall acts as both an emporium selling magical items, po
 
 The mages guild is located to the south of the great market.
 It is a detached building, contrary to the rest of the street, and has 3 stories.
-The top floors are lodgings for permanent staff, whilst the middle floor serves as the boarding house and kitchen for visitors.
+The top floors are lodgings for permanent staff, whilst the middle floor serves as the boarding house and kitchen for visitors, and houses the research lab.
 The ground floor has a reception desk for enquires and the shop front.
 
 ### The Magistrates Office
