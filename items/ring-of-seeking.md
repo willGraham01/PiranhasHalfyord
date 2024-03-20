@@ -7,7 +7,7 @@ The opal can be rotated in it's socket to activate or deactivate the ring's magi
 
 As a bonus action, a character can twist the opal into either the activated or deactivated position.
 The ring has a charge that lasts for 1 hour.
-This timer is paused when the ring is deactivated, however does not reset without recharging the ring by expending a spell slots whose level sums to at least 2 (EG one 2nd-level spell slot or two 1st-level spell slots can be used to recharge the ring).
+This timer is paused when the ring is deactivated, however does not reset without recharging the ring by expending a spell slots whose level sums to at least 3 (EG one 3rd-level spell slot, or one 2nd-level and one 1st-level spell slot, can be used to recharge the ring).
 
 When activated, the wearer gains the following abilities:
 

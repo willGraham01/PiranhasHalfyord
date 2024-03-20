@@ -23,7 +23,7 @@ Shufharz will also remind them of the insignia of the Shattered Teeth, and the u
 She'll also reiterate that the gang needs to be lead to believe the contents really are valuable before they'll attempt to strike.
 The objective is to follow the gang back to either their hideout or the location that they are "sending" the loot.
 
-Shufharz will also give the party each a modified earring of message; this allows the party members to cast message to each other (or anyone else on the earring network, which includes Shufharz and some guards).
+Shufharz will also give the party each a one earring in a set of networked earrings of message; this allows the party members to cast message to each other (and anyone else on the earring network, which includes Shufharz).
 This will allow the party to communicate should they decide to split up now, later in the evening, or for tomorrow.
 Shufharz will request these back from the party once the adventure is complete.
 
