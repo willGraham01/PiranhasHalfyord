@@ -79,9 +79,9 @@ In fact, it does not seem to even be material - it is in fact an illusion.
 Any magical effect that can either create a light to place over the illusion, modify the illusion itself so the torch appears lit, or simply dispel the illusion, will trigger the secret cache to open.
 When it does, a small hole in the brickwork behind the vines will fade away, revealing an approx 10-by-10-by-10ft alcove containing the following supplies, intended for the gang members tomorrow:
 
-- 3 potions of invisibility (20 minutes)
-- A crumpled set of plain clothes
-- A set of dockworkers clothes
+- Potions of invisibility (20 minutes, one for every 2 gang members that will be present).
+- Sets of plain clothes, similar to what travellers might wear.
+- Sets of dockworkers clothes.
 
 The party should be able to infer that this means at least 5 gang members will be present tomorrow; one of which will be posing as a member of the public and another as a dock worker.
 If the party wants, they can remove any items from the cache and the gang will not have them at their disposal tomorrow.
