@@ -37,7 +37,8 @@ The notable locations of interest are listed below, along with anything that can
 
 The mooring station consists of a straight platform like one might see on a canal, with hitching posts that boats can attach to.
 Wooden pallets can then be used to bridge a walkway between the moored ship and the dockyard itself.
-The mooring station has an unloading area where the cargo is normally moved to.
+The mooring station has an unloading area where the cargo is normally moved to, on a level slightly above the mooring station itself.
+The station is a good 50 feet or so from the crane and the bridge.
 Shufharz will brief the players at this location so can provide any ideas based on the player's investigations.
 
 - Dockworkers ferry the cargo on and off the ship as they arrive, so a character could pose as one of these un-loaders. Players can use this to "pretend" the cargo is something that it isn't; EG by deliberately making out that what they're carrying is heavy, or glowing, or has a particular smell, etc.
@@ -48,7 +49,7 @@ Shufharz will brief the players at this location so can provide any ideas based 
 
 ### The Docking Crane
 
-The docking crane is at the opposite end of the mooring station to the bridge.
+The docking crane is adjacent to the bridge, but on a much lower level.
 It sits above the cargo loading level, and is winch operated with two cranks.
 
 - (AUTO) A quick inspection of how the crane operates will give a character the idea that they can feign the weight of unloaded goods by deliberately operating the crane slowly.
@@ -76,7 +77,7 @@ It is dark under the bridge - without a light source or darkvision, checks to in
 If the party lights the single unlit torch, they will find that it does not catch with non-magical means.
 In fact, it does not seem to even be material - it is in fact an illusion.
 Any magical effect that can either create a light to place over the illusion, modify the illusion itself so the torch appears lit, or simply dispel the illusion, will trigger the secret cache to open.
-When it does, a small hole in the brickwork behind the vines will fade away, revealing an approx 2-by-2-by-2ft alcove containing the following supplies, intended for the gang members tomorrow:
+When it does, a small hole in the brickwork behind the vines will fade away, revealing an approx 10-by-10-by-10ft alcove containing the following supplies, intended for the gang members tomorrow:
 
 - 3 potions of invisibility (20 minutes)
 - A crumpled set of plain clothes
