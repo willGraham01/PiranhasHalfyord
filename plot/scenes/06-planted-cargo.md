@@ -90,3 +90,70 @@ A character playing a role with suitable authority can convince this gang member
 
 - The party is free to position the docking crane however they see fit before the ship arrives. They're also free to use it as they see fit before the gang turns up.
 - The party can attempt to repair the damaged sewer cover, which will prevent the animated loot from escaping so quickly and give more time for trackers to be placed.
+
+## Springing to Action
+
+The ship will arrive shortly after the party has finished up any prep work or investigations they have been conducting.
+When it turns up the captain will disembark to talk to the harbourmaster, and the dock workers will join the crew in unloading the crates on board the ship (and potentially loading this into the merchant's cart).
+The gang will be waiting for confirmation that the shipment is valuable, which can come in a couple of ways:
+
+- A character imitating the harbourmaster and/or captain may deliberately raise their voice when discussing the ship manifest. The merchant might also do this.
+- Any characters disguised as dock workers can sow rumours to the gang members in plain clothes to entice them into acting early.
+- Crane operators and other dock workers can pretend there is more weight in the crates than expected.
+- The merchant can be engaged in conversation by a guard character to "spill the beans" on what's in the shipment.
+
+Once the gang is confident that the shipment contains valuables, they will move in as part of their plan.
+
+### The Gang's Plan
+
+If uninterrupted, the Shattered Teeth gang have the plan below.
+Skill checks indicate ways in which the players might spot these actions prior to things kicking off.
+Also indicate to the players that they can act to interrupt this plan at any time.
+
+- The leader (disguised at the crane) will give the signal to the member who was hiding the warehouse. (Perception DC 15, ADV: the gang member was previously made to get to work helping with the crane).
+- This gang member will join the dock workers doing the unloading. (Perception DC 20, ADV/AUTO: The warehouse was investigated).
+- The group of investors will walk through the archway and head towards the merchant cart. (Perception DC 10) If they are on the bridge due to being moved on, they will arrive along the road instead, in clearer view (AUTO).
+- On the leader's signal:
+  - The "investors" will target the goods in the cart, morphing the crates and their contents. They will then attempt to use the invisibility potions to escape.
+  - The "dock worker" will target the loading area, and also attempt to go invisible and flee.
+  - The gang leader will animate some of the barrels on the loading bay, and again attempt to flee.
+
+The gang members intend to retreat to the hideout as fast as possible.
+The animated barrels are intended as a delaying action and to add chaos to the scene, preventing pursuit.
+The animated cargo will attempt to head to the hideout via the sewer grate - if it realises that it is inaccessible, they will swim across the river and make their way to the hideout by the roads and streets.
+
+### Combat Encounter
+
+The number of enemies at the docks should vary based on the number of players present.
+But there will always be:
+
+- The gang members; at the crane, at the loading station, and the plain clothed members (3)
+- If Groubun was alerted the night before, have 3 more gang members be present on the bridge with crossbows, to cover the retreat (3). This may tip the encounter from easy to medium difficulty.
+- The barrels animated by the leader use the animated barrels stat block (player-number dependant).
+- The animated cargo, which uses the loot wolf stat block (player-number dependent).
+
+Keep in mind that the gang members want to get out alive, and the animated cargo does too.
+The barrels will attempt to block escape and disrupt the dock workers, and party.
+
+### Initiative
+
+Go into initiative order when the action demands it due to the gang springing their attack, or a player reacting or pre-empting this.
+The character with the Ring of Seeking should be allowed an opportunity to target either an invisible gang member (to track them back to the hideout) or one of the animated loot objects, so there is contingency if combat goes poorly.
+As a final bout of contingency, have Shufharz and a guard retinue arrive from the market square and delay and gang members escaping by the road - if a gang member is captured, they can be interrogated to gain the same information as tracking would.
+Shufharz' retinue can also be used to speed up the fight against the animated barrels if the danger has largely passed, or the party is split between staying on the docks to help and chasing the fleeing gang.
+
+## Tracking
+
+Once the dust settles, Shufharz will briefly rendezvous with the party having arrived from the market if the situation calls for it.
+Otherwise, the party should take the lead in following either the gang members or the animated cargo (using the Ring if necessary).
+Shufharz will not accompany the party for this due to the chaos on the docks.
+
+If using the Ring of Seeking, the party can follow the trail back to the hideout underneath the Day's Rest.
+If pursuing gang members, stealth checks contested by the gang member's passive perception will be needed.
+The cargo (if above ground) can be followed without worry of alerting it - in fact, members of the public will gladly point the way / be in shock if the cargo travels by land.
+Hope in the next scene will also be able to share more information if the cargo comes in the front door.
+
+If the cargo went via the sewers, then have the trail lead to the manhole round the back of the Day's Rest tavern.
+The blue line afforded by the Ring of Seeking (if active) will then direct the party into the hideout via the cellar entrance (since it highlights the shortest path to the target!).
+If the Ring of Seeking isn't available, the party will need to put the clues they have available together.
+If the party is truely stuck, have sounds start to be heard from the pipes underneath the manhole, and allow a perception check to deduce the direction they are going in.
