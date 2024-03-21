@@ -37,25 +37,7 @@ After the death of one member, the other gang members will attempt to flee the s
 
 ### Combat Encounter
 
-Encounter difficulty: Medium
-
-- 3 gang members = 75 XP
-- 5 loot wolves = 250 XP
-
-TOTAL: 325 XP
-No. of enemies modifier: 2.5 (8 enemies)
-ADJUSTED EXP: 812.5 XP
-
-Loot:
-
-- Shattered Teeth necklace off any killed or captured gang members
-- A ring or trinket from one of the merchant victims (if all the goods were saved by killing the loot wolves)
-
-Other encounter effects:
-
-- The market crowd will scatter when the animated wolves appear. Assume that the crowd acts first in combat and uses their action to move away from the scene, allowing freedom of movement. The merchant victims and their hirelings will also attempt to move to minimum safe distance.
-- After a couple of PCs have gone in combat, the alarm bell will be raised by one of the on-duty guards. Mention that it starts to toll.
-- After one round of combat, Shufharz and a garrison of nearby troops will be seen rushing down the main street from the barracks. They will arrive the following round. The gang members and loot wolves will shift focus to getting away when this happens.
+See [the market combat encounter](../../combats/market.md).
 
 ## Aftermath of the Attack
 
