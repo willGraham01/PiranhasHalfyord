@@ -64,8 +64,10 @@ The party might choose to scope out the docks, and in particular the area that S
 There will be guards at the docks, depending on whether the group has visited the Ordo, word will have been passed to the guard on who they are.
 
 This gives the players a chance to scope out the area and do some planning for the day itself.
-Astute players will notice the sewage pipes that drain from the east bank into the river - these connect to the wider town sewage system and in particular to the Day's Rest.
-The main pipe can be entered by a medium creature, but quickly becomes too narrow to make progress further in - but dog-sized creatures could probably squeeze through.
+
+- Astute players will notice the sewage pipes that drain from the east bank into the river - these connect to the wider town sewage system and in particular to the Day's Rest. The main pipe can be entered by a medium creature, but quickly becomes too narrow to make progress further in - but dog-sized creatures could probably squeeze through.
+- There will also be some markings that bear the gang's symbol of a shark tooth with a crack in it - these will mark the locations that gang members will rendezvous at. One such marking under the bridge will also have a loose brick in the wall nearby, this can be removed and the potion stashed there for the gang to use retrieved by the party.
+- The party may also decide to learn how to interact with the docking cranes (because who doesn't want to use a crane?) and potentially re-arrange the loose barrels etc on the docks to their liking. They may also decide to obtain some dockworker's clothes from the workers barracks.
 
 Groubun will pass through across one of the bridges visible from the docks during the party's visit if they went to the Ordo first.
 If they stayed long enough to encounter him, he will take note of their presence here and at the Ordo speaking with Jenessa (even if they don't reveal to him they are helping Shufharz) - the resulting encounter during the day will feature more Shattered Teeth presence.
