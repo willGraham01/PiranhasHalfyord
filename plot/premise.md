@@ -153,33 +153,6 @@ Carlton's planning room contains a few items of interest:
 Carlton himself has a golden tooth necklace unlike the silver ones the grunts of the gang carry.
 The party can loot this as a trophy to prove to Shufharz that Carlton is present and/or dead.
 
-<!-- Move this stuff to the relevant scene info!-->
-Entering from the trapdoor behind the bar, the party will find themselves in the wine cellar.
-They will have to infer that one set of barrels is lighter than the other, and there are scratch marks and broken wood chippings on the floor leading away from the lighter barrel stack.
-Moving these barrels will reveal a wall with the gang's emblem on - pressing it will open the wall-door into the hideout.
-
-Going through the wall will place the gang in the gathering hall that the gang has underground.
-There are two further exits on either side of the far side of the room, both with closed doors.
-Immediately in front of the wall-door is a desk and a makeshift supply dump that the gang has been using for their magical items and potions.
-There is a logbook on the desk which details which materials are assigned to who for which heists or missions.
-The centre of the room is taken up by a recreation area - there are rugs and cushions to form a seating area, and a table with cards and games left lying around.
-There is a notice board on the wall just beside the "games" table which has gang announcements of sorts.
-In particular, there will be a "next delivery exchange" note which may incriminate Groubun.
-The far end of the room has a table that's used as an eatery, and an unkempt bookshelf.
-
-Taking the door at the far end of the room on the same wall as that which leads to the cellar will take the party to the lodgings.
-There are several beds in here, a few weapon racks with various items missing or mislaid, some spare plain clothes in wardrobes, and a number of silver-shark-tooth necklaces similar to those that the party might have recovered from gang members they've encountered before.
-
-The door opposite to the lodgings is reinforced, and leads into a log corridor lit by scones.
-At the end of the corridor there are two sets of doors facing each other.
-
-The first has a heavy lock and iron bars across it - this is the gang's vault.
-Inside is most of the valuables that the gang has managed to steal since Groubun begun assisting them.
-If the party manages to infiltrate the sewers they will enter directly into the vault (from the "ceiling") behind the reinforced door and will have to figure out a way to get through it!
-
-The other door is again reinforced but unlocked and leads to Carlton's planning room, and a door further in to his private room.
-Carlton will be in here waiting for the party if they manage to sneak through undetected, otherwise he may be drawn out of his HQ by any scuffles that occur in the gathering hall.
-
 ## Confrontations
 
 Whilst the gang is still getting back on its feet, Carlton is still ultimately looking to get out with as much as he can take.

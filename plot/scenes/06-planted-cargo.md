@@ -156,4 +156,4 @@ Hope in the next scene will also be able to share more information if the cargo 
 If the cargo went via the sewers, then have the trail lead to the manhole round the back of the Day's Rest tavern.
 The blue line afforded by the Ring of Seeking (if active) will then direct the party into the hideout via the cellar entrance (since it highlights the shortest path to the target!).
 If the Ring of Seeking isn't available, the party will need to put the clues they have available together.
-If the party is truely stuck, have sounds start to be heard from the pipes underneath the manhole, and allow a perception check to deduce the direction they are going in.
+If the party is truly stuck, have sounds start to be heard from the pipes underneath the manhole, and allow a perception check to deduce the direction they are going in.
