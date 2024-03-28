@@ -142,3 +142,41 @@ If they don't take the bait, have him and Fordem move out to confront them - wit
 
 ## Carlton's HQ
 
+Assuming Carlton and Fordem are still in his HQ, the party will need to open the door to trigger the final confrontation.
+The door itself will not be locked, nor is it trapped - the party can just walk in.
+When they open the door, Carlton will be sitting at the desk directly ahead of them, and Fordem will be standing nearby with his weapon drawn.
+Carlton will attempt to engage the group in dialogue (provided they did not ready any hostile actions, which will skip to the combat).
+
+Carlton will attempt to negotiate his freedom; he still has a few tricks up his sleeve, but he is also aware that he has little in the way of bargaining chips.
+He will begin by offering up Faire's location - and the collar-key that he keeps around his neck.
+The party might have already deduced that Whiskers is Faire by this point though, in which case Carlton will offer to spill the beans on the entire operation with Groubun, again in exchange for his freedom.
+Carlton cannot be convinced to turn himself in - Fordem however can be persuaded to take the fall for Carlton (and potentially even testify against Groubun).
+Fordem will not give himself up though, unless Carlton's negotiations fail.
+The following conversation paths are available:
+
+- Carlton's opening greetings and exchanges. It will culminate with Carlton asking why the group is here / is so motivated.
+- Carlton will offer up information about Faire in exchange for his freedom.
+  - The party can reject this offer.
+  - The party can demand Carlton still come with them, rather than being killed in his hideout. Carlton will reject this offer, but Fordem will step in to throw himself under the bus. (Persuasion, DC20) Fordem can be convinced to take the fall for Carlton, and Carlton goes free.
+- Carlton offers up information about the operation with Groubun.
+  - The options are identical to the earlier offer to Faire.
+- Having exhausted all his options, Carlton will initiate combat.
+
+Use the "encounter with Carlton" combat for the final confrontation.
+
+### Loot
+
+Once the fight is over, the party can loot the HQ and the bodies of Carlton and Fordem for valuables.
+
+- Carlton has his two scimitars, and his golden tooth necklace. The blink ring and pistols can also be looted but will need repair before they are in a usable state.
+- Fordem has his weapons and gold tooth necklace.
+- Carlton's desk has a master key for the hideout and cellar. It also has a number of papers that incriminate Groubun, including instructions for the use of the collar and the runic key to unlock it.
+- Carlton's room has further loot:
+  - The bedside table has the collar key on it.
+  - The chest contains some nice clothes, a few gems, and a coin pouch.
+    - Gems: (party size * 2) pearls worth 25GP each.
+    - Coins: (party size)d4s gold pieces are found.
+    - Clothes: A shirt of mending can be found in the chest.
+  - The weapon rack has a rapier and a shortsword that can be taken.
+
+Once the party is finished, move into the conclusions scenes.
