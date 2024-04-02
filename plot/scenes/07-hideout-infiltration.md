@@ -173,6 +173,7 @@ Once the fight is over, the party can loot the HQ and the bodies of Carlton and 
 - Carlton's desk has a master key for the hideout and cellar. It also has a number of papers that incriminate Groubun, including instructions for the use of the collar and the runic key to unlock it.
 - Carlton's room has further loot:
   - The bedside table has the collar key on it.
+    - Inside the chest of draws is a potion. (Arcana DC 10 / Identify / Detect magic) it is a potion of dispelling (this can be used to restore Faire to elf form).
   - The chest contains some nice clothes, a few gems, and a coin pouch.
     - Gems: (party size * 2) pearls worth 25GP each.
     - Coins: (party size)d4s gold pieces are found.
