@@ -168,8 +168,6 @@ Use the "encounter with Carlton" combat for the final confrontation.
 
 Once the fight is over, the party can loot the HQ and the bodies of Carlton and Fordem for valuables.
 
-- Carlton has his two scimitars, and his golden tooth necklace. The blink ring and pistols can also be looted but will need repair before they are in a usable state.
-- Fordem has his weapons and gold tooth necklace.
 - Carlton's desk has a master key for the hideout and cellar. It also has a number of papers that incriminate Groubun, including instructions for the use of the collar and the runic key to unlock it.
 - Carlton's room has further loot:
   - The bedside table has the collar key on it.
