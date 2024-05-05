@@ -1,11 +1,11 @@
 # Plot Premise
 
 The party finds themselves (individually or already as an established group) in Halfyord for their various reasons.
-Visiting the market square around late-lunch / early-afternoon, the group will be caught up in the latest heist action courtesy of the Shattered Teeth.
+Visiting the market square around late-lunch / early-afternoon, the group will be caught up in the latest heist action courtesy of the Piranhas.
 
 ## The Market Attack
 
-The Shattered Teeth know that, after their slightly botched attempt on the town treasury last week, that Shufharz and Kamonas know it is them behind the recent resurgence in criminal activity.
+The Piranhas know that, after their slightly botched attempt on the town treasury last week, that Shufharz and Kamonas know it is them behind the recent resurgence in criminal activity.
 However, they also sense the pressure the town leadership is under to produce results, and so decide to make a show of force - and where better than the market square at the height of a working day to have the biggest impact?
 As such, they have dispatched a team, equipped with the usual animate objects and invisibility potions to take what they can from the traders that might be passing through.
 
@@ -70,7 +70,7 @@ This gives the players a chance to scope out the area and do some planning for t
 - The party may also decide to learn how to interact with the docking cranes (because who doesn't want to use a crane?) and potentially re-arrange the loose barrels etc on the docks to their liking. They may also decide to obtain some dockworker's clothes from the workers barracks.
 
 Groubun will pass through across one of the bridges visible from the docks during the party's visit if they went to the Ordo first.
-If they stayed long enough to encounter him, he will take note of their presence here and at the Ordo speaking with Jenessa (even if they don't reveal to him they are helping Shufharz) - the resulting encounter during the day will feature more Shattered Teeth presence.
+If they stayed long enough to encounter him, he will take note of their presence here and at the Ordo speaking with Jenessa (even if they don't reveal to him they are helping Shufharz) - the resulting encounter during the day will feature more Piranhas presence.
 
 The party may choose to tail Groubun if they notice him pass by.
 He will be heading to the Day's End to deliver the next round of potions to the gang's leaders.
@@ -96,7 +96,7 @@ The party can also inform her of any insights that came from tracking Groubun.
 The plan is to lure the gang out with this shipment, which in reality contains mundane kitchen items, building supplies, and the like.
 Guard presence will be deliberately made to appear lighter than usual, many members of the guard will be plain clothed.
 
-The Shattered Teeth will send a team to capture the shipment in their usual manner - potions to animate what they want to steal, invisibility for the members themselves.
+The Piranhas will send a team to capture the shipment in their usual manner - potions to animate what they want to steal, invisibility for the members themselves.
 Anything they animate will return to the hideout via the shortest possible route - normally this would be to use the sewer pipe, however if the goods are animated after being unloaded onto the west bank then anything animated will travel using the streets towards the Day's Rest (or leave a trail that can be followed with Jenessa's ring).
 The gang members themselves will not lead the party back to the hideout directly - if they are tailed, they will try to make sure they've thrown off their pursuers before returning.
 The gang members also do not want to die, or be captured - they will prefer to flee and leave the loot if they're at risk.

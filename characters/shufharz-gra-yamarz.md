@@ -13,7 +13,7 @@ It was during the final years of her twenties that she was assigned as a persona
 Kamonas appreciated Shufharz' no-nonsense attitude but also willingness to challenge authority when there was reason to, and in turn Shufharz appeciated that Kamonas understood that Shufharz' advice was far better than their own in certain contexts.
 When Kamonas was assigned as governor of Halfyord, Shufharz was made captain of the guard and has served in that post ever since.
 
-Shufharz is the brains behind the recent decline in the Shattered Teeth's activities, after a methodical campaign lasting just under a year.
+Shufharz is the brains behind the recent decline in the Piranhas's activities, after a methodical campaign lasting just under a year.
 
 ## Appearance & Personality
 
@@ -36,7 +36,7 @@ Shufharz respects Kamonas and would say the two are friends, however she places 
 She has not had much interaction or care for the staff at the Ordo Magicae, but notes that Jenessa has been particularly helpful both with past and present investigations.
 Groubun she has only really interacted with once, in his new role as acting Ordinator.
 Shufharz despises interacting with Faire due to his insistence on being an expert in many things that he isn't.
-Shufharz is naturally disliking of the Shattered Teeth, as it goes against her philosophy of working hard to improve one's station.
+Shufharz is naturally disliking of the Piranhas, as it goes against her philosophy of working hard to improve one's station.
 However, she knows that Carlton is not to be underestimated and is very resourceful.
 
 ## Stat Block

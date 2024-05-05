@@ -62,11 +62,11 @@ If Groubun is apprehended, the Ordo will contribute to the party's reward at the
 
 ## Conclusion
 
-For successfully ending the threat of the Shattered Teeth, Kamonas will reward the party with ownership of the Day's Rest tavern.
+For successfully ending the threat of the Piranhas, Kamonas will reward the party with ownership of the Day's Rest tavern.
 She will claim that the town treasury is in anarchy (and will be for some time) due to recent events, and hopes that this will be ample compensation for the party in absence of this.
 The party can choose whether or not Hope remains an employee of the tavern - the idea is that she can act as a caretaker for the party when they are out exploring and an otherwise useful NPC for the DM to have!
 
-If Shufharz is convinced that the Shattered Teeth are truly dealt with, she will reward the party with the bounty that was on Carlton's head.
+If Shufharz is convinced that the Piranhas are truly dealt with, she will reward the party with the bounty that was on Carlton's head.
 The party will be given 200GP to split at their discretion.
 
 If the Ordo leadership crisis was resolved, Jenessa will reward the party with a ring of spell storing (2nd level).

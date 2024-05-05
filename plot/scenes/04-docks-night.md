@@ -19,7 +19,7 @@ Shufharz will provide the party with a briefing about the arranged events and im
 
 Shufharz will ask the party to decide on the roles they want to perform during the day.
 If a character wants to be on the ship itself, this can be arranged provided they wake up earlier than the rest of the group and ride downriver for 2 hours to get on the boat before it arrives.
-Shufharz will also remind them of the insignia of the Shattered Teeth, and the usual docking procedures.
+Shufharz will also remind them of the insignia of the Piranhas, and the usual docking procedures.
 She'll also reiterate that the gang needs to be lead to believe the contents really are valuable before they'll attempt to strike.
 The objective is to follow the gang back to either their hideout or the location that they are "sending" the loot.
 
@@ -123,7 +123,7 @@ If the party decides to trail Groubun, they will be lead to the Day's Rest.
 Using the earrings, they might delegate a trail party and have the other members catch up.
 Have the group roll a group check:
 
-- (Stealth, DC 12) The pursuing group does not draw the attention of Groubun. If failed: Groubun will notice the group pursuing him but not react - he will tip off the Shattered Teeth gang though that there may be heightened security the following day.
+- (Stealth, DC 12) The pursuing group does not draw the attention of Groubun. If failed: Groubun will notice the group pursuing him but not react - he will tip off the Piranhas gang though that there may be heightened security the following day.
 
 ## Next Scenes
 

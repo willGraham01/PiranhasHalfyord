@@ -19,7 +19,7 @@ The key details to provide (and which of the two officials will provide them if 
   - Magic-induced raids
   - The missing Ordinator
   - Context clues (Shufharz)
-- A brief history on the Shattered Teeth gang (Shufharz);
+- A brief history on the Piranhas gang (Shufharz);
   - The recent decline
   - The recent magical attacks
   - The recovered necklace from the treasury heist

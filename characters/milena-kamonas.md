@@ -21,7 +21,7 @@ Towards subordinates her tone can be borderline authoritarian, however towards t
 
 Kamonas is fully committed to seeing Halfyord prosper as a commercial town, albeit only because her job, wealth, and station are preserved by it.
 Were she to be reassigned, she would finalise the affairs of the town but then promptly be ambivalent to everything else concerning it.
-It is this kind of motivation that lead her to instruct Shufharz to deal with the Shattered Teeth gang in the first place, for example, and for the relatively large garrison the town sports - protecting the merchant trade is the lifeblood the town survives on.
+It is this kind of motivation that lead her to instruct Shufharz to deal with the Piranhas gang in the first place, for example, and for the relatively large garrison the town sports - protecting the merchant trade is the lifeblood the town survives on.
 
 ## Relations
 

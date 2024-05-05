@@ -23,7 +23,7 @@ NOTES:
 
 Loot:
 
-- Shattered Teeth necklace off any killed or captured gang members.
+- Piranhas necklace off any killed or captured gang members.
 - The party is then free to investigate the recreation room.
 
 Other encounter effects:

@@ -5,7 +5,7 @@ The party can arrive at the Ordo Magicae at two different times; either after ha
 ## Arriving from the Magistrate's Office
 
 The party will arrive to find Jenessa preparing to close up the shop that runs from the ground floor of the Ordo.
-Groubun will be in the lab - officially working on experiments but in reality putting the finishing touches on some more potions for the heist tomorrow, which he is planning to deliver to the Shattered Teeth tonight.
+Groubun will be in the lab - officially working on experiments but in reality putting the finishing touches on some more potions for the heist tomorrow, which he is planning to deliver to the Piranhas tonight.
 The other Ordo staff members are absent, save for one who is taking a break in the living area on the middle floor of the building.
 
 Jenessa will greet them as if they were customers when they enter the lobby, explaining that the shop is closed for the day and making an offhand comment that "there isn't much to browse anyway".
@@ -35,7 +35,7 @@ Jenessa will remind that party that Groubun isn't in on Shufharz' plan for tomor
 Upon entering the lab, Groubun will be distilling some sort of potion and have a couple of bottles already prepared.
 On a desk with the completed bottles will be his research log - this will be open on the page with the design for the anti-magic collar that Faire is currently being forced to wear.
 The shelves around the lab will contain a large number of empty jars and bottles, as if supply is short.
-The only ingredients in abundance are those that Groubun uses to make his polymorph / animate objects potions, which he gets from the Shattered Teeth.
+The only ingredients in abundance are those that Groubun uses to make his polymorph / animate objects potions, which he gets from the Piranhas.
 Faire's workstation is a cluttered mess of papers, books, and partially cleaned flasks and other containers.
 
 Groubun will notice the party's entry and greet them cordially, and Jenessa will explain they're just here to pick up a delivery.

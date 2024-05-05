@@ -106,7 +106,7 @@ Once the gang is confident that the shipment contains valuables, they will move 
 
 ### The Gang's Plan
 
-If uninterrupted, the Shattered Teeth gang have the plan below.
+If uninterrupted, the Piranhas gang have the plan below.
 Skill checks indicate ways in which the players might spot these actions prior to things kicking off.
 Also indicate to the players that they can act to interrupt this plan at any time.
 

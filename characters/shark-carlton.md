@@ -2,17 +2,17 @@
 
 ## Backstory
 
-Leader of the Shattered Teeth through their combination of cunning, guile, and ruthlessness.
+Leader of the Piranhas through their combination of cunning, guile, and ruthlessness.
 Ever since the gang came under hard times due to the diligence of Shufharz, Shark Carlton has not enjoyed the luxuries that their life of crime once afforded them.
-Forced into de-facto house arrest within the Shattered Teeth's hideout, they have meticulously been planning a return to the life they formerly enjoyed.
+Forced into de-facto house arrest within the Piranhas's hideout, they have meticulously been planning a return to the life they formerly enjoyed.
 
 Carlton was a street urchin growing up, and quickly fell into circles that lead them to a rather successful life of crime.
-Their affiliation with the Shattered Teeth gang begun shortly after their 17th birthday, when Carlton unknowingly attempted to pickpocket a high-ranking member of the gang who rather graciously saw potential rather than lashing out.
+Their affiliation with the Piranhas gang begun shortly after their 17th birthday, when Carlton unknowingly attempted to pickpocket a high-ranking member of the gang who rather graciously saw potential rather than lashing out.
 Carlton has since risen through the ranks over the course of 10 years, taking the gang to its all time high through their natural aptitude and ruthless streak.
 
 ## Appearance & Personality
 
-Carlton is just under 6 foot tall, and wears a golden tooth necklace - similar to the silver equivalents worn by lower-ranking members of the Shattered Teeth - at all times.
+Carlton is just under 6 foot tall, and wears a golden tooth necklace - similar to the silver equivalents worn by lower-ranking members of the Piranhas - at all times.
 Their face has an old, long scar down one cheek, and their jaw is quite pointed.
 Long black hair is often tied up into a ponytail, and adorned with a tricorn hat with a feather coming out of it.
 Their eyes offer an intense, piercing stare.

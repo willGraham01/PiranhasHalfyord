@@ -22,7 +22,7 @@ NOTES:
 
 Loot:
 
-- Shattered Teeth necklace off any killed or captured gang members
+- Piranhas necklace off any killed or captured gang members
 - A ring or trinket from one of the merchant victims (if all the goods were saved by killing the loot wolves)
 
 Other encounter effects:

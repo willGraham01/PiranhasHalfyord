@@ -2,7 +2,7 @@
 
 ## Backstory
 
-A high-ranking member of the Shattered Teeth, who poses as the bartender of the Day's Rest tavern.
+A high-ranking member of the Piranhas, who poses as the bartender of the Day's Rest tavern.
 Fordem has been an ally of Carlton every since he begun climbing the ranks of the gang.
 Fordem himself is a career criminal at around 40 years old, but appreciates that nowadays it is his social skills and criminal insights that keep him useful to the gang.
 He continues to stick by Carlton as leader, though is in on the Shark's plan to escape from Halfyord if the offer presents itself.
@@ -36,5 +36,5 @@ Hope is simply an employee - when the gang "acquired" the pub
 
 ## Stat Block
 
-Fordem uses the standard shattered teeth gang member stat block, but drops his gold necklace rather than a silver one that a regular gang member does.
+Fordem uses the standard piranhas gang member stat block, but drops his gold necklace rather than a silver one that a regular gang member does.
 He can also take *uncanny dodge* as a reaction (halve the damage from any attack from a creature he can see).

@@ -12,3 +12,10 @@ The adventure assumes a party of 4 level 3 characters: this gives XP thresholds 
 - Medium: 150 * 4 = 600
 - Hard: 225 * 4 = 900
 - Deadly: 400 * 4 = 1600
+
+TODO:
+
+- Floorplan for the tavern itself
+- Proof read
+- Tokens on tableplop
+- Redo Shattered Teeth statblock to be Piranhas statblock now!

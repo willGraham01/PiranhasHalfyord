@@ -11,9 +11,9 @@ Premise:
 - Groubun Stoneclimber: The apprentice to Faire, acting head of the Ordo Magicae in his absence. (dwarven male)
 - Shufharz gra-Yamarz: Captain of the City Guard (orc female)
 - Milena Kamonas: Magistrate / Governor of Halfyord (human female)
-- The Shattered Teeth: One of several criminal gangs that operates in and around Halfyord (predominately human, orc, and elven)
-- Shark Carlton: The leader of the Shattered Teeth gang (human male)
-- Fordem Chev: Tavern Frontman, member of the Shattered Teeth (human male)
+- The Piranhas: One of several criminal gangs that operates in and around Halfyord (predominately human, orc, and elven)
+- Shark Carlton: The leader of the Piranhas gang (human male)
+- Fordem Chev: Tavern Frontman, member of the Piranhas (human male)
 - Hope: Tavern Server (tiefling female)
 - Acolyte Jenessa: Front-desk initiate of the Ordo Magicae (gnome female)
 
@@ -37,7 +37,7 @@ The other staff members handle busywork jobs around the town, manual labour, lab
 
 ### Broken Jaws
 
-The Shattered Teeth are a criminal gang whose influence in Halfyord has taken a hit in the past year.
+The Piranhas are a criminal gang whose influence in Halfyord has taken a hit in the past year.
 Thanks largely to the coordinated efforts of Captain Shufharz and her garrison, many members have been arrested or forced into hiding.
 Their smuggling and bribery operations around the docks have essentially been stamped out, with the gang only able to perform to a fraction of their former capacity due to the loss of the corrupt officials shielding them and the presence of the garrison on the docks.
 Most of the population of Halfyord see the gang as a leech on society, and the captain's campaign against them has widespread support of the local populace.
@@ -58,7 +58,7 @@ He also realises the divergence in his and his supervisor's interest; Groubun ha
 
 Groubun is a regular at the Day's Rest Tavern, and in the past few months has frequented the tavern and often run his mouth about his situation at the Ordo.
 Upon hearing a few variations of his rant, Fordem gradually gained the trust of the apprentice over the span of a month of visits - playing on sympathy to earn Groubun's trust and learn about his role and skills in the Ordo.
-Fordem relayed this information to Carlton who sensed an opportunity to strike an arrangement with the apprentice; the Shattered Teeth could benefit from some magical assistance to start up the stream of funds heading into the gang's coffers, and conversely might be able to speed up Groubun's career progression.
+Fordem relayed this information to Carlton who sensed an opportunity to strike an arrangement with the apprentice; the Piranhas could benefit from some magical assistance to start up the stream of funds heading into the gang's coffers, and conversely might be able to speed up Groubun's career progression.
 
 ### The Deal
 
@@ -76,7 +76,7 @@ Eventually a plan was conceived:
 
 - Groubun would use some alchemical components provided by the gang to create a potion of true polymorph, and administer it to Faire.
 - The animal Faire would then be delivered to the Day's Rest to live out the next 3 months as the tavern pet or gang captive.
-- During these 3 months, Groubun would then provide the means to aid the Shattered Teeth gang based on the components they could gather.
+- During these 3 months, Groubun would then provide the means to aid the Piranhas gang based on the components they could gather.
 - After 3 months, the gang would move the loot they had garnered out of the hideout, and escape out of town to move onto greener pastures. Faire would be planted in the gang's old hideout, and the guards tipped off. Faire would likely spin a story about the true events and it being a plant, but with suitable evidence planted, circumstance, and Groubun's "helpfulness" with the guard's investigation, Faire would be out of the picture permanently.
 
 Groubun's aid to the gang mostly came in the form of potions and low-level magic items, since these do not depend on the user's magical prowess.
@@ -89,7 +89,7 @@ A week before the adventure takes place, an attempt was made on the town treasur
 This heist was partially successful; guards managed to arrive on the scene after being alerted by the silent alarm (spells) that protected the vault.
 Those guards that arrived reported having to fend off animated beasts seemingly made of silver, jade, and other expensive materials that when struck seemed to break down into coins, gems, and other components that made up part of the treasury.
 Whilst the theft was interrupted, no gang members were arrested and part of the treasury was lost - a careless gang member did drop a silver tooth trinket in the escape though.
-Combined with the rejuvenated activity of the Shattered Teeth, this was enough to implicate the gang, but fresh leads were nonexistant.
+Combined with the rejuvenated activity of the Piranhas, this was enough to implicate the gang, but fresh leads were nonexistant.
 
 ## The Present Day
 
@@ -99,7 +99,7 @@ There is a missing Ordinator, and magic-assisted heists taking place (although t
 
 The Ordo is being called on to help with the investigation, however Groubun has done a good job of feigning ignorance through adjusting to his "enforced" new role.
 He has been helpful in suggesting which magical effects the town guard might be facing, but claims that unless the Ordo can be supplied, he cannot produce anything to help the garrison combat the gang.
-Of course, Groubun knows that the reason no-one can get their hands on the relevant supplies is because the Shattered Teeth are prioritising their procurement, to then supply him "off the books" and ensure the cycle continues.
+Of course, Groubun knows that the reason no-one can get their hands on the relevant supplies is because the Piranhas are prioritising their procurement, to then supply him "off the books" and ensure the cycle continues.
 
 Jenessa is mostly relieved that the acting Ordinator seems to be taking on the responsibilities his predecessor did not, and has high expectations for Groubun in his new role.
 She is not an expert on the effects that the Captain is reporting, but has pledged to dig up any artefacts in storage that the Ordo might be able to provide to help.

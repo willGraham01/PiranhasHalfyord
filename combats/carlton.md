@@ -1,6 +1,6 @@
 # Boss Combat
 
-This combat takes place in the Shattered Teeth's HQ room, with the party facing Carlton and Fordem (and an animated bear skin).
+This combat takes place in the Piranhas's HQ room, with the party facing Carlton and Fordem (and an animated bear skin).
 
 ## Initial locations
 

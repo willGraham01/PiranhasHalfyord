@@ -29,7 +29,7 @@ NOTES:
 
 Loot:
 
-- Shattered Teeth necklace off any killed or captured gang members.
+- Piranhas necklace off any killed or captured gang members.
 
 Other encounter effects:
 
