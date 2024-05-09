@@ -12,12 +12,14 @@ Amongst the shoppers are members of the Piranhas gang, ready to spring their lat
 ## If the party does not know each other
 
 If the player characters do no know each other yet, have them explain what their character might be doing in the market square.
-Are they just passing through by chance?
-Are they shopping for a souvenir, keepsake, or particular item?
-Are they assisting the temple, or busking, etc.
+
+- Are they just passing through by chance?
+- Are they shopping for a souvenir, keepsake, or particular item?
+- Are they assisting the temple, or busking, etc.
 
 The players do not need to be together for the beginning of the adventure, but all need a reason to be drawn into the action.
 If possible, try to tie the start of the heist into the activity that one of the player characters is performing.
+For example, a character might be haggling with a shopkeeper and have their recently-purchased item swept up in the coming heist.
 
 ## The Heist
 
@@ -47,7 +49,7 @@ If anyone is close to dying, one of Shufharz' men will be trained in first aid, 
 Shufharz will question the party on what they saw.
 The market will be declared a crime scene, but the party will be allowed to investigate the nearby vicinity so long as they are upfront with Shufharz.
 The guard escort will begin to close the market and encourage people along though - at this point any merchants whose goods were saved will be thanking the party too.
-Otherwise, they will be brask with Shufharz and may even mention that this isn't the first they've heard of these "attacks" and why the town guard can't deal with it.
+Otherwise, they will be brash with Shufharz and may even mention that this isn't the first they've heard of these "attacks", and question why the town guard can't deal with it.
 
 Possible discoveries that the party might make here include:
 

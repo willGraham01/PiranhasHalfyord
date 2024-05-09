@@ -5,7 +5,7 @@
 The party might have unfinished business before they head back to Shufharz;
 
 - They might want to investigate Groubun's quarters in the Ordo if they tracked him to the Day's Rest. They will likely have to sneak into the building as everyone will be asleep for the night, but the information on the upper floors and in the lab will still be available.
-- They may choose to visit the temple to try and corroborate Groubun's story, which the on-duty priests will quickly rebuff. The priests will tell the party that they aren't expecting any deliveries from the Ordo due to the current supply crisis.
+- They may choose to visit the temple to try and corroborate Groubun's story, which the on-duty priests will quickly rebuff. The priests or the on-site paladin, Faith, will tell the party that they aren't expecting any deliveries from the Ordo due to the current supply crisis.
 - Some final scouting of the Day's Rest tavern will reveal the "backdoor" sewer entrance through a manhole in the back alley behind the tavern.
 
 ## Going over the Plan
@@ -29,7 +29,7 @@ Shufharz and a retinue of guards will be further along the docks, pretending to 
 
 When the ship arrives, important groups of people and their locations - assuming a party member has not taken their role - are:
 
-- The harbourmaster will be at the top of the stairs to the mooring station, likely conversing with the ship captain.
+- The harbourmaster will be at the top of the stairs to the mooring station, conversing with the ship captain who will disembark from the ship first.
 - 3 genuine dock workers on the mooring station and loading area.
 - A guard in plain clothes disguised as a merchant loading his cart, from the loading area.
 - 2 dock workers operating the crane.
@@ -60,22 +60,23 @@ Allow the party to overhear dock workers conversations prior to the ship arrivin
 
 If a character decides to investigate the warehouse, they will have to unlock the door (DC 15) or use the harbourmaster's key.
 Depending on the role they are acting, they might be able to gain access another way (EG a guard can ask the harbourmaster for access).
-Once inside the warehouse, the gang member will have knocked the dock worker unconscious already and hidden the sleeping working behind some crates and under a tarpaulin.
+Once inside the warehouse, the gang member will have knocked the dock worker unconscious already and hidden the sleeping worker behind some crates and under a tarpaulin.
 The character will enter and encounter the (disguised) gang member leaving - they may notice:
 
 - (Perception/ Investigation, DC 17) The clothes do not quite fit the gang member (if the dockworkers clothes were removed from the stash last night).
 - The gang member does not know that the dock worker was coming in to fetch tools, so will give themselves away if the player character questions them on what they're doing. Other red flags include the fact that the door was locked, and the gang member will not go back to the group of dock workers who mentioned their friend was missing.
-- (Investigation, DC 20) The unconscious dock worker will be discovered.
-- (Arcana/ Nature/ Alchemist kit, DC 15) He has been hit with a sleeping draught so won't be waking up for a while, but otherwise is unharmed.
+- (Investigation, DC 20. ADV: The warehouse was checked by this character the night before) The unconscious dock worker will be discovered. The character will notice that some of the crates are out of place, or one of the tarpaulins is not fixed correctly.
+- (Arcana/ Nature/ Alchemist kit, DC 15) The unconscious dock worker has been hit with a sleeping draught so won't be waking up for a while, but otherwise is unharmed.
 
 #### Travellers Under the Bridge
 
 The group of gang members under the bridge can be seen from the mooring station.
 
 - (Perception, DC 15 ADV: the players found the cache last night) The illusionary brazier is lit and one of the gang members is partly hidden in the alcove.
-- (Perception, DC 20 +10: the above check was passed) They are distributing the potions in the alcove (if they are there already) or look confused (since there are not supplies).
+- (Perception, DC 20 +10: the above check was passed) They are distributing the potions in the alcove (if they are there) or look confused (if there are no supplies).
 
 If approached, the gang members will not want to pick a fight since they are in view of the ferry stations on the other side of the bridge.
+Conversely, they might get cold feet about the heist if confronted in a hostile manner by a guard or similar.
 
 - A character acting as a guard can get the group to "move on", and potentially question them of their motives. The gang will claim to be tourists and they've just got lost / are getting their bearings. If convinced to move on, they will relocate to the top of the bridge when the heist triggers.
 - A character acting as a dockworker or the harbourmaster can also interact with the group. In this case, they will claim they are investors who want to monitor the security of the docks in light of news of the recent attacks. They will not move on without more persuading.
@@ -85,6 +86,8 @@ If approached, the gang members will not want to pick a fight since they are in 
 The gang member in charge of the heist will be at the docking crane, but will be looking out and waiting to give the signal rather than actually helping the real dock workers operate the crane.
 
 A character playing a role with suitable authority can convince this gang member to start pitching in, which will reduce the coordination of the gang's attack (the group under the bridge will be considered surprised for the first round of action when things start to heat up).
+
+- (Investigation DC 15, ADV: The players inspected the billboard the night before) The roster for the upcoming delivery lists one extra worker than it did the night before. The recent addition seems to be made in a different colour ink than the others, and is still drying, implying it was recently added.
 
 #### Other Misc Setup Options
 
@@ -110,8 +113,8 @@ If uninterrupted, the Piranhas gang have the plan below.
 Skill checks indicate ways in which the players might spot these actions prior to things kicking off.
 Also indicate to the players that they can act to interrupt this plan at any time.
 
-- The leader (disguised at the crane) will give the signal to the member who was hiding the warehouse. (Perception DC 15, ADV: the gang member was previously made to get to work helping with the crane).
-- This gang member will join the dock workers doing the unloading. (Perception DC 20, ADV/AUTO: The warehouse was investigated).
+- The leader (disguised at the crane) will give the signal to the member who was hiding the warehouse. (Perception DC 15, ADV: the gang member was previously made to get to work helping with the crane, or the worker listing update was discovered).
+- The gang member in the warehouse will join the dock workers doing the unloading. (Perception DC 20, ADV/AUTO: The warehouse was investigated).
 - The group of investors will walk through the archway and head towards the merchant cart. (Perception DC 10) If they are on the bridge due to being moved on, they will arrive along the road instead, in clearer view (AUTO).
 - On the leader's signal:
   - The "investors" will target the goods in the cart, morphing the crates and their contents. They will then attempt to use the invisibility potions to escape.
@@ -124,6 +127,7 @@ The animated cargo will attempt to head to the hideout via the sewer grate - if 
 
 ### Combat Encounter
 
+See the [docks combat encounter](../../combats/docks.md) for full details of the participants.
 The number of enemies at the docks should vary based on the number of players present.
 But there will always be:
 
@@ -139,17 +143,22 @@ The barrels will attempt to block escape and disrupt the dock workers, and party
 
 Go into initiative order when the action demands it due to the gang springing their attack, or a player reacting or pre-empting this.
 The character with the Ring of Seeking should be allowed an opportunity to target either an invisible gang member (to track them back to the hideout) or one of the animated loot objects, so there is contingency if combat goes poorly.
-As a final bout of contingency, have Shufharz and a guard retinue arrive from the market square and delay and gang members escaping by the road - if a gang member is captured, they can be interrogated to gain the same information as tracking would.
+As a final bout of contingency, have Shufharz and a guard retinue arrive and delay and gang members escaping by the road - if a gang member is captured, they can be interrogated to gain the same information as tracking would.
 Shufharz' retinue can also be used to speed up the fight against the animated barrels if the danger has largely passed, or the party is split between staying on the docks to help and chasing the fleeing gang.
 
 ## Tracking
 
-Once the dust settles, Shufharz will briefly rendezvous with the party having arrived from the market if the situation calls for it.
+Once the dust settles, Shufharz will briefly rendezvous with the party if the situation calls for it.
 Otherwise, the party should take the lead in following either the gang members or the animated cargo (using the Ring if necessary).
 Shufharz will not accompany the party for this due to the chaos on the docks.
 
 If using the Ring of Seeking, the party can follow the trail back to the hideout underneath the Day's Rest.
-If pursuing gang members, stealth checks contested by the gang member's passive perception will be needed.
+If pursuing gang members, stealth checks contested by the gang member's passive perception will be needed, or survival checks if ine of sight was lost before pursuit began.
+In order to solidify the link to the Day's Rest, the gang members that are part of the heist can exclaim they recognise the party from the night before - similarly, allow the party characters to do the same for the gang members.
+
+- (Stealth, contested by gang member's Perception, DIS: The gang members are invisible and the Ring of Seeking is not active) The gang members do not realise they are being tracked. If failed, they will continue to flee but might turn and fight.
+- (Survival DC 10, AUTO: Ring of seeking is actively tracking a gang member) To follow the trail of the fleeing gang members.
+
 The cargo (if above ground) can be followed without worry of alerting it - in fact, members of the public will gladly point the way / be in shock if the cargo travels by land.
 Hope in the next scene will also be able to share more information if the cargo comes in the front door.
 

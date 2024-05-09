@@ -38,3 +38,11 @@ Other encounter effects:
 
 - Carlton will activate his blink ring on turn 1, and throw the potion on his desk to animate the bear before disappearing (his first blink is guaranteed).
 - The bear takes a turn to animate (it joins the initiative order on round 2) and can take damage whilst is it being animated.
+
+## Alternative Encounter Location
+
+If the party enters the gang hideout in a LOUD manner, Carlton and Fordem will move to join the other gang members in the recreational area.
+Unless the party moves into the recreational area quickly after breaking down the door, have Carlton and Fordem be present when the party enters, otherwise have them enter at the top of round 2.
+
+In this case, combine the enemies from the recreation room combat with those from this combat.
+There is another bear skin in the recreational room that Carlton can animate in lieu of the one in his HQ.

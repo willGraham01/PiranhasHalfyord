@@ -40,7 +40,7 @@ There are multiple things that the party can report, but the key information and
 ## Apprehending Groubun
 
 The only loose end in the story is Groubun at the Ordo.
-The party should head here after reporting back to Shufharz and Kamonas at the docks, and Shufharz, Kamonas, and Faire / Whiskers should be present too.
+The party should head here after reporting back to Shufharz and Kamonas at the docks, _with suitable evidence against Groubun_ and Shufharz, Kamonas, and Faire / Whiskers should be present too.
 Whether Groubun is present at the Ordo depends on whether he got suspicious the night before.
 
 If Groubun became suspicious of the party the previous evening, he will have left shortly after the heist backfired.

@@ -19,7 +19,7 @@ Hope will be present and on cleaning duty prior to the tavern's opening hours la
 Whiskers, if not adopted, will also join the party at this point.
 
 If the animated cargo was prevented from taking the sewers to the hideout, then have a single animated loot wolf be present in the tavern.
-It will have backed Hope into the kitchen (what it is actually trying to do is enter the cellar, but is unable to do so hence is waiting idly), and she will naturally be worried.
+It will have backed Hope into the kitchen (what it is actually trying to do is enter the cellar, but is unable to do so hence is waiting idly), and she will naturally be terrified.
 The party should be able to dispatch the animated wolf quickly, or if they leave it up and open the cellar it will provide some more context clues in the next few scenes.
 
 If the cargo managed to get to the hideout via the sewers, Hope will just be performing her cleaning duties and will be surprised to have the door open and the party burst in.
@@ -32,8 +32,8 @@ Hope has a key to the cellar on her, which she can be convinced to use to open t
 Whiskers can also draw attention to the cellar door by scratching on the woodwork.
 
 - (Investigation DC 10) The cellar is locked, but Hope says Fordem was last seen down there.
-- (Investigation DC 20) If generally searching the bar/kitchen area, one of the gang's covert marks will be discovered indicating the direct towards the trap door. It will have to be interpreted like the others at the bridge by a character who speaks Thieves' Cant.
-- (Strength DC 15) The cellar trapdoor can be forced.
+- (Investigation DC 20) If generally searching the bar/kitchen area, one of the gang's covert marks will be discovered indicating a direction towards the cellar trap door. It will have to be interpreted like the others at the bridge by a character who speaks Thieves' Cant.
+- (Strength DC 15) The cellar trapdoor can be forced open, damaging it in the process.
 - (Thieves' tools DC 20) The cellar can be lock-picked open.
 
 Once the cellar door is open, the animated wolf (if present) will immediately dive down into the cellar, ignoring the party and Hope.
@@ -61,25 +61,27 @@ The party should hopefully begin investigating and looking for a way forwards; w
 - (Investigation / Perception DC 14 ADV: Tapping the walls for hollow spots or loose bricks) Tapping along the walls identifies the hollow wall. If the character is not tapping along the walls, they might instead notice faint slits of light creeping through the stonework near the hollow wall, which is odd because they are underground and not outward-facing.
 - (Strength DC 20) The hollow wall can be broken down. This is LOUD.
 
-Allow other methods for discover of a way forward or ingenuity - using explosives to break down the walls for example by igniting the alcoholic barrels. Just make sure to note if the entry method the party chooses is LOUD, and/or destabilising to the structure of the building.
+Allow other methods for discover of a way forward or ingenuity - using explosives to break down the walls for example by igniting the alcoholic barrels.
+Just make sure to note if the entry method the party chooses is LOUD, and/or destabilising to the structure of the building.
+
 Whiskers can be used to provide context clues.
 If the party is genuinely stuck, have them move a barrel which reveals a cat-sized hole.
 Whiskers (or a druid party member) can then go through the hole and open the hollow door from the inside.
 
 ## Hideout Recreational Area
 
-Going through the wall will place the gang in the gathering hall that the gang has underground.
+Going through the wall will place the party in the gathering hall that the gang has underground.
 This area will be well-lit and most likely populated by gang members, unless they were all apprehended at the docks.
 There are two further exits on either side of the far side of the room, both with closed doors.
 Immediately in front of the wall-door is a desk and a makeshift supply dump that the gang has been using for their magical items and potions.
-There is a logbook on the desk which details which materials are assigned to who for which heists or missions.
-The centre of the room is taken up by a recreation area - there are rugs and cushions to form a seating area, and a table with cards and games left lying around.
+There is a logbook on the desk which details which materials are assigned to who, for which heists or missions - note that the cargo heist today is listed as the last entry on the board.
+The centre of the room is taken up by a recreation area - there are rugs and cushions to form a seating area, and a table with cards and games left out.
 There is a notice board on the wall just beside the "games" table which has gang announcements of sorts.
 In particular, there will be a "next delivery exchange" note which may incriminate Groubun.
 The far end of the room has a table that's used as an eatery, and an unkempt bookshelf.
 
-Taking the door at the far end of the room on the same wall as that which leads to the cellar will take the party to the lodgings.
-There are several beds in here, a few weapon racks with various items missing or mislaid, some spare plain clothes in wardrobes, and a number of silver-shark-tooth necklaces similar to those that the party might have recovered from gang members they've encountered before.
+Taking the door at the far end of the room, on the same wall as that which leads to the cellar, will take the party to the lodgings.
+There are several beds in here, a few weapon racks with various items missing or mislaid, some spare plain clothes in wardrobes, and a number of silver-tooth necklaces similar to those that the party might have recovered from gang members they've encountered before.
 
 The door opposite to the lodgings is reinforced, and leads into a log corridor lit by scones.
 At the end of the corridor there are two sets of doors facing each other.
@@ -128,7 +130,7 @@ On a failed save, a character takes 1d6+2 psychic damage and has a nasty headach
 
 ## The Vault
 
-Inside the vault is most of the valuables that the gang has managed to steal since Groubun begun assisting them.
+Inside the vault are most of the valuables that the gang has managed to steal since Groubun begun assisting them.
 Any animated wolves that made it from the docks will be standing idly in the room, they will not react to the party's entry.
 If the party manages to infiltrate the sewers they will enter directly into the vault (from the "ceiling") - they will be able to lift the lock on the vault from the inside without issue, and the alarm will not sound in this case.
 
@@ -162,7 +164,7 @@ The following conversation paths are available:
   - The options are identical to the earlier offer to Faire.
 - Having exhausted all his options, Carlton will initiate combat.
 
-Use the "encounter with Carlton" combat for the final confrontation.
+Use the ["encounter with Carlton"](../../combats/carlton.md) combat for the final confrontation.
 
 ### Loot
 

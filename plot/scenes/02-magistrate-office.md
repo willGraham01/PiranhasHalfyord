@@ -26,13 +26,13 @@ The key details to provide (and which of the two officials will provide them if 
   - Their leader and command structure
   - Their unknown hideout
   - Their criminal activities
-- The Ordo Magicae
+- The Ordo Magicae (Kamonas)
   - The outpost's role
   - Outpost staff numbers and important people; Faire, his apprentice, Jenessa the shop-face
-  - Assistance in the investigation
+  - Assistance in the investigation (Shufharz)
     - Groubun is now very busy but his information has been helpful
     - Jenessa has more time and has been actively trying to help at each turn
-- The stakes
+- The stakes (Kamonas)
   - The town is restless and it's governor and law enforcement are taking flack
   - The trade that keeps the town afloat is beginning to suffer
 
@@ -41,10 +41,12 @@ She will also explain that - keeping up the guise that an important shipment is 
 The party will be invited to either:
 
 - Pick up the item from Jenessa at the Ordo, then meet Shufharz at the docks, or
-- Head to the docks with Shufharz, then onto the Ordo for closing time.
+- Head to the docks with Shufharz, then onto the Ordo after closing time.
 
 Shufharz will prefer the former, since Jenessa's item may be of use, and it mitigates the amount of time the party is seen actively working with the garrison.
+Mechanically, the party will also have more reason to suspect Groubun if they go to the Ordo first.
 Before sending them to the Ordo, Shufharz will provide a small stamp or mark that the party can show to Jenessa to confirm they are working with the garrison.
+She will explain that this is not legal immunity however - this stamp will not excuse criminal acts against the population of Halfyord! 
 
 ## Next Scenes
 

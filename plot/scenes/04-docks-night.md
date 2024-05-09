@@ -83,8 +83,16 @@ When it does, a small hole in the brickwork behind the vines will fade away, rev
 - Sets of plain clothes, similar to what travellers might wear.
 - Sets of dockworkers clothes.
 
-The party should be able to infer that this means at least 5 gang members will be present tomorrow; one of which will be posing as a member of the public and another as a dock worker.
+The party should be able to infer that this means as many as 5 gang members will be present tomorrow in disguises; one of which will be posing as a member of the public and another as a dock worker.
 If the party wants, they can remove any items from the cache and the gang will not have them at their disposal tomorrow.
+
+### The Warehouse
+
+The storage warehouse near Shufharz will be locked, but Shufharz will have a master key.
+Inside is a massive supply of empty boxes, loading tools, and woodworkers tools that are presumably for repairs.
+There is nothing of interest in here currently, but a character will note that the haphazard layout of empty crates does present a number of hiding places.
+
+Take a note if any character chooses to enter the warehouse - if they later investigate the lead on the missing working during the day, allow them to roll an investigation check to determine if anything in the warehouse has been disturbed.
 
 ### The Bridge
 
@@ -92,10 +100,11 @@ Heading up a stone set of stairs will take a character from the dock level to th
 The bridge is well lit with gas-powered street lamps - from the bridge one can see along the entire length of the docks.
 The bridge itself is approximately 5 stories (30ft) higher than the loading area, and has decorative bannisters and railings along its edges.
 The main road across town runs through the middle, with a wide pavement for pedestrians either side.
-A number of members of the public will be going about their business on the bridge if a member of the party heads up there.
+The bridge wil be busy with members of the public crossing both ways to get to their various evening destinations, party members will never be alone atop the bridge.
 
 - (Perception DC 15) From this vantage point, a character notices that there is a sewer grate with a missing cover on the same side of the docks as the mooring station. The grate empties out into the river, and there are several more along the docks at each mooring station that have a cover.
 - There are no gang marks up here, searching for them invokes the same checks as before but always turns up nothing. However, a character might infer that this is a particularly good vantage point to watch the area from - though Jenessa's ring will be out of range.
+- A character can look off the "opposite" side of the bridge to the loading area, which looks out onto the civilian transport docks - a number of small ferries and fishing boats will be visible on this side.
 
 ### Groubun's Passby
 
@@ -113,17 +122,17 @@ After their initial investigations, the party members up on the bridge might not
 As Groubun walks across the bridge, someone will bump into him, causing a small clattering of bottles onto the pavement.
 
 - (Perception, DC 10 PASSIVE) A character not on the bridge hears the clattering of bottles.
-- (Perception, DC 12 PASSIVE) An apologetic exchange is heard between a member of the public and a voice that is recognised as Groubun's.
+- (Perception, DC 12 PASSIVE, DIS: Character is not on the bridge) An apologetic exchange is heard between a member of the public and a voice that is recognised as Groubun's.
 
 The party should hopefully recall that Groubun's reason for excusing himself was to do research in his study, and have their suspicions raised.
 Doubly so by the fact that he is carrying bottles of something, and they have seen him brewing potions in the lab earlier.
-The party may decide to follow Groubun, or if Shufharz heard the exchange and was informed about the potion bottles that were heard/seen clattering around.
+The party may decide to follow Groubun, or if Shufharz heard the exchange and was informed about the potion bottles that were heard/seen clattering around she will suggest this.
 
 If the party decides to trail Groubun, they will be lead to the Day's Rest.
 Using the earrings, they might delegate a trail party and have the other members catch up.
-Have the group roll a group check:
+Have the group that pursues Groubun roll a group check:
 
-- (Stealth, DC 12) The pursuing group does not draw the attention of Groubun. If failed: Groubun will notice the group pursuing him but not react - he will tip off the Piranhas gang though that there may be heightened security the following day.
+- (Stealth, DC 12) The pursuing group does not draw the attention of Groubun. If failed: Groubun will notice the group pursuing him but not react - he will tip off the Piranhas gang though that there may be heightened security the following day. This will also change whether or not the party can apprehend Groubun at the end of the adventure.
 
 ## Next Scenes
 
