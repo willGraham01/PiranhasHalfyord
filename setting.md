@@ -69,16 +69,16 @@ It is also the de-facto hospital for the town, and gets most of its herbal suppl
 
 The temple is funded mostly by donations from pilgrims on their way to holy sites of greater import, and the healing services it provides.
 
-### The Day's End Tavern
+### The Day's Rest Tavern
 
-The Day's End is one of several taverns that can be found on the east side of Halfyord.
+The Day's Rest is one of several taverns that can be found on the east side of Halfyord.
 It's residents are typically locals from the surrounding suburbs, and it typically does not see much of the merchant traffic who typically stay either closer to the docks or on the west bank.
 
 The building has guest lodgings on the first floor and a large meeting hall on the ground.
 The meeting hall contains a hearth and the bar, which backs onto the kitchen.
 There is a mezzanine level above the hearth for patrons, which leads to the guest rooms, and a private staircase behind the bar that leads to the owner's lodgings.
-A trapdoor behind the bar leads down to the cellar and, unbeknownst to the public, leads to a secret storeroom which is the base of BG.
-This section of the basement is also accessible from the rear of the building, which is one level lower than street view.
+A trapdoor behind the bar leads down to the cellar and, unbeknownst to the public, leads to a secret storeroom which is the base of the Piranhas gang.
+This section of the basement is also accessible from a sewer grate outside the rear of the building.
 
 ### Other Locations of Import
 
