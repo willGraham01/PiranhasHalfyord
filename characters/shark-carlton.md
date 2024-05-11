@@ -14,7 +14,7 @@ Carlton has since risen through the ranks over the course of 10 years, taking th
 
 Carlton is just under 6 foot tall, and wears a golden tooth necklace - similar to the silver equivalents worn by lower-ranking members of the Piranhas - at all times.
 Their face has an old, long scar down one cheek, and their jaw is quite pointed.
-Long black hair is often tied up into a ponytail, and adorned with a tricorn hat with a feather coming out of it.
+Long black hair is often tied up into a ponytail, and covered by a bandana that is tied over the top of his head.
 Their eyes offer an intense, piercing stare.
 
 Their clothes are practical civilian garbs often worn by dock workers or sailors, covered by leathers that serve as armour - despite being under house arrest, Carlton continues to dress as if ready to spring into action.
