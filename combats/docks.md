@@ -17,7 +17,7 @@ Intended encounter difficulty: Medium / Hard (if Groubun alerted)
 | Party size | Gang members | Loot wolves | Barrels | Other adjustments |
 |:-:|:-:|:-:|:-:|-|
 | 3- | 3 (4) | 2 | 2 | The underpass group consists of 1 gang member. |
-| 4 | 5 (6) | 3 | 3 | The underpass group consists of 2 gang members. |
+| 4 | 4 (6) | 3 | 3 | The underpass group consists of 2 gang members. |
 | 5 | 5 (7) | 3 | 4 | The underpass group consists of 2 gang members. |
 | 6+ | 6 (+ number of players - 6) | 3 | = number of players - 1 | The underpass group consists of all but 4 of the standard number of gang members. |
 

@@ -6,7 +6,7 @@ If they did not, the combatants from this encounter should be combined with thos
 ## Initial Locations
 
 The number of gang members present is equal to the number of gang members who successfully escaped from the docks heist.
-If none escaped the docks, have  2 gang members present at the games table, in conversation about how they think the heist is going and why it's taking everyone so long.
+If none escaped the docks, have 2 gang members present at the games table, in conversation about how they think the heist is going and why it's taking everyone so long.
 
 Otherwise, the gang members should be distributed around the recreation room.
 Try to have at least two at the games table, and one in the bedroom asleep.

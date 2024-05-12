@@ -3,7 +3,7 @@
 The prosperous merchant town of Halfyord has recently fallen on hard times.
 The Piranhas - a criminal gang that was previously thought destroyed - has become resurgent and is launching devastatingly effective attacks on shipping and businesses within the town.
 Rather worryingly, these heists have been magical in nature, and have coincided with the disappearance of a high-ranking wizard who resides in the town.
-When a group of adventurers by chance finds themselves caught in the thick ofHalfyord's troubles, the town enlists their help in destroying the Piranhas once and for all.
+When a group of adventurers by chance finds themselves caught in the thick of Halfyord's troubles, the town enlists their help in destroying the Piranhas once and for all.
 
 ## Logistical Info
 
