@@ -25,7 +25,7 @@ Faire Ron-Ron's research into magical items, effects, and spells has ground almo
 As such, about 2 years ago he was politically assigned the post of Ordinator at the Ordo Magicae outpost in Halfyord.
 This was presented to Faire as a promotion - he would be in charge of the outpost in its entirely and be given the right to take on an apprentice.
 The outpost itself is an important part of the wider order as it serves as their primary supply hub, and allows them to get the drop on things when magical items or substances happen to pass through.
-However, the higher-ups in the Ordo who gave Faire knew that these supply procurement and advisory roles to the city magistrate would mean that Faire would have little to no time for his "research".
+However, the higher-ups in the Ordo knew that these supply procurement and advisory roles to the city magistrate would mean that Faire would have little to no time for his "research".
 
 Since his appointment and subsequent move to Halfyord, Faire has taken on a modest staff at the outpost - totalling around 6 or so members of the order.
 Staff members of import are:
@@ -43,16 +43,16 @@ Their smuggling and bribery operations around the docks have essentially been st
 Most of the population of Halfyord see the gang as a leech on society, and the captain's campaign against them has widespread support of the local populace.
 This has also spilled over into Governor Kamonas' popularity due to her role in appointing Shufharz in the first place.
 
-The gang have managed to preserve the secrecy of their hideout's location, below the Day's Rest tavern, from the captain's knowledge and have "amped up" the facade of the tavern front - hiring new staff (Hope) but also ensuring that the Fordem runs the bar and the bouncer-security are all gang members.
+The gang have managed to preserve the secrecy of their hideout's location, below the Day's Rest tavern, from the captain's knowledge and have "amped up" the facade of the tavern front - but also ensuring that the Fordem runs the bar and the bouncer-security are all gang members.
 The leader, Shark Carlton, is essentially under de-facto house arrest in the hideout due to his infamy in the town.
 He is also in a tight spot - he needs to find a way to either get the gang back on it's feet and in the money again, otherwise he'll face a mutiny.
 But he also can't risk leaving the hideout and getting caught above ground.
 
 ### A Bitter Apprentice
 
-However, Faire still believes himself to be pushing the boundaries of magical research - and whilst his existing knowledge is extensive, he is wrong in this regard.
+Faire still believes himself to be pushing the boundaries of magical research - and whilst his existing knowledge is extensive, he is wrong in this regard.
 His obliviousness to this fact has resulted in him largely neglecting his wider duties as Ordinator, the responsibility of which has fallen onto Jenessa.
-It has also caused Groubun to become bitter towards his supervisor - many of Groubun's achievements are forced to carry Faire's by association, and Faire is often assumed to be the one who should be given the bulk of the credit.
+It has also caused Groubun to become bitter towards his supervisor - many of Groubun's achievements are forced to carry Faire's name by association, and Faire is often assumed to be the one who should be given the bulk of the credit.
 Groubun also had ambitions to move up in the Ordo, which he know realises have been halted given his supervisor's current position.
 He also realises the divergence in his and his supervisor's interest; Groubun has always been more of an alchemist and artificer, whilst Faire is more focused on direct manipulation of the weave of magic.
 
@@ -70,7 +70,7 @@ Conversely, Faire had to be missing for long enough that Groubun could display h
 
 The Teeth's needs were more direct - they needed a source of income, and they needed it fast.
 Fortunately, Groubun was in a position to provide them with the equipment and potions they might need to do just that - provided they could provide the raw materials.
-Conversely, and materials the gang could provide would be "off the books" - if Groubun stole from the Ordo's supplies then that would again draw the scrutiny of the higher ups in the order.
+Conversely, any materials the gang could provide would be "off the books" - if Groubun stole from the Ordo's supplies then that would again draw the scrutiny of the higher ups in the order.
 
 Eventually a plan was conceived:
 

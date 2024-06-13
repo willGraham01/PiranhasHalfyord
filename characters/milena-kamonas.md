@@ -11,7 +11,7 @@ She received excellent schooling when growing up, as befits a minor nobility.
 ## Appearance & Personality
 
 Kamonas dresses in fine silks of purple and gold colouration.
-For an elf, she is fairly short, only standing 5"4' tall, though she is seated for most of the day which can otherwise mask her actual height.
+For an human, she is fairly short, only standing 5"4' tall, though she is seated for most of the day which can otherwise mask her actual height.
 Her face is immaculate, and her hair styled into an almost showy display of flowing hair.
 She carries no discernable weapons, but the rings on her hands give off faint auras of protection magic.
 

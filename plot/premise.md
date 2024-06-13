@@ -5,7 +5,7 @@ Visiting the market square around late-lunch / early-afternoon, the group will b
 
 ## The Market Attack
 
-The Piranhas know that, after their slightly botched attempt on the town treasury last week, that Shufharz and Kamonas know it is them behind the recent resurgence in criminal activity.
+The Piranhas know that, after their slightly botched attempt on the town treasury last week, Shufharz and Kamonas know it is them behind the recent resurgence in criminal activity.
 However, they also sense the pressure the town leadership is under to produce results, and so decide to make a show of force - and where better than the market square at the height of a working day to have the biggest impact?
 As such, they have dispatched a team, equipped with the usual animate objects and invisibility potions to take what they can from the traders that might be passing through.
 
