@@ -66,18 +66,26 @@ Only a single torch sconce is present in the walkway, and it is not lit.
 It is also placed fairly high up the arch, out of reach from the walkway.
 Looking through the underpass, a character can see that the docks continue on the other side with a few more mooring stations, though the loading / unloading infrastructure is not present.
 This part of the docks is for transport ships and private ventures.
+Mention that there are the shapes of fish in the water.
 
 It is dark under the bridge - without a light source or darkvision, checks to investigate the area are at disadvantage.
 
 - (History / Investigation / Perception DC 15) The arch of the bridge is well-kept and crafted from stone. Most of the mossy plant life that you would expect to see has been cleaned off - likely to keep up appearances for the town.
-- (Survival / Nature DC 15, ADV: The absence of mossy plant life has been noted) The moss that remains is not typically found near canals or rivers - it looks like a garden climber plant that one might see decorating a house or mansion.
+- (Survival / Nature DC 15, ADV: The absence of mossy plant life has been noted) The moss that remains is not typically found near canals or rivers - it looks like a garden climber plant that one might see decorating a house or mansion. Furthermore, a portion of it looks to be spread across an area of the wall in a very precise lattice-shape, rather than a natural formation.
 - (Investigation / Perception DC 20, ADV: Thieves' Cant or criminal background, ADV: The party has previously found one of the gang's marks) The plant life conceals a gang mark.
-- (History DC 15, AUTO: Thieves' Cant) The mark can be deciphered as indicating that a cache is located nearby. This mark simply translates to a phrase: light the way.
+- (History DC 15, AUTO: Thieves' Cant) The mark can be deciphered as indicating that a cache is located nearby.
 
-If the party lights the single unlit torch, they will find that it does not catch with non-magical means.
-In fact, it does not seem to even be material - it is in fact an illusion.
-Any magical effect that can either create a light to place over the illusion, modify the illusion itself so the torch appears lit, or simply dispel the illusion, will trigger the secret cache to open.
-When it does, a small hole in the brickwork behind the vines will fade away, revealing an approx 10-by-10-by-10ft alcove containing the following supplies, intended for the gang members tomorrow:
+The "lattice-shaped" portion of the plant is meant to resemble a net, and conceals the hidden cache that the gang mark is referring to.
+It cannot be cut by non-magical items, but the "fish" swimming in the vicinity of the underpass walkway are actually constructs, similar to the loot wolves encountered earlier.
+If a player wishes to look in the water for clues, make sure to mention the fish.
+A character can also notice that:
+
+- (Survival / Nature / Animal Handling DC 10) One fish-shape is swimming alone in a regular pattern.
+- (DC 15) The same shape is not attempting to stay out of the well-lit areas (if the torch or other light source is in use).
+
+Fishing out one of the "fake" fish from the water will reveal that it's a piranha, with a single silver tooth in the mouth rather than rows of teeth.
+When this comes into contact with the "net" like portion of the plant on the wall, the plant will fade away.
+This will reveal small hole in the brickwork behind the vines will fade away, revealing an approx 10-by-10-by-10ft alcove containing the following supplies, intended for the gang members tomorrow:
 
 - Potions of invisibility (20 minutes, one for every 2 gang members that will be present).
 - Sets of plain clothes, similar to what travellers might wear.
