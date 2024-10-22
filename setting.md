@@ -1,77 +1,90 @@
 # Setting
 
-Key names:
+Halfyord is a prosperous town that straddles both sides of the river Hal, which runs north to south through the town and split it into two (referred to as the east and west bank).
+The town started off as a small fishing town that ran a ferry commissions for travellers looking to cross the banks of the Hal.
+Over time, the town grew in importance and size as the number of travellers increased and the surrounding roads and trade routes began to develop.
+This eventually lead to the construction of the bridge that joins both sides of the town, as well as the docks that facilitates maritime trade up and down the Hal river itself.
+The town is now walled on both sides of the river, though there are no lock-gates on the river itself.
+The main road that leads from the east gate to the bridge, then on past the market square and to the west gate, is the widest road in the town and is always in pristine condition and well-lit by lampposts.
+The surrounding countryside is used for farming and subsidence agriculture, and houses a number of hamlets and farmsteads that fall under the town's administration.
 
-- Halfyord - The TOWN
-- River Hal - The RIVER
-- Ordo Magicae - MAGES GUILD
-- The Day's End - TAVERN FRONT
+The population of Halfyord is diverse; humans make up the most common species and the original settlers, but nowadays elves and dwarves also make up a sizeable chunk of the population.
+The town has a local governor (magistrate) and a number of the wealthier merchants sit on the town council, though ultimately the town is still ruled over - and pays taxes to - a Lord or King whose capital is elsewhere.
+The demeanour of the residents is open and welcoming to the untrained eye, but the merchants are professionals with profit foremost in mind, which has lead most of the lower-class citizens to be weary of being taken for a fool.
 
-## Halfyord
+Many of the lower-class citizens are dock workers, or work in one of the various taverns and boarding houses that are sustained by the travelling merchants.
+Most of these residents will reside on the east bank, which is predominantly composed of permanent housing and small street markets offering food, clothing, and other essential materials for everyday life.
+The streets are narrower and "more lively" at night than on the west bank, but are by no means in dire disrepair.
 
-Halfyord is a reasonably wealthy merchant town of provincial importance, straddling both sides (west & east) of the river Hal.
-Its natural position as a crossing point and the slightly more recent dock have made it an important hub for trade and travellers.
-The centre of its livelihood is its great market square, which attracts a number of travelling merchants who pass through.
+The wealthier citizens typically reside on the west bank, in slightly grander detached houses compared to the terraced houses that make up the majority of the east bank.
+The elite live in mansion houses that line the main street running from the market square to the magistrates office.
+All businesses that are based in the town and have a permanent premises are found on this side of the river too.
 
-It features a diverse population with humans making up the most common race, followed by elves and dwarves.
-The governor and lord are both human.
-The demeanour of the people is open and welcoming to the untrained eye, but none of the residents are suckers for a deal.
+## The Docks
 
-The town is also home to an output for the Ordo Magicae, largely due to the number of merchants that pass through and the scarcity of magical goods.
-It also maintains a reasonably large standing garrison and is governed by a magistrate in service to the local lord.
-The town is walled on both sides of the river, but the docks do not have any lock-gates.
-The surrounding countryside is used for farming and a number of smaller hamlets or farmsteads dot the immediate landscape.
+Situated on the west bank of the river are the docks, with the commercial docks being separated from the merchant docks by the bridge.
+A small underpass runs underneath the bridge that links the two areas of the docks.
+The docks are generally safe all times, with city watch members patrolling at all times of day - though with a reduced presence at night.
 
-### The Docks
+The commercial docks to the south of the bridge still run ferry services across the Hal, as well as recreational trips or fishing expeditions.
+Ferry services also run along the river to the settlements up and downstream from Halfyord.
+The wealthier members of Halfyord's society also dock private vessels here.
+It typically sees a lot of activity in the early mornings and late afternoons of the working days, as citizens of the city need to commute to and from work.
 
-Situated on the east bank of the river are the docks.
-They are lively and always busy, mooring space for trade vessels is at a premium.
-Large warehouses line the streets nearby, as do a number of boarding houses and taverns.
-The docks are generally safe all times of the day, with permanent city watch members patrolling at all times of day.
+The merchant docks to the north of the bridge see a large amount of activity, seeing a large number of goods passing through in both directions each week.
+Large warehouses line the docks and back onto the town streets behind, with cranes and other lifting machinery being present at a number of docking stations along the bank.
 
-### The Market
+## The Great Market Square
 
-On the west side of the river, visible from the docks, sits the great market.
-It is open to the air, and centres on a statue of the town founder, that atop a large fountain.
-The square itself is approximately the square-footage of 90HH.
+On the west side of the river, visible from the docks, sits the Great Market Square.
+It is open to the air, and centres on a statue of the town founder, atop a large fountain.
+The square itself is approximately 500 ft on both sides, with markings on the ground indicating areas that should be left open as pathways, and other areas that can be occupied by merchants.
 
 The great market square has no permanent stands, and traders have to wheel their own carts or stalls in to sell their wares.
-Permission to trade in the square is often acquired when first entering the town or by visiting the magistrates office.
+Permission to trade in the square is often acquired when first entering the town or by visiting the magistrates office, and typically lasts the week.
+The square is also typically where businesses will go to negotiate and finalise deals, or to source a supplier of goods who has setup a temporary stand.
 
-### The Ordo Magicae Outpost
+Governor's Walk is the street that runs from the Great Market Square directly to the Magistrate's office and attached barracks.
+The main road through town linking the west and east gate passes along the southern edge of the square.
 
-Halfyord is large enough to warrant a permanent outpost for the Ordo Magicae.
-It is not as grand as a full guildhall, it essentially acts as an exclusive boarding lodge for members of the guild and a storeroom for moving and acquiring rare goods.
-The permanent staff consist of a fully qualified mage who runs the outpost ("the ordinator") and their apprentice, along with some administrative staff and attendants.
+## The Ordo Magicae Outpost
 
-During the day, the guildhall acts as both an emporium selling magical items, potions, and providing basic magical services like identification or warding.
+Halfyord is large enough to warrant a permanent outpost for the Ordo Magicae, located to the south of the Great Market Square.
+It is a detached building, much like most of the buildings on the west bank, but is not as grand as a full guildhall.
 
-The mages guild is located to the south of the great market.
-It is a detached building, contrary to the rest of the street, and has 3 stories.
-The top floors are lodgings for permanent staff, whilst the middle floor serves as the boarding house and kitchen for visitors, and houses the research lab.
-The ground floor has a reception desk for enquires and the shop front.
+The permanent staff consist of a fully qualified mage who runs the outpost, holding the title of Ordinator.
+Their Apprentice is typically next in the chain of command, and the remaining staff are administrative or predominantly attendants to the Ordinator.
 
-### The Magistrates Office
+The ground floor hosts a shop front that offers access to basic off-the-shelf potions and mundane magical items, as well as services such as identification or enchantment commissions - though the latter is typically unaffordable except by the town elite or wealthy adventurers.
+The first floor hosts a communal living space, rooms for the lower-ranking permanent staff members and visiting guild members, and the laboratory.
+The laboratory is primarily for members of the guild to conduct experiments in, and to use when manufacturing items commissioned through the store-front on the ground floor, but is also where the guild stores its alchemical or magical components (such as gems).
+The second (top) floor has rooms for the Ordinator and their Apprentice.
+
+## The Magistrates Office and Barracks
 
 The magistrates office is the public-facing courthouse, as well as the place of residence for the local governor.
-It contains comfortable living quarters on the upper floors for the magistrate himself, and parliament-style chambers on the ground floor.
-The building backs onto the guard barracks, which also contains the local jail.
+It is built at the end of Governor's Walk, the main street leading directly to the Great Market Square and lined with mansion houses owned by the city elite, most of which are on the city council in some capacity.
+It is a large building - most likely the largest in town - and has exquisite architectural features and is always immaculately decorated and clean.
 
-Following the main street from the magistrates office will lead you directly to the great market.
+Due to how the town grew from its humble origins, the barracks and jail form part of the same structure as the council chambers and governor's residence.
+The main entrance now leads into a lobby and the council chambers (on the ground floor), with the governor's residence on the upper floor.
+The barracks is mostly accessed through a side-entrance that is not visible from the front of the building, with the jail entirely underground beneath this part of the building.
+The upper floors of the barracks home the city guard who do not own a residence inside the city, as well as providing modest quarters for the captain of the town guard.
 
-### The Temple
+## The Temple
 
 Halfyord is home to an ecumenical temple to no particular deity, which is open to public worship and holds sermons on weekends.
-It can be found on the eastern bank of the Hal, south of the docks and on the edge of the residential suburbs.
-The temple grounds themselves are little more than a church with a large courtyard at the front.
-Beyond the chapel itself are some small buildings that function as a vicarage - the clergy lives there, and they can provide cramped if functional lodgings for pilgrims and visiting priests, paladins, and the like.
-It is also the de-facto hospital for the town, and gets most of its herbal supplies from the herbalist store on the other side of the river.
+It can be found on the eastern bank of the Hal, on the edge of the residential suburbs near the city wall.
+
+The temple itself is more akin to a chapel, being barely taller than most houses on the east bank, though tall enough for its clock tower to be visible from the main street.
+Beyond the chapel structure itself, there are some modest grounds which consist primarily of gardens that the clergy tend to, and some small buildings that function as a vicarage - the clergy lives there, and they can provide cramped if functional lodgings for pilgrims and visiting priests, paladins, and the like.
+It is also the de-facto hospital for the town, and gets most of its herbal supplies from the herbalist store on the other side of the river, and occasionally potions or other healing substances from the Ordo Outpost.
 
 The temple is funded mostly by donations from pilgrims on their way to holy sites of greater import, and the healing services it provides.
 
-### The Day's Rest Tavern
+## The Day's Rest Tavern
 
-The Day's Rest is one of several taverns that can be found on the east side of Halfyord.
+The Day's Rest is one of several taverns that can be found on the east bank of Halfyord.
 It's residents are typically locals from the surrounding suburbs, and it typically does not see much of the merchant traffic who typically stay either closer to the docks or on the west bank.
 
 The building has guest lodgings on the first floor and a large meeting hall on the ground.
@@ -80,7 +93,7 @@ There is a mezzanine level above the hearth for patrons, which leads to the gues
 A trapdoor behind the bar leads down to the cellar and, unbeknownst to the public, leads to a secret storeroom which is the base of the Piranhas gang.
 This section of the basement is also accessible from a sewer grate outside the rear of the building.
 
-### Other Locations of Import
+## Other Locations of Import
 
 Off in the side streets that lead away from the market, on the west side of the Hal, a number of permanent shops can be found.
 These include all the usual amenities like a:
@@ -94,4 +107,3 @@ These include all the usual amenities like a:
 - Herbalist,
 
 etc.
-The Ordo Magicae output serves as the emporium for magical goods and services, whilst the temple is the de-facto hospital that gets most of its supplies from the herbalist.
