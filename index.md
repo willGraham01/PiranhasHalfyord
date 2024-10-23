@@ -17,5 +17,5 @@ Each scene also tries to provide enough investigative / social angles so that ev
 - Combat Encounters
 - Customising the Adventure
 - Appendix: Character Summary
-- Appendix: Custom Items
+- [Appendix: Custom Items](appendix/appendix-custom-items.md)
 - Appendix: Sample Player Characters
