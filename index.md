@@ -11,7 +11,7 @@ The adventure tries to balance around a party of 4 level 3 characters, though th
 Each scene also tries to provide enough investigative / social angles so that every character in the party can be doing something.
 
 - [Setting](setting.md)
-- Background and Plot
+- [Background and Plot](background-plot.md)
 - Characters and Factions
 - Scenes
 - Combat Encounters

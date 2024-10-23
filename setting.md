@@ -9,7 +9,7 @@ The main road that leads from the east gate to the bridge, then on past the mark
 The surrounding countryside is used for farming and subsidence agriculture, and houses a number of hamlets and farmsteads that fall under the town's administration.
 
 The population of Halfyord is diverse; humans make up the most common species and the original settlers, but nowadays elves and dwarves also make up a sizeable chunk of the population.
-The town has a local governor (magistrate) and a number of the wealthier merchants sit on the town council, though ultimately the town is still ruled over - and pays taxes to - a Lord or King whose capital is elsewhere.
+The town has a local governor (magistrate) and a number of the wealthier merchants sit on the town council, though ultimately the town is still ruled over - and pays taxes to - a Lord whose capital is elsewhere.
 The demeanour of the residents is open and welcoming to the untrained eye, but the merchants are professionals with profit foremost in mind, which has lead most of the lower-class citizens to be weary of being taken for a fool.
 
 Many of the lower-class citizens are dock workers, or work in one of the various taverns and boarding houses that are sustained by the travelling merchants.
