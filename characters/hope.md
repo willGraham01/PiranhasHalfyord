@@ -47,6 +47,7 @@ She takes great care of all her possessions, and takes her responsibilities very
 - Hope knows that the previous owner had some form of financial debt, which is what pushed him to sell the tavern.
 - Hope believes that Whiskers was a stray that found his way into the tavern, and that Fordem is happy taking him in as a pet.
 - Hope knows that Groubun fashioned Whiskers' collar, though is unaware of its magical properties.
+- Hope carries a keychain with keys to the Day's Rest Tavern, that in particular includes a key for the cellar trapdoor.
 
 ## Statblock
 
