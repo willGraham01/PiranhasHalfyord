@@ -16,6 +16,12 @@ There is of course some overlap between the groups; Faire's position as Ordinato
 Even within these groups, the goals of the characters do not perfectly align.
 For example, Shufharz and Kamonas both want the Piranhas' attacks to stop, but Shufharz is wants to achieve this by getting rid of the remaining Piranhas members once and for all, whilst Kamonas will be happy if they are just driven off.
 
+## Character Profiles
+
+You can find the character profiles for each NPC below.
+Each character has a short backstory, physical description, a summary of their relations to the other characters, and some notes on any plot-relevant knowledge they have.
+Statblocks are also provided, though beyond Carlton, Fordem, and possibly Groubun, those of the other characters should not be necessary.
+
 - Shufharz Gra-Yamarz
 - Milena Kamonas
 - Shark Carlton
@@ -23,4 +29,4 @@ For example, Shufharz and Kamonas both want the Piranhas' attacks to stop, but S
 - Groubun Stoneclimber
 - Jenessa
 - Fordem Chev
-- Hope
+- [Hope](./characters/hope.md)
