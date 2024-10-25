@@ -43,7 +43,7 @@ Like [Groubun](#apprentice--acting-ordinator-groubun-stoneclimber), she has been
 ## Fordem Chev
 
 Owner and barkeeper of The Day's Rest tavern, and a friend of [Groubun](#apprentice--acting-ordinator-groubun-stoneclimber).
-Fordem kept [Hope](#hope) on as a barmaid after purchasing the tavern from its previous owner, and lives in a small private room on the second floor of the building. 
+Fordem kept [Hope](#hope) on as a barmaid after purchasing the tavern from its previous owner, and lives in a small private room on the second floor of the building.
 
 ## Hope
 
