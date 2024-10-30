@@ -1,17 +1,17 @@
 # Background and Plot
 
 In this section you'll find a summary of the plot for the adventure, as well as the the necessary history (or "lore") that will setup the story context.
-You might want to cross-reference names and factions with those that appear in the [corresponding section](FIXME), or use the [appendix](FIXME) as a quick reference.
+You might want to cross-reference names and factions with those that appear in the [corresponding section](./characters.md), or use the [appendix](./appendix/appendix-character-summary.md) as a quick reference.
 
 ## Plot Synopsis
 
 Over the past month, there have been an escalating number of crimes committed against the businesses and citizens of Halfyord.
 These crimes have slowly begun to escalate in scale and boldness, though the town guard have since learnt that The Piranhas are behind the attacks, they are also weary that the gang now seems to be aided by magical means.
-Furthering the mystery is that the point at which these crimes began coincided with the disappearance of the [Ordinator Ron-Ron](FIXME) of the Ordo Magicae.
+Furthering the mystery is that the point at which these crimes began coincided with the disappearance of the [Ordinator Ron-Ron](./characters/faire-ron-ron.md) of the Ordo Magicae.
 
-The Piranhas were thought to have been driven off or eliminated over a year ago, when [Captain Shufharz](FIXME) lead a remarkably successful and coordinated campaign against the gang throughout Halfyord.
-Many high-ranking members were arrested, and the gang's activity all but halted - but their hideout was never discovered and their leader [Shark Carlton](FIXME) never apprehended.
-Since the gang's responsibility for the crimes was discovered, [Governor Kamonas](FIXME) has ordered Shufharz to make stopping the gang her top priority.
+The Piranhas were thought to have been driven off or eliminated over a year ago, when [Captain Shufharz](./characters/shufharz-gra-yamarz.md) lead a remarkably successful and coordinated campaign against the gang throughout Halfyord.
+Many high-ranking members were arrested, and the gang's activity all but halted - but their hideout was never discovered and their leader [Shark Carlton](./characters/shark-carlton.md) never apprehended.
+Since the gang's responsibility for the crimes was discovered, [Governor Kamonas](./characters/milena-kamonas.md) has ordered Shufharz to make stopping the gang her top priority.
 
 However Shufharz is working with limited resources.
 The town guard are not outfitted to deal with large-scale misuse of magic.
@@ -63,8 +63,8 @@ As such, about a year ago he was politically assigned the post of Ordinator at t
 They knew that Faire would view this as a promotion - he would be in charge of the outpost in its entirely, be given the right to transfer to his own lab with an Apprentice, and thus appear to gain a lot of prestige upon his appointment.
 However, those within the Ordo who sponsored his "promotion" knew about the more administrative nature of the role he was getting, which would also get Faire away from the major guildhalls and thus from sucking up all the incoming talent and latching on to their research efforts.
 
-Faire transferred to Halfyord along with his Apprentice, [Groubun Stoneclimber](FIXME), replacing the old Ordinator who moved on to another position within the guild.
-Whilst this has had the intended effect for the rest of the Ordo, it has made Groubun's and the other staff members at the Halfyord outpost - such as [Acolyte Jenessa](FIXME)'s - lives considerably worse.
+Faire transferred to Halfyord along with his Apprentice, [Groubun Stoneclimber](./characters/groubun-stoneclimber.md), replacing the old Ordinator who moved on to another position within the guild.
+Whilst this has had the intended effect for the rest of the Ordo, it has made Groubun's and the other staff members at the Halfyord outpost - such as [Acolyte Jenessa](./characters/jenessa.md)'s - lives considerably worse.
 Faire shirks his administrative duties and frivolously wastes the supplies the outpost procures on his experiments that are going nowhere.
 This leads to Jenessa and the other guild members being "delegated" this work that should be handled by the Ordinator himself.
 Groubun in particular suffers from Faire "leeching" off his work, playing into the academic standard that an Apprentice should include their supervisor in all their academic papers and reports.
@@ -84,12 +84,12 @@ Groubun has become a regular at the Day's Rest Tavern over the past few months, 
 
 ### Broken Teeth
 
-After seeing the writing on the wall during Shufharz' earlier campaign, Shark Carlton and some of his inner circle - notably including [Foredem Chev](FIXME) - started to make contingency plans.
+After seeing the writing on the wall during Shufharz' earlier campaign, Shark Carlton and some of his inner circle - notably including [Foredem Chev](./characters/fordem-chev.md) - started to make contingency plans.
 These higher-ranking members of the gang orchestrated the purchase of The Day's Rest tavern, going to great lengths to acquire the necessary documentation either legally or through more illicit - but untraceable - means.
 The original owner of the tavern was already in debt to the gang due to their extortionate rates on the local businesses, so was easily intimidated into selling for significantly less than the market price in exchange for the erasure of his debt.
 This - if anything - is one of the more obvious clues that the gang may have ties to the tavern itself, however this detail was lost in the corruption of the city administration before Shufharz could stamp it out completely.
 
-The gang have since "amped up" the facade of the tavern front - Fordem runs the bar and is the "legal" owner of the building, and they also made sure to keep the old waitress ([Hope](FIXME)) employed to make the purchase seem like a genuine ownership transfer.
+The gang have since "amped up" the facade of the tavern front - Fordem runs the bar and is the "legal" owner of the building, and they also made sure to keep the old waitress ([Hope](./characters/hope.md)) employed to make the purchase seem like a genuine ownership transfer.
 All of the bouncers employed are gang members however, and most of the taverns rooms are rented out to members of the gang as well.
 They have also undertaken renovations to the cellar of the tavern, fashioning it into a headquarters for the gang which to this day remains their only hideout.
 Shark Carlton resides almost full-time within the hideout and tavern, in hiding due to his prominence in the gang's golden years and being under de-facto house arrest due to fear of being recognised on the streets by the (now better equipped) city guard.
@@ -146,10 +146,10 @@ They reported having to fend off animated beasts seemingly made of silver, jade,
 Whilst the theft was interrupted, no gang members were arrested and part of the treasury was lost - a careless gang member did drop a silver tooth trinket in the escape though.
 Combined with the previous reputation of the Piranhas, this was enough to implicate the gang, and place the finger of suspicion on the conveniently disappeared Ordinator - though Shufharz and Kamonas have little else to go on.
 
-Groubun has also focused the time he has for research on ensuring the plan goes smoothly, fashioning a collar for the now-cat Faire to ward him against dispelling magics, and confining him to wandering the premises of the Day's Rest Tavern.
+Groubun has also focused the time he has for research on ensuring the plan goes smoothly, fashioning a collar for the now-cat Faire to ward him against dispelling magic, and confining him to wandering the premises of the Day's Rest Tavern.
 Hope has taken a liking to Fordem's new pet, which Fordem claims he found as a stray wandering the streets and has taken in.
 This also explains away the bad behaviour of said pet, and the need for a collar.
-Hope does not know the cat is Faire, nor is she aware that the collar wards Faire from external magics and keeps him confined to the Day's Rest.
+Hope does not know the cat is Faire, nor is she aware that the collar wards Faire from external magic and keeps him confined to the Day's Rest.
 Fordem is not thrilled to have Faire wandering his tavern as a pet, but allows it after Faire managed to escape out of the cellar, Hope saw him wandering the upper floors of the Day's Rest, and Fordem needed an explanation.
 
 ### Entrapment
