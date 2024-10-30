@@ -22,11 +22,11 @@ You can find the character profiles for each NPC below.
 Each character has a short backstory, physical description, a summary of their relations to the other characters, and some notes on any plot-relevant knowledge they have.
 Statblocks are also provided, though beyond Carlton, Fordem, and possibly Groubun, those of the other characters should not be necessary.
 
-- Shufharz Gra-Yamarz
-- Milena Kamonas
-- Shark Carlton
-- Faire Ron-Ron
-- Groubun Stoneclimber
-- Jenessa
-- Fordem Chev
+- [Faire Ron-Ron](FIXME)
+- [Fordem Chev](FIXME)
+- [Groubun Stoneclimber](FIXME)
 - [Hope](./characters/hope.md)
+- [Jenessa](./characters/jenessa.md)
+- [Milena Kamonas](FIXME)
+- [Shark Carlton](FIXME)
+- [Shufharz Gra-Yamarz](./characters/shufharz-gra-yamarz.md)

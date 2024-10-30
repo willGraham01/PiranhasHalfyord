@@ -59,6 +59,7 @@ Her commitment to carrying out a task typically wins in a conflict of interest, 
 - Shufharz can direct the party to relevant businesses, services, and stores within Halfyord. For example, the blacksmith or herbalist if needing weapons or medical supplies.
 - Shufharz knows that Piranhas gang members wear silver / gold tooth necklaces, and will identify them as such if shown one.
 - Shufharz' poor relationship with Faire will initially give her the predisposition that he is now willingly involved with the gang's activities, seeing it as a case of an unpopular egotist trying to prove a point.
+  - She will confirm that on the day he reportedly disappeared, he did not show up at the city council meeting, which was out of character for him.
 
 ## Statblock
 
