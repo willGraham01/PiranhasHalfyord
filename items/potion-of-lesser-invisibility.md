@@ -1,0 +1,10 @@
+# Potion of Lesser Invisibility
+
+Rare magic item (potion).
+
+This potion's container looks empty but feels as though it holds liquid, and slooshing sounds can be heard inside the container if it is shaken.
+
+## Ingesting the Potion
+
+Ingesting the entirety of the potion causes a creature to become Invisible for up to 30 minutes, and requires the creature's concentration to maintain.
+The effect ends early if the creature attacks or casts a spell.
