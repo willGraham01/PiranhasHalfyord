@@ -64,9 +64,9 @@ Her commitment to carrying out a task typically wins in a conflict of interest, 
 
 Shufharz's entry to a scene is intended to coincide with the end of a combat, though if the players are particularly persuasive or innovative a situation may arise where she is present to fight with them.
 
-Armour Class: 17 (chain mail, fighting style)
-Hit Points: 51 (6d10 + 18)
-Speed: 30ft.
+- Armour Class: 17 (chain mail, fighting style)
+- Hit Points: 51 (6d10 + 18)
+- Speed: 30ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
