@@ -4,6 +4,7 @@
 
 - Race: Tiefling.
 - Age: Around 23 years old.
+- Gender: Female (she/her)
 - Occupation: Barmaid / waitress
 
 ## Backstory
@@ -53,19 +54,29 @@ She takes great care of all her possessions, and takes her responsibilities very
 
 Hope should not need to get involved in any combats during the story, but if a statblock is required it can be found below.
 
+Armour Class: 10 (unarmoured)
+Hit Points: 4 (2d4)
+Speed: 30ft.
+
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-|  8 (-1) | 10 (+0) | 10 (+0) | 10 (+0) | 10 (+1) | 14 (+2) |
+|  8 (-1) | 10 (+0) | 10 (+0) | 10 (+0) | 12 (+1) | 14 (+2) |
 
-- Proficiencies: persuasion (+2), performance (+2)
+- Proficiencies: Persuasion +2, Performance +2
+- Senses: Passive Perception 11
+- Languages: Common, Infernal
 - Resistances: Fire
+
+### Actions in Combat
+
+**Cantrip:** Hope can cast one of her cantrips as an action.
 
 ### Spellcasting
 
 Hope's Tiefling blood means she innately knows some basic spells.
 Charisma is her spellcasting ability, her spell attack bonus is +2 and her spell save DC is 10.
 
-Hope knows the following cantrips:
+Cantrips:
 
 - Prestidigitation
 - Firebolt
