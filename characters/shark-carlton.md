@@ -55,12 +55,18 @@ However, above all else Carlton values self-preservation and survival - even to 
 
 ## Plot Relevant Knowledge
 
+The party will likely not meet Carlton before most of his information is outdated or useless, as they are not expected to find the Piranhas hideout before the reverse heist at the docks on day 2 of the adventure.
+But for completeness, all of Carlton's knowledge is placed here in case it becomes relevant.
+
 - Carlton obviously knows everything about Faire's disappearance, the magical attacks, and the Piranhas gang that the party might need in the adventure.
   - He knows the terms of the deal with Groubun.
   - He knows Faire is currently a cat, being kept by Fordem. He also knows the antidote that Groubun will administer will wipe Faire's memory of being a cat.
   - He knows that Groubun keeps a key to the magical collar at the Ordo Magicae.
   - He knows the eventual plan is to escape Halfyord and re-establish the gang elsewhere.
 - Carlton carries one of two keys needed to unlock the Piranhas vault.
+  - He also knows that there is a passage through the sewers that leads into the Piranhas vault.
+- Carlton knows the plan of attack for the attack on the docks.
+  - He knows that a number of gang members are staying in the Day's Rest in preparation for the heist in the morning.
 
 ## Statblock
 

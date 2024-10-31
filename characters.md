@@ -23,7 +23,7 @@ Each character has a short backstory, physical description, a summary of their r
 Statblocks are also provided, though beyond Carlton, Fordem, and possibly Groubun, those of the other characters should not be necessary.
 
 - [Faire Ron-Ron](FIXME)
-- [Fordem Chev](FIXME)
+- [Fordem Chev](./characters/fordem-chev.md)
 - [Groubun Stoneclimber](FIXME)
 - [Hope](./characters/hope.md)
 - [Jenessa](./characters/jenessa.md)
