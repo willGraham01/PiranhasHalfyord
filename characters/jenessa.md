@@ -61,9 +61,9 @@ Though as she gets older, she does hold out hope for one final big trip before h
 
 Jenessa is not intended to see any actual combat.
 
-Armour Class: 13 (mage armour)
-Hit Points: 18 (5d6)
-Speed: 25ft.
+- Armour Class: 13 (mage armour)
+- Hit Points: 18 (5d6)
+- Speed: 25ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|

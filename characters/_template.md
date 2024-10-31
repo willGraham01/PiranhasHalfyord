@@ -29,9 +29,9 @@ Goals / ideals, worldviews, fears / vices.
 
 ## Statblock
 
-Armour Class: X (reason, reason)
-Hit Points: XX (YdZ)
-Speed: 30ft.
+- Armour Class: X (reason, reason)
+- Hit Points: XX (YdZ)
+- Speed: 30ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
