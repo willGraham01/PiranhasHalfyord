@@ -27,6 +27,6 @@ Statblocks are also provided, though beyond Carlton, Fordem, and possibly Groubu
 - [Groubun Stoneclimber](FIXME)
 - [Hope](./characters/hope.md)
 - [Jenessa](./characters/jenessa.md)
-- [Milena Kamonas](FIXME)
+- [Milena Kamonas](./characters/milena-kamonas.md)
 - [Shark Carlton](./characters/shark-carlton.md)
 - [Shufharz Gra-Yamarz](./characters/shufharz-gra-yamarz.md)
