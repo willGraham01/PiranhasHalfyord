@@ -39,7 +39,7 @@ It is this kind of motivation that has lead her to trust Shufharz with the day-t
 ## Relations
 
 - Shufharz: Shufharz and Kamonas are as close to friends as their relative occupations will allow. There is a deep, mutual respect between the two of them, even if they might have their disagreements.
-- Faire: Kamonas does not have such a negative opinion of Faire as the other council members and Shufharz, but only because she has experience dealing with people of his ilk in the past. She has identified him as largely incompetent, but nonetheless puts up with him due to the ramifications their falling out would have with the Ordo Magicae.
+- Faire: Kamonas does not have such a negative opinion of Faire as the other council members and Shufharz, but only because she has experience dealing with people of his ilk in the past. She has identified him as largely incompetent, but nonetheless puts up with him due to the ramifications their falling out would have with the Ordo Magicae. Kamonas is usually the only person at council meetings who does not show any outward signs of annoyance at Faire - not that he is able to pick up on these signs from anyone else.
 
 ## Plot Relevant Knowledge
 
@@ -57,7 +57,7 @@ Kamonas should not see any combat during the adventure.
 If she does end up in a hostile situation, she will likely attempt to flee or reach the protection of Shufharz or the town guard.
 If a stat block is called for, a sample one is provided below.
 
-- Armour Class: 10 (unarmoured)
+- Armour Class: 12 (ring of protection (+2))
 - Hit Points: 30 (6d10)
 - Speed: 30ft.
 
@@ -65,14 +65,14 @@ If a stat block is called for, a sample one is provided below.
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 |  8 (-1) | 12 (+1) | 10 (+0) | 17 (+3) | 16 (+3) | 14 (+2) |
 
-- Saving Throws: CHA +5, WIS +6
+- Saving Throws: STR +0, DEX +3, CON +2, INT +5, WIS +8, CHA +7
 - Proficiencies: Deception +5, History + 6, Insight + 6, Persuasion +5
 - Languages: Common, Dwarvish, Elvish
 - Immunities: Magical Sleep
 
 ### Actions in Combat
 
-Kamonas can cast a levelled spell or a cantip on her turn.
+Kamonas can cast a levelled spell or a cantrip on her turn.
 
 ### Spellcasting
 

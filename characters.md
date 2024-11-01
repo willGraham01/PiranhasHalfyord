@@ -1,6 +1,6 @@
 # Characters and Factions
 
-The Piranhas of Halfyord features eight notable NPCs and one major faction - the Piranhas gang itself.
+The Piranhas of Halfyord features eight notable NPCs, one major faction (the Piranhas gang), and one notable cat (Whiskers).
 To avoid spreading character introductions throughout the scenes and plot summary, we have included them here.
 There is also a [spoiler-free character summary](./appendix/appendix-character-summary.md) in the appendix, which can be handed out to players right from the get-go of the adventure (of if you prefer, [after the briefing](FIXME) once the market attack is over).
 
@@ -22,7 +22,7 @@ You can find the character profiles for each NPC below.
 Each character has a short backstory, physical description, a summary of their relations to the other characters, and some notes on any plot-relevant knowledge they have.
 Statblocks are also provided, though beyond Carlton, Fordem, and possibly Groubun, those of the other characters should not be necessary.
 
-- [Faire Ron-Ron](FIXME)
+- [Faire Ron-Ron](./characters/faire-ron-ron.md)
 - [Fordem Chev](./characters/fordem-chev.md)
 - [Groubun Stoneclimber](FIXME)
 - [Hope](./characters/hope.md)
@@ -30,3 +30,4 @@ Statblocks are also provided, though beyond Carlton, Fordem, and possibly Groubu
 - [Milena Kamonas](./characters/milena-kamonas.md)
 - [Shark Carlton](./characters/shark-carlton.md)
 - [Shufharz Gra-Yamarz](./characters/shufharz-gra-yamarz.md)
+- [Whiskers](FIXME)
