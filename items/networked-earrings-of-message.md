@@ -12,3 +12,8 @@ Other restrictions to the spell apply as usual.
 All characters wearing the other earrings in the set, and whom the message can reach, hear the telepathic message when it is sent.
 Characters who cannot receive the message due to obstructions hear static feedback in their ears, but are aware someone has attempted to send a message.
 Characters out of range do not hear anything, nor are they aware a message was sent.
+
+## In the Adventure
+
+Shufharz will give the party a set of these earrings when they meet her at the [docks at night](FIXME), to conduct reconnaissance.
+She will take them back at the conclusion of the adventure.

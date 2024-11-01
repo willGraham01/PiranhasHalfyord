@@ -39,3 +39,8 @@ As an action, the wearer can point at such an invisible creature within 45 feet 
 
 If the source of the creature's invisibility is a spell of 3rd level or greater, the target can make a DC 13 constitution saving throw to resist this effect.
 Succeeding on this save does not grant immunity to the effects of this action, should the ring's wearer try again.
+
+## In the Adventure
+
+Jenessa has been working on constructing the ring, and will give it to the party when they [visit the Ordo Magicae](FIXME).
+She is also capable of recharging the ring for them, but will take it back from the party once the adventure is concluded.

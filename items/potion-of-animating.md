@@ -23,3 +23,8 @@ It can still be analysed by a character with suitable expertise, potentially ide
 A creature that ingests a potion of animating must make a DC 15 Constitution saving throw or take 3d10 poison damage, taking half as much damage on a success.
 This poison damage ignores any resistance or immunities the target may have.
 The creature also receives the Poisoned condition (even if it is normally immune to it) for 1d4 hours.
+
+## In the Adventure
+
+Groubun is manufacturing these potions, along with [potions of lesser invisibility](./potion-of-lesser-invisibility.md), and giving them to the Piranhas.
+The party can recover some of these potions from [the hidden stash](FIXME) at the docks.

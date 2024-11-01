@@ -58,13 +58,13 @@ His speech is akin to a modern politician - trying not to let on that he might n
 
 ## Plot Relevant Knowledge
 
-Faire holds a large amount of useful information, but of course spends the majority of the adventure [as a cat](FIXME) that cannot speak nor be spoken to.
+Faire holds a large amount of useful information, but of course spends the majority of the adventure [as a cat](./whiskers.md) that cannot speak nor be spoken to.
 
 - He knows that Groubun is aiding the Piranhas.
 - He knows the location of the Piranhas hideout, though he does not know how to get in via the vault.
 - He does not fully comprehend Groubun's motivations, and if asked will hypothesise it as jealousy.
 
-Note that if Faire is transformed back into himself by [administering the antidote](FIXME) Groubun has prepared, he will forget everything he experienced as a cat.
+Note that if Faire is transformed back into himself by [administering the antidote](../items/potion-of-corporeal-resetting.md) Groubun has prepared, he will forget everything he experienced as a cat.
 This will include Groubun's responsibility for his transformation, collaboration with the Piranhas, and the location of their hideout.
 
 ## Statblock
