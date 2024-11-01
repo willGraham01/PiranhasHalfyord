@@ -24,7 +24,7 @@ Statblocks are also provided, though beyond Carlton, Fordem, and possibly Groubu
 
 - [Faire Ron-Ron](./characters/faire-ron-ron.md)
 - [Fordem Chev](./characters/fordem-chev.md)
-- [Groubun Stoneclimber](FIXME)
+- [Groubun Stoneclimber](./characters/groubun-stoneclimber.md)
 - [Hope](./characters/hope.md)
 - [Jenessa](./characters/jenessa.md)
 - [Milena Kamonas](./characters/milena-kamonas.md)
