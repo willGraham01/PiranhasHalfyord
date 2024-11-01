@@ -51,10 +51,13 @@ His speech is akin to a modern politician - trying not to let on that he might n
 
 ## Relations
 
-- Groubun: Faire believes he is the greatest thing to happen to Groubun's career, and that Groubun looks up to him as a mentor and research partner.
+- Groubun: Faire believes he is the greatest thing to happen to Groubun's career, and that Groubun looks up to him as a mentor and research partner. Being transformed of course changes this, but he may revert to this state if given [Groubun's antidote](../items/potion-of-corporeal-resetting.md).
 - Jenessa: Faire treats Jenessa as little more than a personal secretary. One of her roles is to keep the guildhall running, so it is natural that the Ordinator be able to delegate tasks to her.
 - Kamonas: Faire sees Kamonas as an equally important member of the town's governing body, and would likely go so far as to say his words carry heavy weight on Kamonas' opinion.
 - Shufharz: Faire Shufharz for a number of reasons; she is not afraid to ask direct questions that he doesn't have the answers to, but is too proud to admit. She is not afraid to call his out on his hastily made-up answers. She is also not a noble-born and does not act with the manners that should be afforded to the city council.
+- Hope: Faire is not fond of his new carer at the Day's Rest, to put it mildly. He does begrudgingly accept that she is his source of food and water, though.
+- Fordem: Faire knows Fordem is a member of the Piranhas, but mostly hates him for his involvement in his present confinement.
+- Carlton: Much like Fordem, although Faire is unaware of who Carlton is, only knowing him as the person who seems to be in charge in the hideout.
 
 ## Plot Relevant Knowledge
 

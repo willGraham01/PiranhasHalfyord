@@ -30,4 +30,4 @@ Statblocks are also provided, though beyond Carlton, Fordem, and possibly Groubu
 - [Milena Kamonas](./characters/milena-kamonas.md)
 - [Shark Carlton](./characters/shark-carlton.md)
 - [Shufharz Gra-Yamarz](./characters/shufharz-gra-yamarz.md)
-- [Whiskers](FIXME)
+- [Whiskers](./characters/whiskers.md)
