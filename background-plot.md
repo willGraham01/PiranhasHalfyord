@@ -167,3 +167,25 @@ As such; they are planning to strike at the shipment they have heard so much abo
 ### The Present Day
 
 The adventure starts one day before the shipment that Shufharz and Kamonas have arranged is due to dock in Halfyord.
+
+## Timeline
+
+A summary of important events that lead up to the present day.
+
+- 5+ years ago: several of Halfyords small-time criminal gangs band together to form the Piranhas. Somewhat influential amongst the new gang's members is [Fordem Chev](./characters/fordem-chev.md), and an up-and-coming [Carlton](./characters/shark-carlton.md).
+- 5 years ago: [Hope](./characters/hope.md) arrives in Halfyord and eventually finds work at the Day's Rest Tavern.
+- 3.5 years ago: Carlton, with the backing of Fordem, makes a power play for control of the Piranhas gang and comes out as the undisputed leader.
+- 3 years ago: the Piranhas become the criminal gang largely in control of Halfyord's illicit trades. They start to expand their influence into the city elite, and tightening their grip on the local businesses and trade caravans / fleets.
+- 2.5 years ago: the Piranhas are in de-facto control of Halfyord. The local Lord takes note and begins an investigation, recalling [Kamonas](./characters/milena-kamonas.md) from her current assignment.
+- 2 years ago: Sufficient evidence of corruption is bought against Halfyord's governor, who is deposed in favour of Kamonas. Kamonas appoints [Shufharz](./characters/shufharz-gra-yamarz.md) as head of the city guard and the two set to work dismantling the Piranha's operation.
+- 1.75 years ago: Fordem Chev strong-arms the owner of the Day's Rest into selling to the Piranhas, keeping the transaction largely above board where possible. Seeing the way the wind is blowing, he and Carlton begin the process of creating a new base of operations - and hideout - with the tavern as a front, to avoid arrest and execution.
+- 1.5 years ago: The Piranhas have ceased to be an effective force, and have lost their grip on Halfyord. The remaining members go into hiding, with Fordem assuming the alias of a barkeep at the Day's Rest to disguise Carlton's new hideout. They conduct small-scale petty theft, but are careful not to draw more attention to themselves and have lost the ability to conduct operations on the scale they had before.
+- 1.25 years ago: [Faire Ron-Ron](./characters/faire-ron-ron.md) is promoted to the position of Ordinator and moves to Halfyord with his Apprentice, [Groubun Stoneclimber](./characters/groubun-stoneclimber.md). They join the existing staff, including long-serving member [Jenessa](./characters/jenessa.md), at the Ordo Magicae guildhall.
+- 6 months ago: Faire has managed to annoy almost all of the city council and the staff at the Ordo through his personality and attitude. Groubun has taken to venting his anger at the Day's Rest, which is a tavern he frequents.
+- 2 months ago: Fordem invites Groubun to a meeting with Carlton, to discuss how they can help each other.
+- 5-6 weeks ago: Groubun administers Faire a potion of polymorph, and delivers him to the Piranhas, along with potions and other equipment to aid their activities.
+- 5 weeks ago: Faire's disappearance is widespread news in Halfyord. The Ordo Magicae is cooperating with the town guard's investigation, and Groubun is acting as Ordinator temporarily.
+- 4 weeks ago: The Piranhas restart their criminal activities in ernest. Things start off small, but gradually escalate as it becomes clear the guard do not have a ready way to counter the new threat.
+- 1 week ago: The Piranhas make their attempt on the town treasury. Though partially successful, the gang does implicate themselves as the perpetrators of the recent crime spree.
+- 1 week ago: Shufharz begins preparations for her plan to track down the Piranhas base of operations, though it will not be ready for some time.
+- Present day: The Piranhas conduct an audacious attack on the Great Market Square, in broad daylight.
