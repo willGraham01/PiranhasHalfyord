@@ -41,7 +41,7 @@ They can also be rewards, for example buttering Groubun up in the Ordo might imp
 
 ## List of Scenes
 
-1. The Market Attack
+1. [The Market Attack](./scenes/01-the-market-attack.md)
 2. Hired Help
 3. Visiting the Ordo Magicae
 4. Scouting the Docks (night)
