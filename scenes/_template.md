@@ -18,6 +18,8 @@ The party can also obtain the following information:
 
 ## Setting
 
+This scene takes place in: LOCATION
+
 Description of the area the scene takes place in, when the party arrives.
 
 ## Event 1

@@ -32,6 +32,8 @@ For example, a character might be haggling with a shopkeeper and have their rece
 
 ## Setting
 
+This scene takes place in: The Great Market Square.
+
 It is mid-afternoon and the square is busy with the afternoon business spike, before it dies down during the evening.
 There is the faint sound of dockworkers and ships, alongside gulls and other waterfowl, coming from the docks.
 A number of merchants have their wares laid out on movable carts, or rugs and blankets on the ground.
@@ -143,4 +145,4 @@ Regardless, she will promise a reward for helping and more information if the pa
 
 ## Next Scenes
 
-The party should proceed to [Hired Help](FIXME) after this scene.
+The party should proceed to [Hired Help](./02-hired-help.md) after this scene.
