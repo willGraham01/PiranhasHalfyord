@@ -20,6 +20,8 @@ The wealthier citizens typically reside on the west bank, in slightly grander de
 The elite live in mansion houses that line the main street running from the market square to the magistrates office.
 All businesses that are based in the town and have a permanent premises are found on this side of the river too.
 
+FIXME: places that are very plot relevant, need maps or descriptions should have their own pages w/ links to resources if available. EG ordo magicae needs ot have the lab and upper floors described!
+
 ## The Docks
 
 Situated on the west bank of the river are the docks, with the commercial docks being separated from the merchant docks by the bridge.
