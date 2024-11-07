@@ -43,9 +43,9 @@ They can also be rewards, for example buttering Groubun up in the Ordo might imp
 
 1. [The Market Attack](./scenes/01-the-market-attack.md)
 2. [Hired Help](./scenes/02-hired-help.md)
-3. Visiting the Ordo Magicae
-4. Scouting the Docks (night)
-5. The Day's Rest Tavern
-6. Planted Cargo
-7. Infiltrating the Hideout
-8. Conclusions
+3. [Visiting the Ordo Magicae](./scenes/03-visiting-the-ordo-magicae.md)
+4. [Scouting the Docks (night)](./scenes/04-scouting-the-docks.md)
+5. [The Day's Rest Tavern](./scenes/05-the-days-rest-tavern.md)
+6. [Planted Cargo](./scenes/06-planted-cargo.md)
+7. [Infiltrating the Hideout](./scenes/07-infiltrating-the-hideout.md)
+8. [Conclusions](./scenes/08-conclusions.md)
