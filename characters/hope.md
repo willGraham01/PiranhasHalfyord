@@ -1,53 +1,82 @@
 # Hope
 
+## At a Glance
+
+- Race: Tiefling.
+- Age: Around 23 years old.
+- Gender: Female (she/her)
+- Occupation: Barmaid / waitress
+
 ## Backstory
 
-A orphan from the big city, Hope works as a server at the Day's Rest and lives in a room that is rented out to her as part of her pay.
+A orphan from the big city, Hope works as a barmaid and waitress at the Day's Rest, living in a room that is rented out to her as part of her pay.
 
 Growing up in an orphanage in the larger city of the region, Hope never knew her parents and never had many possessions to call her own.
 She started working small jobs in the city before reaching adulthood, and used the savings she'd earned to travel with a merchant ship.
-This got her as far as Halfyord, where the ship's captain had recommended she look for a job knowing the amount of wealth that flowed through the town.
+This got her as far as Halfyord, where the ship's captain and crew recommended she look for work in the town, knowing the amount of wealth that flowed through it.
 
-Hope has been in Halyford for the better part of 5 years (making her ~23 years old) but only working at the Day's Rest for half of that time.
-She is a fairly open and upbeat person, though the trials of working to eek out a living have taken their toll on her.
+Hope has been in Halfyord for the better part of 5 years, making her around 23 years old.
+She has been working at the Day's Rest of most of that time, content with a job that provides 3 meals a day and modest living arrangements.
+She is a fairly open and upbeat person, contrary to what the more ignorant citizens might expect from a Tiefling.
 She looks after all of her (few) personal possessions incredibly well, and is very resourceful when it comes to making use or recycling old materials.
 
 ## Appearance & Personality
 
 Hope wears simple clothes that hide their wear and tear incredibly well - although on closer inspection it will be clear that repair work has been necessary.
 Whilst working she wears a practical belt with a couple of cloths hanging off, and a keychain.
-She stands around 5"5', and has purple skin and long black hair tied back into a ponytail whilst working, and that hangs loose over her shoulders when not.
-Tieflings have no pupils, so her eyes are a solid white and her tail is pointed at the end.
-Her face still looks rather young - having not quite lost that childish roundness - but her horns are fully-formed and curl back on themselves and point backwards over her head.
+
+She stands around 5"5', and has purple skin and long black hair which she ties back into a ponytail whilst she is working during the evenings, and that hangs loose over her shoulders when not.
+Tieflings have no pupils, so her eyes are a solid white, and her tail is pointed at the end.
+Her face still looks rather young - having not quite lost its childish roundness - but her horns are fully-formed and curl back on themselves and point backwards over her head.
 
 Hope is friendlier than the average person, but still reserved around people she does not know.
 She has a couple of friends in Halfyord, and keeps up a friendly demeanour when serving the patrons of the tavern.
-When she speaks, it can be a mixture of half-completed thoughts if she is excited, or a cold and serious tone if she is not happy.
+If she is excited or anxious, her speech has a habit of coming out as a stream of half-conceived thoughts.
 
-Hope aims to have a place and trade / business to call her own someday, and believes that the only way to achieve that is through effort - as much as it is taking its toll.
-She takes great care of all her possessions and takes her responsibilities very seriously.
+Hope aims to have a place and trade / business to call her own someday, and believes that the only way to achieve that is through effort.
+She takes great care of all her possessions, and takes her responsibilities very seriously.
 
 ## Relations
 
-Fordem is Hope's employer, though she is oblivious to his criminal associations - and that of the tavern in general.
-She has been working there long enough to remember the previous owner who was persuaded to sell out about a year and a half ago.
-Hope is very protective of Whiskers, the name she has given to Faire Ron-Ron's cat form whose real nature she is again oblivious to - she sees his behaviour as a reflection on herself, but also can't really bring herself to impose any kind of discipline.
-Groubun is only known to Hope through his connection to Fordem - she has seen him visit the tavern fairly frequently but never had anything close to a conversation.
+- Fordem: Fordem is Hope's employer. She is oblivious to his criminal associations - and that of the tavern in general.
+- Faire: Hope is very protective of Whiskers, the name she has given to Faire Ron-Ron's cat form whose real nature she is also oblivious to. She is very exciting to have some shared responsibility of Fordem's pet, but can't really bring herself to impose any kind of discipline.
+- Groubun: Groubun is only known to Hope through his connection to Fordem. She has seen him visit the tavern fairly frequently and knows he is a regular, and works at the Ordo from what Fordem has mentioned in passing. But she has never had anything close to a conversation.
 
+## Plot Relevant Knowledge
+
+- Hope was hired by the previous owner of the Day's Rest, before Fordem took over and kept her on.
+- Hope knows that the previous owner had some form of financial debt, which is what pushed him to sell the tavern.
+- Hope believes that Whiskers was a stray that found his way into the tavern, and that Fordem is happy taking him in as a pet.
+- Hope knows that Groubun fashioned Whiskers' collar, though is unaware of its magical properties.
+- Hope carries a keychain with keys to the Day's Rest Tavern, that in particular includes a key for the cellar trapdoor.
 
 ## Statblock
 
-Hope's Tiefling bloodline grants her some innate magical abilities.
+Hope should not need to get involved in any combats during the story, but if a statblock is required it can be found below.
 
-STR: 8 (-1)
-DEX: 11 (+0)
-CON: 10 (+0)
-INT: 10 (+0)
-WIS: 10 (+0)
-CHA: 14 (+2)
+- Armour Class: 10 (unarmoured)
+- Hit Points: 4 (2d4)
+- Speed: 30ft.
 
-Proficiencies: persuasion (+2), performance (+2)
+|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  8 (-1) | 10 (+0) | 10 (+0) | 10 (+0) | 12 (+1) | 14 (+2) |
 
-Resistances: Fire
+- Damage Resistances: Fire
+- Proficiencies: Persuasion +2, Performance +2
+- Senses: Passive Perception 11
+- Languages: Common, Infernal
 
-Spell-casting: prestidigitation (cantrip)
+### Actions in Combat
+
+**Cantrip:** Hope can cast one of her cantrips as an action.
+
+### Spellcasting
+
+Hope's Tiefling blood means she innately knows some basic spells.
+Charisma is her spellcasting ability, her spell attack bonus is +2 and her spell save DC is 10.
+
+Cantrips:
+
+- Prestidigitation
+- Firebolt
