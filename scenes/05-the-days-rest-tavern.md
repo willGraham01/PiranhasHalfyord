@@ -54,34 +54,84 @@ There is some seating at the bar - Groubun will be at one stool, talking to Ford
 The mezzanine level will have a live band playing, whilst on the main floor Hope will be serving drinks and food, or preparing such in the kitchen.
 Whiskers will be walking around in his usual plight, but will start in the kitchen until he realises Fordem and Groubun are present.
 
-## Event 1
+## Arriving at the Tavern
 
-## Event 2
+There will be a bouncer at the door who will insist on taking the party's weapons before they enter.
+Mention that there looks to be a fairly secure cabinet located just to the side of the entrance that already houses weapons of varying degrees of care and sophistication, to ease the party's worries.
+The bouncer will also take obvious magical foci; such as staffs, crystal balls, wands etc off the party members too.
+He will not take away magical foci that are not used by Wizards - such as druidic foci used by rangers or druids, an artificer's tools, or the holy symbol of a paladin or cleric (unless this is attached to a weapon or shield, of course).
+If one member of the party has their magical focus taken away, and another does not, have each character in the party roll either an insight or arcana check:
 
-## Combat Encounter
+- (Insight DC 12) When asking for the party's weapons, the bouncer did not ask for the magical foci with the same fluency or professionalism, almost like he was having to remember what to list off or isn't familiar with these items.
+  - 17+: The character clocks that the magical foci not confiscated are the those that are typically used by Wizards or Artificers.
+- (Arcana DC 12) The character clocks that the magical foci not confiscated are the those that are typically used by Wizards or Artificers.
+  - 17+: The character also clocks that the way the magical foci were listed was very illogical, as if the bouncer was trying to remember all the items on a list but had to skip over some entries and fill in the gaps later.
 
-Short summary of the combat encounter.
+The bouncer will not let the party into the tavern without them surrendering their weapons and foci.
+They can of course attempt to smuggle weapons or foci into the tavern, or they can attempt to convince the bouncer they should be allowed to take "holdout" weapons (such as daggers or small clubs) in for self-defence reasons.
 
-### Encounter Information
+- (Stealth DC 16) To smuggle a small concealed weapon, such as a dagger, light hammer, etc, in without the bouncer noticing.
+  - Increase the DC of this check for more obvious weapon-smuggling attempts.
+- (Persuasion DC 17) The bouncer can be convinced to let the party take holdout weapons into the tavern, but will still insist on taking their other weapons and foci.
 
-Trigger:
-Intended difficulty:
+Once inside the tavern, the party have several options.
+Have them all make a perception check as they enter the tavern:
 
-Participants based on party size:
+- (Perception DC 8) A character can notice Groubun at the bar, talking to the bartender (Fordem).
+  - 10+: If they stay standing in the doorway for a while, they might draw the attention of the patrons - in particular Groubun - which may be detrimental to the party's objectives. They may want to find somewhere to sit.
+  - 12+: There is a game of cards being played out on one of the tables in the common area. It seems that a round has just finished and several of the players are leaving the table, opening up space for new players to sit.
+  - 14+: There looks to be a small ring of chalk on the floor in one corner of the common area, where there is a small crowd and a bookie. Two people who look like tavern brawlers look like they are participating in fisticuffs.
+  - 16+: There is a small table of patrons who look like they have been at the end of the their drinks for a while, and will be leaving a free table soon.
+  - 17+: Music can be heard from the upper mezzanine level, and there looks to be a fairly large crowd up there enjoying the performance.
 
-| Party size | Enemy 1 | Enemy 2 | Other adjustments |
-|:-:|:-:|:-:|-|
-| 3- |  |  |  |
-| 4  |  |  |  |
-| 5  |  |  |  |
-| 6+ |  |  |  |
+The party will of course still be in the tavern entryway at this point, and if they dawdle for too long there Fordem, Groubun, Hope, or a patron of the tavern will draw attention to them for just standing around in the entryway and blocking the door.
+Depending on how the check above went, the party might attempt to blend in by joining the game of cards going on at one table, or to head up to the mezzanine level to "enjoy" the music, or attempting to secure the soon-to-be-empty table.
+Specific party members may also have other means of blending in (a bard might try to join the band playing, for example).
+Wherever the party decides to blend in, have them roll a group stealth check (DC 10) to avoid Groubun's attention.
 
-Enemy Objectives:
+If the party elects to confront Groubun, he will claim to be visiting Fordem (on his way to the temple, if the bottles are questioned).
+Fordem will come across to "save" him a short way into this conversation, and attempt to lead him into the kitchen to later get him into the cellar. Interacting directly with Groubun in any way causes him to gain a suspicion point.
+He also gains this suspicion point if he becomes aware of the party's presence in the tavern (and this stacks with the point he may have acquired from noticing the party tailing him).
 
-### Initial Locations
+From here, there are several events that can happen.
+It is a good idea to alternate resolving "serious" / "plot relevant" events with "role-playing" / flavourful events to give some idea of the passage of time or activities.
+You can even have the role-playing events give benefits or hindrances to the other events, depending on how the party acts in each.
 
-### Other Encounter Factors
+The plot relevant ("PR") events are:
 
-### Loot
+FIXME these ToCs auto-format!!
+- [Meeting Whiskers](#meeting-whiskers).
+- [Groubun's Visit](#groubuns-visit).
+- [Poking Around](#poking-around).
+- [Don't tread on the fish](#dont-tread-on-the-fish).
 
-### Notes
+whilst the role-playing ("RP") events are:
+
+- [A Game of Cards?](#a-game-of-cards)
+- [Fighting Ring](#fighting-ring)
+- [An Admirable Performance](#an-admirable-performance)
+
+## Meeting Whiskers
+
+## Groubun's Visit
+
+## Poking Around
+
+## A Game of Cards?
+
+Joining the table with the card game going offers the opportunity for some gambling.
+If you have a means of simulating a dice game, then feel free to use this here.
+The other players - patrons of the tavern - each only have around 5 SP to play with (total, for the entire playing session).
+But you can decide how many of them are at the table at any one time, and can have those who are out of money leave and be replaced with other people coming in.
+
+We provide a [sample game in the appendix](../appendix/appendix-dice-games.md) if you need some inspiration for something to simulate with.
+
+## Fighting Ring
+
+## An Admirable Performance
+
+karaoke
+
+## Don't Tread on the Fish
+
+(gang ambush after leaving)

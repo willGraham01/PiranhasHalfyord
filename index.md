@@ -18,3 +18,4 @@ Each scene also tries to provide enough investigative / social angles so that ev
 - [Appendix: Monster Stat Blocks](./appendix/appendix-monster-stat-blocks.md)
 - [Appendix: Custom Items](./appendix/appendix-custom-items.md)
 - Appendix: Sample Player Characters
+- [Appendix: Dice Games](./appendix/appendix-dice-games.md)
