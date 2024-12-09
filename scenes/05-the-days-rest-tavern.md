@@ -100,6 +100,7 @@ You can even have the role-playing events give benefits or hindrances to the oth
 The plot relevant ("PR") events are:
 
 FIXME these ToCs auto-format!!
+
 - [Meeting Whiskers](#meeting-whiskers).
 - [Groubun's Visit](#groubuns-visit).
 - [Poking Around](#poking-around).
@@ -113,9 +114,89 @@ whilst the role-playing ("RP") events are:
 
 ## Meeting Whiskers
 
+If the party seats themselves and watches Groubun, after a short while Whiskers will jump onto the bar and start his usual hissing and bottle pushing at the people who imprisoned him.
+This activity can also be used as an escape for Groubun if a character has decided to confront him.
+Fordem will attempt to grab Whiskers to stop him from causing more damage (mimic a check to grab the cat) but Whiskers will be too quick and jump onto the tavern floor.
+Fordem will shout for Hope, who will either by in the kitchen or serving drinks, to get the cat under control and lead Groubun away from the bar.
+
+- (Athletics) (Sleight of Hand) (CONTESTED: Whiskers' acrobatics (+3)) A character can meander through the busy tavern to catch Whiskers before Hope does.
+
+If no-one from the party manages or tries to catch Whiskers, Hope will try to catch him and will be successful after a minute or two.
+Local patrons will laugh, and if Whiskers stops on a table they will try to pet him.
+If the party didn't try to catch Whiskers, have him run to wherever the party has based themselves, so Hope can catch up to him there.
+
+- (Athletics) (Sleight of Hand) (CONTESTED: Whiskers' acrobatics (+3)) The party manages to protect their drinks from the marauding cat.
+
+Hope will apologise to the party when she catches up to Whiskers, which offers an opportunity for the party to ask her about where the cat came from and the history of the tavern.
+She'll remark that he's still getting used to his new home, and so is she to being a pet owner.
+Hope is genuinely unaware of Whiskers' true identity.
+The party might ask for more information, which she'll happily provide:
+
+- Hope found "Whiskers" out inside the tavern one day - Fordem emerged from the cellar looking for him and Hope persuaded Fordem to keep him as the tavern cat.
+  - The reality is that Whiskers had escaped his cage inside the hideout and was making a break for it, but was inadvertently stopped by Hope after Fordem gave chase.
+  - Fordem didn't have a good excuse for not keeping the cat, since he cound't throw Whiskers out given he was supposed to be their prisoner, but couldn't just take him down into the cellar without an explanation.
+- Since then, he's taken a liking to Hope but has refused to get along with Fordem.
+  - If asked about the collar, Hope will mention that Fordem had his friend from the "magic shop" make it. Fordem said it keeps Whiskers near the tavern at all times.
+  - If asked about who made the collar, Hope will happily point out Groubun at the bar (if he's still there) and say it was his work.
+
+If the party's drinks were spilled, Hope will use prestidigitation to clean the table and party member's clothes, if necessary.
+After the conversation peters out, Hope will leave to get back to her job and make a remark that Whiskers seems settled now.
+The party can continue to interact with Whiskers, but the Confining collar will prevent any beneficial spell-casting.
+
+- (Arcana DC 10) (Only if Hope cast a spell) Hope's casting of prestidigitation is innate, which makes sense because she is a tiefling.
+  - 12+: (Only if the party has inferred the gang relies on potions and is not inherently full of magically gifted members) This is not like the potion use that was observed at the market, where the perpetrators relied on items and potions to grant magical abilities.
+
+Whiskers will take a liking to any members of the party that display magical talents or magical equipment, in particular the character who is wearing Jenessa's ring (if any).
+Attempting to pet Whiskers will see him try to avoid this and move away (he's still a prickly elven wizard underneath the cat skin!) and he likewise will not eat any of the cat feed that Hope will offer to the party to give to him.
+He will eat "human food" if a party member attempts to feed him that.
+
+Through interacting with Whiskers, the party might notice:
+
+- The [Confining Collar](../appendix/appendix-custom-items.md#confining-collar) he is wearing.
+  - (Arcana DC 15) (ADV: The design was noted in the Ordo) To identify it as being similar if not identical to the design Groubun had in the lab.
+- During the conversation with either Hope, or after Hope has left Whiskers with the party at their table / seats and the party talks amongst themselves:
+  - (Animal Handling DC 12) Whiskers' movements seem to be slightly janky for a cat, if such a thing is possible. He's agile, but doesn't seem to settle on the table like a normal cat does for example. Over time, a character might notice he doesn't groom himself either.
+  - (Animal Handling DC 14) (Insight 17) Whiskers moves his head to follow the conversation at the table, rather than being ambivalent.
+- If attempting to cast a spell on Whiskers unsuccessfully - the collar's runes appear to glow, then fade as the magic dissipates. Whiskers will react excitedly, almost hopeful.
+  - (Arcana DC 15) (Auto: Identify spell) The collar appears to do more than what Hope has said it does, appearing to shield Whiskers from most external magic sources. This check and the identify spell do not reveal the full extent of the enchantment however, due to the nature of said enchantment itself.
+- Whiskers also understands common, but is obviously unable to communicate in it back to the party.
+  - He can respond with yes / no answers via some combination of winking, paw pats, tail waggling, etc, but only if the party picks up on his odd behaviour and asks these questions of him.
+
 ## Groubun's Visit
 
+Groubun will be at the bar when the party enters the tavern, already talking to Fordem.
+They are waiting for an opportunity to head into the cellar so Groubun can drop his bag of potions off.
+
+Interacting directly with Groubun awards him a suspicion point and triggers the encounter in [don't tread on the fish](#dont-tread-on-the-fish).
+
+- His excuse for not being at the temple will be weak at this point, but he'll say that he feels Jenessa judges him for how often he goes out drinking each evening and so covers up where he's going from time to time.
+- Directly grilling Groubun in this way gives another suspicion point *on top of* the one gained from just talking to him initially.
+
+If instead a character plays the part of a rude patron and hails for Fordem's attention whilst he's conversing with Groubun, Fordem will respond cordially and ask for a moment.
+If the character persists, he will call for Hope to see to the patron.
+The DM can also introduce Whiskers at this point as a means of freeing up Fordem and Groubun.
+
+Whilst the party interacts with Hope and Whiskers, Groubun will be smuggled into the hideout via the kitchen by Fordem.
+
+- (Perception DC 19) (DIS: Character is distracted by Whiskers or Hope) The character notices Fordem letting Groubun into the kitchen, with his satchel bag. Fordem then returns to the bar.
+
+If a player was actively looking or watching Groubun from another location in the tavern:
+
+- (Stealth DC 20) (Perception DC 15) (DIS: The character has directly interacted with Groubun or Fordem) Fordem seems to glance around the tavern, before indicating to Groubun to head into the kitchen.
+
+Regardless if the party sees Groubun slip away, Fordem will claim he dropped off part of his tab he'd promised to repay, stopped for a short conversation, then headed off.
+Fordem will provide a generic excuse that doesn't match Groubun's "temple delivery" excuse from earlier in the day; something along the lines of "Groubun headed back, said he had some magic script to work on or something" or to that effect.
+
+If the party stays at the tavern for another hour, they can repeat the perception check from before to notice Groubun slipping out of the cellar and the tavern.
+He will be heading back to the Ordo to sleep if the party elects to follow him again.
+
 ## Poking Around
+
+FIXME
+
+- fordem bill of sale
+- rooms upstairs rented out?
+- kitchen + cellar?
 
 ## A Game of Cards?
 
@@ -128,10 +209,76 @@ We provide a [sample game in the appendix](../appendix/appendix-dice-games.md) i
 
 ## Fighting Ring
 
+In one corner of the common area will be a small fighting ring with a book-keeper and what looks to be a few combatants.
+The majority of the fighters are gang members, but some are just burlier dock workers or locals from the neighbourhood.
+
+- (Perception DC 20) A character notices the gang necklace hanging from the book-keeper's neck.
+
+If approached, the book-keeper will explain that the fights are semi-recreational.
+Combat is non-lethal, no weapons or magic, and lasts until blood is drawn on one side or a combatant yields the contest.
+Anyone can enter as a fighter, and spectators tend to place bets on the victor - he will point out a chalkboard which appears to have a few names on it along with some odds.
+Fighters receive a payout for winning, proportional to the total amount that was bet on the fight.
+Newcomers are wildcards, so the book-keeper will only be willing to offer 5 SP for a character volunteering to fight.
+
+- (Persuasion DC 15) To haggle for an increased rate. Give 1 additional SP equal to the check total minus 15. Getting 15 exactly will have the book-keeper increase the rate to 6 SP for the second fight the character takes part in.
+
+Characters can sign up for further bouts, so long as they continue to be successful.
+Over time, the spectators will start to back a successful fighter over some of the regulars.
+If multiple player characters want to get involved, have the book-keeper explain that team bouts are also supported, with the same rules.
+
+### Terms of Engagement
+
+The rules for a single fight in the ring are as follows:
+
+- No weapons or magic allowed. Only unarmed strikes (punches, kicks, headbutts, etc) are permitted.
+  - Characters that have features that improve their unarmed strikes still benefit from these features during the fight, if they are eligible.
+- Armour has to be removed prior to engaging. Most fighters will also remove loose clothing like shirts to better enable freedom of movement.
+  - (Perception DC 12) (Participating in a fighting vs a gang member) The character's opponent has removed their shirt, exposing a silver necklace that Piranha's gangs carry.
+- A character's armour class for the fight is equal to **5** plus either their constitution or dexterity modifier (character's choice).
+  - Characters with the "unarmoured defence" class or species traits may continue to use these features to calculate their armour class if they still qualify for them.
+- A character's hit points total for the fight is equal to either their constitution or dexterity score. A player decides which to use at the start of a fight and may not change their decision during the fight.
+  - Constitution represents a fighting style that relies on taking hits in a sensible / hardy way without drawing blood.
+  - Dexterity represents a more graceful fighting style of parrying or dodging the opponent's attacks.
+
+Combatants then roll initiative and fight 1-on-1 as per the usual combat rules, with the character being reduced to 0 "hit points" being the one to draw blood first.
+A character can of course concede the contest on their turn, or attempt to persuade their opponent into doing so.
+For every round of combat that passes, both combatants gain progressive +1 bonuses to their attack rolls, representing the fatigue of fighting in close quarters (and mechanically, to speed up the combat!).
+
+Team fights use the same rules, save that all members of one team must yield or draw blood before one team claims victory.
+Team members that draw blood or yield are removed from the fight when they do (potentially introducing a numbers advantages).
+
+Violating any of the above rules, or cheating / interfering with a fight, causes an instant loss and has repercussions (the offenders may be thrown out of the tavern, the book-keeper might demand a fee, etc).
+
+### Rewards
+
+A successful fighter earns their fee as negotiated with the book-keeper.
+
+Party members that bet on fights and won get double their original bet back (maximum payout of 5 GP).
+If a party member bet on another party member (IE on a newcomer fighter) who won, they win back 1.5 times their original bet.
+
+There is also the opportunity to notice the Piranhas members that are participating.
+
+If the book-keeper looses more than 5 GP in payouts to either a newcomer fighter or a character betting on the newcomer, [don't tread on the fish](#dont-tread-on-the-fish) will trigger.
+
+### Potential Opponents
+
+When starting a fight, roll a d20 and consult the list below for the opponent's (relevant) stats:
+
+- 1: Total HP: 4, +0 to hit, AC 5.
+- 2-7: Total HP: 10, +2 to hit, AC 8.
+- 8-15: Total HP: 13, +2 to hit, AC 10.
+- 15+: Total HP: 17, +3 to hit, AC 11.
+
+On a roll of 5+, the opponent is a Piranhas gang member in plain clothes.
+
 ## An Admirable Performance
 
+FIXME
 karaoke
 
 ## Don't Tread on the Fish
 
 (gang ambush after leaving)
+
+- Groubun talk
+- Fighting and swindling the book-keeper
