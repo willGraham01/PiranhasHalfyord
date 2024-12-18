@@ -1,4 +1,4 @@
-# Scene name
+# The Day's Rest Tavern
 
 The party trails Groubun from the Docks, suspicious of where he is heading.
 
@@ -110,7 +110,6 @@ whilst the role-playing ("RP") events are:
 
 - [A Game of Cards?](#a-game-of-cards)
 - [Fighting Ring](#fighting-ring)
-- [An Admirable Performance](#an-admirable-performance)
 
 ## Meeting Whiskers
 
@@ -192,11 +191,105 @@ He will be heading back to the Ordo to sleep if the party elects to follow him a
 
 ## Poking Around
 
-FIXME
+Beyond the social interactions available in the large common area, there are a few other pieces of information that can be found by searching the off-limits areas of the tavern.
 
-- fordem bill of sale
-- rooms upstairs rented out?
-- kitchen + cellar?
+Amongst other consequences, the party getting caught will trigger the encounter in [Don't Tread on the Fish](#dont-tread-on-the-fish).
+
+### Guest Rooms
+
+The bathrooms to the tavern are located on the upper level, just before the corridor that leads to the guest bedrooms.
+Hope's room is the furthest room from the bathrooms, and the rest are rented out to guests - though they are currently all being using by gang members in preparation for the heist tomorrow.
+The corridor to the guest rooms is unguarded and public, though characters will get suspicious of someone walking along or loitering in the corridor if they notice such behaviour.
+
+Breaking into any of the guest bedrooms requires either appropriate tools to pick the lock, or the key.
+
+- (Sleight of Hand / Thieves' Tools DC 13) Pick the lock to a guest room.
+
+Fordem has a master key on his person, and the bouncer (at the tavern entrance) and the gang-member [ring fighters](#fighting-ring) and book-keeper are also Piranhas members who have a key to their respective rooms.
+
+Unless events in the common area transpire that way, none of the guests (gang members) will be in their rooms to be on the receiving end of an unexpected interruption.
+The rooms don't have any explicit clues, but there is some circumstantial evidence that may contradict Fordem's assertion that the tavern is sold out tonight:
+
+- (Investigation DC 12) Examining a guest room for a few minutes reveals that it looks like the occupant is travelling without any baggage. The wardrobes / chest of draws are empty, as there are no books / bags etc placed in the room.
+
+Hope's room is at the far end of the corridor.
+Only Hope and Fordem (via his master key) have a key to the lock, but it can also be broken into with suitable tools:
+
+- (Sleight of Hand / Thieves' Tools DC 15) To pick the lock to Hope's room.
+
+Hope's room is a contrast to the guest rooms, since she lives there.
+The wardrobe contains spare work attire, plus more casual outfits and a slightly more elegant looking outfit that serves as Hope's formal attire.
+There are books, letters, and other personal belongings scattered throughout the room too.
+A desk in the corner has some opened letters on it, and a locked drawer that contains Hope's savings.
+
+- (Investigation DC 10) Examining the desk will draw a character to a letter that Hope received around 6 months. It appears to be correspondence with an acquaintance.
+  - This is a letter from the Day's Rest's previous owner, who Hope has been in sporadic contact with since they sold the tavern. It will talk about how they're back on their feet and have partnered with a landlord in another city to open a new tavern. From the general tone of the letter, it sounds like the writer was in financial trouble and has only just started to climb out of it.
+  - 17+: A character notices the locked draw of the desk.
+  - (Sleight of Hand / Thieves' Tools DC 18) (AUTO: Hope's Key) To pick the lock to the locked draw.
+    - In the draw will be 2d10 GP, some of which will be in silvers. There will also be a small piece of parchment written by Hope that just says "savings goals" and has a small list of things that Hope is saving up for; a trip / holiday to a nearby city, jewellery or other accessories, etc. It also contains memos reminding her to ask Fordem for time off.
+
+### Fordem's Room
+
+At the intersection of the wall that hosts the tavern door and wall that the bar backs onto is a staircase (containing utility items like brooms, cleaning supplies, rat poison, etc) that leads to a 2nd-level room that was designed to house the tavern owner.
+Fordem sleeps in this upper room, and uses the room as his office when keeping up his tavern owner front, but uses the hideout to store most of his possessions.
+
+The door to the stairwell is also marked with a "staff only" sign, but is not itself locked.
+The bouncer, as well as Fordem and Hope, will chastise characters they catch attempting to access the area, and may throw them out of the tavern.
+If Groubun is still at the bar when a character is noticed attempting this, he gains a point of suspicion if he hasn't already gained one this scene.
+
+The door to Fordem's room is naturally locked.
+Only Fordem's key will work on the door to his room, but there is a small window that opens onto the same alleyway that the kitchen shares a window with.
+
+- (Sleight of Hand / Thieves' Tools DC 19) To pick the lock to Fordem's room.
+- (Acrobatics / Athletics DC 15) (Adv: suitable climbing aid) To scale the alley wall using a nearby drainpipe and the loose stones in the wall and reach the open window to Fordem's room.
+
+Fordem's room is essentially the upper-class equivalent to the guest rooms - it contains a double bed, large wardrobe, desk big enough to work from, shelves and a small armchair with a side table.
+A large rug covers the wooden floor in the centre of the room.
+
+- (Investigation DC 10) To deduce the same conclusions as can be drawn from the guest rooms. Fordem's room does not look lived in, the wardrobe is barely half full and the desk is almost too organised to be a site of active use. No trinkets nor personal belongings appear to be in the room. The bedsheets are not made, implying they're slept in though.
+  - 14+ (explicitly examining the desk): A character can ruffle through a stack of papers and find the bill of sale. It looks like the tavern was purchased for an incredibly low price.
+    - 16+: The sale process was also completed in a very short time.
+    - (History DC 10): The sale was completed shortly (~3 months) after Kamonas and Shufharz were appointed to Halfyord.
+      - 15+ (only if the party has asked Shufharz / Kamonas about how they got rid of the Piranhas the first time): The magistrate who appears on the bill of sale is one of the officials that was removed as part of the wider corruption investigation, that started Shufharz' efforts to dislodge the Piranhas.
+  - 20+: There is a loose floorboard that can be felt under the rug. Removing the rug and then the floorboard reveals a spare master key (akin to what Fordem carries) to the tavern.
+
+If Fordem's key was obtained by pickpocketing or otherwise getting him to part with it, allow the party to investigate his room before Fordem realises the key is missing, and goes to check if he left it in his room.
+This will obviously require the party to rapidly evacuate, or hide in, the room.
+Leaving the stolen key in an obvious place in the room (like on the desk) will have Fordem retrieve it and return to the bar without much investigation, **locking the room behind him**.
+Placing the key from under the floorboards here, and covering up the fact the rug has been moved, can be used to achieve the same effect.
+
+If Fordem cannot find the key in an obvious place, he will attempt to retrieve the spare master key, muttering to himself (as far as he is aware) about becoming forgetful.
+He will then leave and lock the room as if he had retrieved the key from the desk.
+If the spare key is missing, or tampering is obvious, have Fordem leave the room immediately.
+He will return to the bar, ask Hope for her spare key to the cellar (citing his own age and forgetfulness as a "joke" that he's forgotten where he put his key) and enter the cellar (and hideout), locking the cellar door behind him.
+If Groubun is still at the bar, Fordem will (discretely) take him into the cellar too.
+Groubun gains 4 suspicion points (Fordem knows that someone is poking around the tavern) but there are no other notable impacts on the story.
+Fordem will retrieve a spare key from the hideout to use for the rest of the adventure.
+
+### Kitchen
+
+The kitchen is staff only, but the doors are left ajar and patrons frequently go up to the kitchen to get Hope's attention to ask for small plates of food, or to ask about the beverages on tap.
+A character who has a suitable opportunity to look inside the kitchen may discover that Whisker's food bowl is full - he has not eaten anything.
+His water bowl is likewise almost full.
+
+The kitchen window will be on the latch, and backs onto the alleyway that runs down the side of the tavern.
+There is puddle of water and grease beneath the window, where it looks like kitchen pots are emptied.
+
+### Cellar
+
+The cellar is locked and is not meant to be accessed by the party until after the heist tomorrow.
+However, if the party obtains the master key there is nothing to stop them from accessing the hideout early.
+
+All staff at the tavern will of course attempt to apprehend the party if they are seen accessing the cellar (Hope will alert Fordem after giving a warning), which will result in (best case) the party being thrown out of the tavern and the key retrieved.
+The local patrons will perceive the party as being in the wrong of course, and may run onto the street to get help.
+
+If the cellar is successfully accessed, the party can proceed straight to [Hideout Infiltration](./07-infiltrating-the-hideout.md) as if they'd entered via the cellar.
+Notable differences will be that:
+
+- Whiskers will not join the party (unless they actively bring him along),
+- Groubun will be present for the confrontation in Carlton's room. He will side with Fordem and Carlton regardless.
+- Carlton will not offer parley.
+- For additional challenge, you may want to add some Piranhas gang members to the recreation room of the hideout, to represent those members who will be joining the heist the following day.
 
 ## A Game of Cards?
 
@@ -271,14 +364,77 @@ When starting a fight, roll a d20 and consult the list below for the opponent's 
 
 On a roll of 5+, the opponent is a Piranhas gang member in plain clothes.
 
-## An Admirable Performance
-
-FIXME
-karaoke
-
 ## Don't Tread on the Fish
 
-(gang ambush after leaving)
+When the party decides it's time to leave, they may be tailed by a small gang contingent in response to their activities in the tavern.
+Planned ways in which this can happen are if:
 
-- Groubun talk
-- Fighting and swindling the book-keeper
+- The party wins a significant amount of money from the fighting ring, at the book-keeper's expense.
+- Groubun becomes suitably suspicious.
+- The party is caught whilst poking around the tavern.
+
+After the party leaves the tavern and travels a reasonable distance, have them walk down a dimly lit street.
+On their tail will be one Piranhas gang member for each member of the party - these gang members will be split into two groups.
+The first group will move in front of the party to cut them off, whilst the other approaches from behind.
+
+- (Perception DC 17): For a character in the party to notice the gang members before they complete the encirclement.
+
+If the party notices their tail, they can actively choose to stick to brighter streets or attempt to shake the gang members before they make it back to the barracks.
+The gang members trailing them will not take any further action if they party reaches the barracks safely, and will return to the tavern.
+
+If the party does not notice the tail, have them roll one more perception check to avoid being surprised.
+
+- (Perception DC 12) (ADV: suitable criminal or investigative background feature) A character notices the approaching gang members in front of them, and glances behind in time to notice the other group bringing up the rear. This character is not surprised when combat begins.
+
+### Encounter Information
+
+Trigger: The gang completes it's encirclement.
+Intended difficulty: Easy
+
+Participants based on party size:
+
+| Party size | Piranhas Gang Member |
+|:-:|:-:|
+| X | =X |
+
+Enemy Objectives:
+
+If the trigger for this event was the book-keeper loosing money, the gang members are planning a mugging.
+
+Otherwise, this is a hit job, with the objective of at least putting the party out of action for a considerable amount of time (though not necessarily lethally).
+
+### Initial Locations
+
+Half (rounded up) of the gang member start in a rough line between 10-15 feet directly in front of the party.
+
+The other half (rounded down) start behind the party at a slightly similar distance.
+
+The party should be walking as a group along the street as they would any other day.
+Exceptions can be made if the party was aware of their tail and decided to deliberately draw the gang members out.
+
+### Other Encounter Factors
+
+The tailing gang members will have face coverings, and will not have their crossbows.
+
+### Loot
+
+- Silver piranhas necklace from any killed or captured gang members.
+- (If the book-keeper sent the gang members) One of the gang members will be recognised as one of the fighters from the ring (if their face covering is removed).
+
+### Notes
+
+It is possible for the party to capture (at least one) gang member from this encounter, which may prompt interrogation.
+In order to keep the story consistent, these gang members:
+
+- Are staying in the guest rooms in the tavern.
+- Were sent by the book-keeper (if the fighting ring was the reason for triggering the event) or the bouncer (if another reason triggered the event). Both these characters will deny any involvement as slander if the party goes back to confront them.
+- They do not know where the hideout is (they will claim that they're blinded when they meet a contact who lets them in).
+  - They will reveal that they can access the hideout via the sewers, but it is one-way and only open at scheduled times (after planned heists).
+  - They will also reveal that their rooms at the tavern were arranged by the gang.
+
+The gang members, of course, must be persuaded or intimidated into giving up this information.
+
+## Next Scenes
+
+The party should return to Shufharz at the barracks, to plan for the following day.
+Proceed to [Planted Cargo](./06-planted-cargo.md).

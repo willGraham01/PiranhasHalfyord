@@ -237,4 +237,4 @@ Have the group that pursues Groubun roll a group check:
 
 If the party decides to follow Groubun, they should proceed to [The Day's Rest Tavern](./05-the-days-rest-tavern.md).
 
-In the event that the party do not follow Groubun, jump right to the [preparing for the heist event](FIXME) of that scene - the party will presumably go back to the barracks with Shufharz in this case.
+In the event that the party do not follow Groubun, jump right to the [preparing for the heist event](./06-planted-cargo.md) of that scene - the party will presumably go back to the barracks with Shufharz in this case.
