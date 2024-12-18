@@ -47,7 +47,7 @@ It is this kind of motivation that has lead her to trust Shufharz with the day-t
   - She can discuss the corruption that was present in the old nobility.
   - She will share the fact that Carlton was never apprehended, nor the main hideout located.
   - She can also give details on the recent attempt on the town treasury.
-- Kamonas knows about the planned [reverse heist](FIXME), but cannot give details in the same way Shufharz can.
+- Kamonas knows about the planned [reverse heist](../scenes/06-planted-cargo.md), but cannot give details in the same way Shufharz can.
 - Kamonas can direct the party to the higher-end businesses, services, and stores within Halfyord.
 - Kamonas will confirm that on the day Faire reportedly disappeared, he did not show up at the city council meeting, which was out of character for him.
 

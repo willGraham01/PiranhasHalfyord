@@ -47,12 +47,12 @@ Though as she gets older, she does hold out hope for one final big trip before h
 
 ## Plot Relevant Knowledge
 
-- Jenessa is working on the [Ring of Seeking](FIXME), which she will grant to the party when they meet her at the [Ordo Magicae outpost](FIXME).
+- Jenessa is working on the [Ring of Seeking](../items/ring-of-seeking.md), which she will grant to the party when they meet her at the [Ordo Magicae outpost](../scenes/03-visiting-the-ordo-magicae.md).
   - She is also a vendor and can provide some basic potions, but not a lot else given the Ordo's current state.
 - Jenessa can provide the political context behind Faire's appointment to Ordinator.
   - She can also provide information about how the Ordo Magicae handles incidents like the disappearance of an Ordinator, and the subsequent succession.
 - Jenessa can provide her own opinion of Faire, as well as that of Groubun if pressed.
-- Jenessa knows that Groubun is a regular at [The Day's Rest](FIXME).
+- Jenessa knows that Groubun is a regular at [The Day's Rest](../setting.md#the-days-rest-tavern).
 - Jenessa can give her account of events on the day of Faire's disappearance;
   - She last saw Faire "working" in the lab with Groubun, on noon the day he disappeared. She was heading into the town to gather supplies, which the town herbalist can confirm.
   - When she returned around an hour later, Faire had left for a council meeting. Groubun was in his room / study working on a manuscript.

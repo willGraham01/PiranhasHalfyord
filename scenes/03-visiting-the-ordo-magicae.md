@@ -69,7 +69,7 @@ She can be convinced to speak a bit more plainly though:
 - (Persuasion DC 13, ADV: Roleplay has given the Jenessa a positive disposition towards the party) Jenessa will be more forthcoming in her responses. She will outright say that Faire has been a detriment since he arrived and is putting a lot of pressure on the other guild members if previously asked. Likewise she will comment on the severity of the supply situation. She will also mention Groubun seems to be doing a much better job that Faire ever was.
 
 When leading the party upstairs, have Jenessa give a polite request / notice to the party that the 2nd floor of the guildhall is off-limits to non-guild members.
-This is mostly just an invitation to the players that there might be extra information to be found in the guildhall - proceed to [Sneaking Around](FIXME) if a player takes the bait, possibly running two events in parallel.
+This is mostly just an invitation to the players that there might be extra information to be found in the guildhall - proceed to [Sneaking Around](#sneaking-around) if a player takes the bait, possibly running two events in parallel.
 
 - (Stealth vs Jenessa's passive perception, ADV: Jenessa is actively engaged in conversation with another character) A character can slip away from the group un-noticed to investigate the guildhall.
 - (Persuasion DC 5) A character can excuse themselves from the group for a while, EG to use a bathroom or wait outside for a suitable reason. The guild member they make the excuse to will notice a prolonged absence, if there is a reason for this (EG bathroom break).

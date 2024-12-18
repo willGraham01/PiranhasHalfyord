@@ -12,4 +12,4 @@ The effect ends early if the creature attacks or casts a spell.
 ## In the Adventure
 
 Groubun is manufacturing these potions, along with [potions of animating](./potion-of-animating.md), and giving them to the Piranhas.
-The party can recover some of these potions from [the hidden stash](FIXME) at the docks.
+The party can recover some of these potions from [the hidden stash](../scenes/04-scouting-the-docks.md#investigations-the-bridge-underpass) at the docks.

@@ -99,17 +99,16 @@ You can even have the role-playing events give benefits or hindrances to the oth
 
 The plot relevant ("PR") events are:
 
-FIXME these ToCs auto-format!!
-
 - [Meeting Whiskers](#meeting-whiskers).
 - [Groubun's Visit](#groubuns-visit).
 - [Poking Around](#poking-around).
-- [Don't tread on the fish](#dont-tread-on-the-fish).
 
 whilst the role-playing ("RP") events are:
 
 - [A Game of Cards?](#a-game-of-cards)
 - [Fighting Ring](#fighting-ring)
+
+Once the party leaves, [Don't tread on the fish](#dont-tread-on-the-fish) may trigger before they return to Shufharz at the barracks.
 
 ## Meeting Whiskers
 

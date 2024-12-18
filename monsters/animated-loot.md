@@ -19,7 +19,7 @@
 - Challenge: 1/4 (50 XP)
 - Proficiency Bonus: +2
 
-**Appearance**: Animated loot takes a canine form, having four legs and a body that is formed from the items affected by the [potion of animating](FIXME) that created it.
+**Appearance**: Animated loot takes a canine form, having four legs and a body that is formed from the items affected by the [potion of animating](../items/potion-of-animating.md) that created it.
 The colour, shape, texture, and smell of the creature is determined by the items that were animated to form it.
 
 **Damage Vulnerabilities**: Depending on the items that were animated to create the animated loot, the DM may bestow additional resistances or vulnerabilities upon individual instances of this monster.

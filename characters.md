@@ -2,7 +2,7 @@
 
 The Piranhas of Halfyord features eight notable NPCs, one major faction (the Piranhas gang), and one notable cat (Whiskers).
 To avoid spreading character introductions throughout the scenes and plot summary, we have included them here.
-There is also a [spoiler-free character summary](./appendix/appendix-character-summary.md) in the appendix, which can be handed out to players right from the get-go of the adventure (of if you prefer, [after the briefing](FIXME) once the market attack is over).
+There is also a [spoiler-free character summary](./appendix/appendix-character-summary.md) in the appendix, which can be handed out to players right from the get-go of the adventure (of if you prefer, [after the briefing](./scenes/02-hired-help.md#brief-with-the-governor) once the market attack is over).
 
 Broadly speaking, the characters fall into four loosely defined groups;
 

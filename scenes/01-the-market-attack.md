@@ -107,7 +107,7 @@ Enemy Objectives:
 In the interest of advancing the plot, it may be prudent to allow at least one gang member to be killed or incapacitated during this fight, so the party can inspect the corpse for the Piranhas necklace.
 
 The party also has a chance to capture a gang member here, which will impress Shufharz.
-There are some guidelines on what they party can learn from [captured gang members in this section](FIXME).
+There are some guidelines on what they party can learn from [captured gang members in this section](FIXME - use 05's captured notes and recycle).
 
 ## Aftermath of the Attack
 

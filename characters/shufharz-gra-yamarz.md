@@ -55,7 +55,7 @@ Her commitment to carrying out a task typically wins in a conflict of interest, 
   - She can discuss the methodology that was undertaken during her 6-month campaign against the gang.
   - She will share the fact that Carlton was never apprehended, nor the main hideout located.
   - She can also give details on the recent attempt on the town treasury.
-- Shufharz can provide full details about the planned [reverse heist](FIXME), and ensure that party members can be disguised in certain roles.
+- Shufharz can provide full details about the planned [reverse heist](../scenes/06-planted-cargo.md), and ensure that party members can be disguised in certain roles.
 - Shufharz can direct the party to relevant businesses, services, and stores within Halfyord. For example, the blacksmith or herbalist if needing weapons or medical supplies.
 - Shufharz knows that Piranhas gang members wear silver / gold tooth necklaces, and will identify them as such if shown one.
 - Shufharz' poor relationship with Faire will initially give her the predisposition that he is now willingly involved with the gang's activities, seeing it as a case of an unpopular egotist trying to prove a point.

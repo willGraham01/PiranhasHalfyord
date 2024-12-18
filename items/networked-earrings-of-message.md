@@ -15,5 +15,5 @@ Characters out of range do not hear anything, nor are they aware a message was s
 
 ## In the Adventure
 
-Shufharz will give the party a set of these earrings when they meet her at the [docks at night](FIXME), to conduct reconnaissance.
+Shufharz will give the party a set of these earrings when they meet her at the [docks at night](../scenes/04-scouting-the-docks.md), to conduct reconnaissance.
 She will take them back at the conclusion of the adventure.

@@ -42,5 +42,5 @@ Succeeding on this save does not grant immunity to the effects of this action, s
 
 ## In the Adventure
 
-Jenessa has been working on constructing the ring, and will give it to the party when they [visit the Ordo Magicae](FIXME).
+Jenessa has been working on constructing the ring, and will give it to the party when they [visit the Ordo Magicae](../scenes/03-visiting-the-ordo-magicae.md).
 She is also capable of recharging the ring for them, but will take it back from the party once the adventure is concluded.
