@@ -163,7 +163,7 @@ There also looks to be a fishing rod left leaning against the arch of the bridge
 - (History DC 12) (Investigation DC 15) (Perception DC 15) The arch of the bridge is well-kept and crafted from stone. Most of the mossy plant life that you would expect to see has been cleaned off - likely to keep up appearances for the town.
   - (Survival Dc 10) (Nature DC 10) (ADV: The absence of mossy plant life has been noted) The plant life that remains is not typically found near canals or rivers - it looks like a garden climber plant that one might see decorating a house or mansion. Furthermore, a portion of it looks to be spread across an area of the wall in a very precise lattice-shape, rather than a natural formation.
 - [GANG SIGN](#gang-signs) The plant life conceals a gang mark.
-  - This mark looks to have several shark-like teeth (like is found on the Piranha gang's necklaces) being either placed into, or removed from, a box.
+  - This mark looks to have several shark-like teeth (like is found on the Piranha gang's necklaces) being either placed into, or removed from, a box. FIXME: image
   - (Deciphered) The mark can be deciphered as indicating that a cache or supplies is located nearby.
 
 The "lattice-shaped" portion of the plant is meant to resemble a net, and conceals the hidden cache that the gang mark is referring to.

@@ -45,9 +45,30 @@ Shufharz won't want to make a move on Groubun (even if she is convinced by evide
 Have the party confirm the positions that they want to take during the day tomorrow.
 Shufharz has spare clothes to allow party members to dress like members of the town guard, dockworkers, or sailors (the latter can arrive on the ship by getting up early in the morning and walking upstream to meet it before it "sets off" for the town).
 This is predominantly an opportunity for the party to plan for the following day, using their reconossence.
-Once everyone's roles are set, allow the party to take a long rest (by staying in the barracks for the evening) before jumping time forward to the next morning.
+Once everyone's roles are set, allow the party to take a long rest (by staying in the barracks for the evening) before jumping time forward to the [next morning](#the-day-of-the-heist).
 
-## Event 2
+## The Day of the Heist
+
+The following day will see the docks in it's usual busy state.
+When the party arrives;
+
+- There will be many dock workers present and going about their business, along with the harbourmaster organising a small group of dock-hands in preparation for the upcoming arrival.
+- Another group of dock workers, along with a Foreman, will be setting up the docking crane.
+- An undercover guard (posing as a merchant with a cart) will be waiting near where the road meets the docking station, expecting the delivery to be unloaded.
+
+The exact number of dock workers and other passive NPCs is up to DM choice.
+When the action kicks off, it is recommended to track at least one civilian NPC from each group of dockworkers, as well as the Foreman, as they try to escape or control the chaos.
+The rest can be described as fleeing using descriptive flavour.
+
+The gang members will have already gotten into position by the time the party arrives.
+Characters that actively look out for suspicious behaviour may notice some things being out of place.
+
+- If the dockworker's clothes were left in the bridge stash, or weren't discovered:
+  - There will be (at least) one gang member at the docking crane, posing as a worker. The Foreman will be giving them instructions along with the rest of the group.
+    - (Perception DC 16) (Insight DC 14) (ADV: The dockworkers clothes were discovered in the stash) To notice one of the dock workers appears to not really know what they're meant to be doing, or appears to be new. They're essentially repeating menial tasks to make themselves look busy, but aren't actually contributing to the work.
+  - There will be another gang member getting changed inside the warehouse.
+    - (Perception DC 15) To notice a dockworker leaving the warehouse, seeming to look around for a second as if not sure where to go, then join the group that the Harbourmaster is addressing.
+- FIXME to here
 
 ## Combat Encounter
 
