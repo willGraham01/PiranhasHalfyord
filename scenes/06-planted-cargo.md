@@ -140,6 +140,14 @@ The gang members will - in all cases - keep up their "fishermen" ruse, unless th
 
 If a character loiters around the underpass, when the gang kicks off it's attack, one of the "fishermen" will attempt to restrain them (or throw them in the river Hal) whilst the others begin the attack.
 
+### Additional Gang Members
+
+If [Groubun's suspicion](FIXME) has reached a suitable level, the gang will send additional manpower to help with the heist.
+These gang members will be loitering on the bridge, overlooking the mooring station.
+If one player character in particular made themselves obvious to Groubun, and this character is also on the bridge, this group might try to pre-emptively sneak up on this character before the attack begins.
+
+These additional gang members will predominantly be using their crossbows from the bridge, and do not have any potions of animating to use on the barrels.
+
 ## The Ship's Arrival
 
 The arrival of the ship and it's subsequent docking "triggers" the gang's attack and the combat encounter.
@@ -148,32 +156,104 @@ The crane will begin to move towards the ship to start unloading the heavier car
 
 The gang members will then attack simultaneously.
 If a character is aware of any of the gang members lying in wait, roll initiative to see if they get a chance to act before the gang members do.
-Otherwise, the gang members will immediately:
+Otherwise, the gang members will immediately act:
 
-- FIXME TO HERE
+- The gang member near the docking crane will throw his potion of animating at what is currently being carried on the crane.
+- The gang member that had joined the harbourmaster's group will animate some of the goods that are being manually unloaded.
+
+In the interest of maximising the chances that the party gets to track either the gang or the loot, ensure that at least one group of animated cargo is near a player character (ideally the one who is holding the [Ring of Seeking](../items/ring-of-seeking.md)).
+
+The gang members in the underpass (or now on the bridge) will use their potions of animating on the various barrels and crates scattered around the mooring station, with the intention of using them to delay any pursuit and sow general chaos in the vicinity.
+If these gang members have had to relocate to the bridge, they will be forced to throw their potions from the bridge which will result in fewer barrels being caught and animated.
 
 After this, if initiative was not rolled before, enter combat now.
 
 ### Encounter Information
 
-Trigger:
-Intended difficulty:
+Trigger: Unloading of the ship begins.
+Intended difficulty: Easy / Medium
 
-Participants based on party size:
+Participants based on party size: Varies
 
-| Party size | Enemy 1 | Enemy 2 | Other adjustments |
-|:-:|:-:|:-:|-|
-| 3- |  |  |  |
-| 4  |  |  |  |
-| 5  |  |  |  |
-| 6+ |  |  |  |
+The encounter always involves:
+
+- 5 Piranhas gang members;
+  - 1 in the harbourmaster's group,
+  - 1 near the docking crane,
+  - 3 in the bridge underpass.
+- 2 Animated loot;
+  - 1 is created on the crane's cargo platform,
+  - 1 is created from the goods being manually unloaded from the ship.
+- 2 Animated barrels;
+  - Starting position varies on what the bridge underpass group can reach.
+
+If Groubun was suspicious, the additional group of gang members on the bridge will consist of as many gang members as there are party members.
+
+For party sizes larger than 3, add additional combatants as below:
+
+| Party size | Animated Loot | Animated Barrels |
+|:-:|:-:|-|
+| 4  |  1 |  2 |
+| 5  |  2 |  2 |
+| 6+ |  = (number of party members - 1) / 3 (round down) |  = number of party members / 3 (round down) |
 
 Enemy Objectives:
 
+- Animated loot will make a beeline for the sewers, and then the hideout vault from there. If the sewer grate is blocked, it will travel overland via the Day's Rest cellar entrance.
+- Animated barrels are controlled by the Piranhas gang members, and should be used to disrupt tracking efforts.
+  - For parties with good or neutral aligned characters, having some of the barrels attack the dockworkers, or put them in positions of peril, can create useful dilemma situations.
+  - The barrels can also be used to tie down party members, and their pushing abilities can be used to knock characters into the river.
+- Piranhas gang members will attempt to flee once they're confident the Animated Loot has gotten away.
+  - All gang members have a [potion of lesser invisibility](../items/potion-of-lesser-invisibility.md) to help their escape.
+  - If it becomes obvious to the gang members that there was some kind of preparation or ambush setup for them, they will attempt to flee back to the Day's Rest to warn Fordem. Otherwise, they will scatter into the town and beyond, and will not be present in the hideout.
+
 ### Initial Locations
+
+- 1 Piranhas gang member near the docking crane (either disguised or invisible).
+- 1 Piranhas gang member near "helping" with the manual unloading (disguised).
+- 3 Piranhas gang members (the underpass group) either in the bridge underpass, or potentially on the bridge.
+- Additional gang members resulting from Groubun's suspicion start on the bridge.
+- Animated loot starts in two places (split the total number evenly, giving the extra entity in the event of an uneven split to the crane platform).
+  - Half start in the manual unloading area.
+  - The other half start on the crane platform.
+- The start position of the Animated Barrels should be chosen based on what is within range of the underpass Piranhas group.
+  - Animated barrels can be reflavoured as general crates, loose sacks, pallets, or even bridge statuary if wanting to provide some variety.
+  - If the underpass group had to relocate to the bridge, **halve** the number of animated barrels.
 
 ### Other Encounter Factors
 
+- Civilians will attempt to scatter once the fighting begins, but may get caught in the crossfire with the Animated Barrels and Animated Loot.
+- The guard posing as the merchant will prioritise helping the civilians get to safety, trusting in the party's abilities.
+- Animated Loot will use the sewers to reach the vault, and the party may decide to follow it through the sewers.
+  - The Ring of Seeking will lead the party through the sewers, until the loot arrives in the vault at which point it will be sealed. The path will then lead out of the sewers and via the Day's Rest cellar entrance.
+  - If the route via the sewer grate that opens into the river is blocked, it will attempt to travel by via the cellar too. This will make it much easier to track through the town, and impact the state of the Day's Rest when the party gets there.
+
 ### Loot
 
+- Gang members carry their usual necklaces, and the party can acquire their potions of lesser invisibility if they don't get a chance to use them.
+
 ### Notes
+
+The main thing to keep in mind when running this fight is that the party needs a means of tracking either the gang members or the loot to the hideout.
+As such, ensure there is enough of a chance for the party member with the Ring of Seeking to mark an Animated Loot, or that party members are near enough to give chase to the fleeing gang members.
+Worst case, the party can also capture a gang member, who can then be used to push them in the correct direction.
+
+## Tracking the Loot
+
+FIXME - below is the copied old text
+
+Once the dust settles, Shufharz will briefly rendezvous with the party if the situation calls for it.
+Otherwise, the party should take the lead in following either the gang members or the animated cargo (using the Ring of Seeking if necessary).
+Shufharz will not accompany the party for this due to the chaos on the docks.
+
+If using the Ring of Seeking, the party can follow the trail back to the hideout underneath the Day's Rest.
+If pursuing gang members, stealth checks contested by the gang member's passive perception will be needed, or survival checks if line of sight was lost before pursuit began.
+In order to solidify the link to the Day's Rest, the gang members that are part of the heist can exclaim they recognise the party from the night before if the party participated in the [fighting ring](./05-the-days-rest-tavern.md#fighting-ring) or [card game](./05-the-days-rest-tavern.md#a-game-of-cards).
+Similarly, allow the party characters to do suitable checks to recognise the gang members from the night before.
+
+- (Stealth) (Contested by gang member's Perception) (DIS: The gang members are invisible and the Ring of Seeking is not active) The gang members do not realise they are being tracked.
+  - If failed, they will continue to flee but might turn and fight if an opportunity present itself.
+- (Survival DC 10) (AUTO: Ring of seeking is actively tracking a gang member) To follow the trail of the fleeing gang members or Animated Loot.
+
+The cargo (if above ground) can be followed without worry of alerting it - in fact, members of the public will gladly point the way / be in shock if the cargo travels by land.
+Hope in the next scene will also be able to share more information if the cargo comes in the front door.
