@@ -240,8 +240,6 @@ Worst case, the party can also capture a gang member, who can then be used to pu
 
 ## Tracking the Loot
 
-FIXME - below is the copied old text
-
 Once the dust settles, Shufharz will briefly rendezvous with the party if the situation calls for it.
 Otherwise, the party should take the lead in following either the gang members or the animated cargo (using the Ring of Seeking if necessary).
 Shufharz will not accompany the party for this due to the chaos on the docks.
@@ -253,7 +251,12 @@ Similarly, allow the party characters to do suitable checks to recognise the gan
 
 - (Stealth) (Contested by gang member's Perception) (DIS: The gang members are invisible and the Ring of Seeking is not active) The gang members do not realise they are being tracked.
   - If failed, they will continue to flee but might turn and fight if an opportunity present itself.
-- (Survival DC 10) (AUTO: Ring of seeking is actively tracking a gang member) To follow the trail of the fleeing gang members or Animated Loot.
+- (Survival DC 10) (AUTO: Ring of seeking is actively tracking a target heading to the hideout) To follow the trail of the fleeing gang members or Animated Loot.
 
-The cargo (if above ground) can be followed without worry of alerting it - in fact, members of the public will gladly point the way / be in shock if the cargo travels by land.
+The cargo (if above ground) can be followed without worry of alerting it - in fact, members of the public will gladly point the way / be in shock if the cargo ends up travelling to the hideout via the streets not the sewers.
 Hope in the next scene will also be able to share more information if the cargo comes in the front door.
+
+## Next Scenes
+
+The party should return follow the trail to the Day's Rest, and gain access to the hideout.
+Proceed to [Infiltrating the Hideout](./07-infiltrating-the-hideout.md).
