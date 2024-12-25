@@ -46,11 +46,36 @@ Depending on the events of the previous scene, use the relevant event to determi
 - If the animated loot travelled via the streets, but all gang members successfully fled without being chased: [Uninvited Visitors](#uninvited-visitors).
 - If the animated loot travelled via the streets, and gang members were tailed back: [Pandemonium](#pandemonium).
 
+Whichever case is applicable, the party will gain access to the cellar (if they haven't already) and Whiskers will join them for the trip.
+
 FIXME write cases!
 
 ### All Calm
 
-Hope will be inside cleaning, and Fordem will be in the hideout.
+In this eventuality, Fordem will be in the cellar with Carlton, planning the transport of the vault contents (and Piranhas members) out of Halfyord.
+None of the gang members will have returned to the hideout, so they will not be present to complicate matters later.
+
+Hope will be in either the common area or kitchen, cleaning and getting the tavern ready for the evening.
+She will have dutifully filled Whiskers' feeding bowl, but naturally he will not have eaten from it.
+
+The tavern door will not be locked, but it will be clear from the outside that it is not yet open.
+The bouncer will not be present on the door.
+
+Hope will assume the party are overly-eager patrons (possibly even recognising them from the night before) and if they walk in, will mention that the tavern opens later in the evening.
+She can be convinced to co-operate with the party (if the party still have Shufharz' seal that was given before they went to the Ordo, for example), or persuaded / convinced by other means to co-operate.
+If the party asks where Fordem is, or otherwise broaches a topic of conversation that Hope would need to ask Fordem about, Hope will suddenly realise she hasn't seen Fordem in a while.
+She will brush this off with him likely being in his office or down in the cellar looking for stock, but will be certain that he hasn't left the tavern.
+
+Have Whiskers join the scene when the party enters the tavern - he can even start making sounds to get Hope's attention if the party tries sneaking around the tavern too much.
+He can also be used as a guide of sorts to steer the party towards potential solutions to getting into the cellar.
+
+Hope's key doesn't unlock the cellar, so she can't provide direct access.
+The party will need to either discover the [hidden key in Fordem's room](./05-the-days-rest-tavern.md#fordems-room), use a key if they managed to steal one from the night before, break the cellar lock to get in, or find another way.
+Inventive solutions for getting through the cellar door (using either the alcohol behind the bar or supplies from the kitchen) should also be allowed.
+
+- (Thieves' Tools DC 18) To pick the cellar lock.
+- (Investigation DC 12) Searching the small storage area between the common area and Fordem's room will reveal a crowbar in amongst the other supplies. It can be used to help with forcing the cellar door.
+- (Strength DC 17) (ADV: Crowbar or other suitable tool) To force the cellar door lock, and provide access to the cellar.
 
 ### Unexpected Guests
 
