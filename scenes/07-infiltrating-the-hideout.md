@@ -38,17 +38,30 @@ The party will likely not have Whiskers with them, but the scene setup is otherw
 
 The party's expected manner of arrival is via the streets and the main entrance to the Day's Rest.
 The streets will not be particularly busy, since it is the middle of the working day at this point.
-If the animated loot travelled via the streets, then there will be a commotion and the citizens will exclaim about what they're witnessing.
+The tavern door will not be locked, but it will be clear from the outside that it is not yet open, and the bouncer will not be present on the door.
+
+If the animated loot travelled via the streets, then there will be a commotion en route to the tavern, and the citizens in the streets will exclaim about what they are witnessing / have witnessed.
 Depending on the events of the previous scene, use the relevant event to determine what the party arrives to:
 
 - If the animated loot travelled via the sewers, and all gang members successfully fled without being chased: [All Calm](#all-calm).
 - If the animated loot travelled via the sewers, but gang members were tailed back: [Unexpected Guests](#unexpected-guests).
-- If the animated loot travelled via the streets, but all gang members successfully fled without being chased: [Uninvited Visitors](#uninvited-visitors).
-- If the animated loot travelled via the streets, and gang members were tailed back: [Pandemonium](#pandemonium).
+- If the animated loot travelled via the streets, but all gang members successfully fled without being chased: [Magic Monsters](#magic-monsters).
+- If the animated loot travelled via the streets, and gang members were tailed back: [The Jig is Up](#the-jig-is-up).
 
-Whichever case is applicable, the party will gain access to the cellar (if they haven't already) and Whiskers will join them for the trip.
+The specific situation will affect the state of affairs that the party arrives to, however in each case look for an opportunity to place Whiskers somewhere in the scene.
+He can join when the party enters the tavern and begins talking to Hope, and can even start making sounds to get Hope's attention if the party tries sneaking around the tavern too much.
+He can also be used as a guide of sorts to steer the party towards potential solutions to getting into the cellar.
 
-FIXME write cases!
+In any case, the party needs to gain access to the cellar (if they haven't already).
+Hope's key doesn't unlock the cellar, so she can't provide direct access.
+The party will need to either discover the [hidden key in Fordem's room](./05-the-days-rest-tavern.md#fordems-room), use a key if they managed to steal one from the night before, break the cellar lock to get in, or find another way.
+Inventive solutions for getting through the cellar door (using either the alcohol behind the bar or supplies from the kitchen) should also be allowed.
+
+- (Thieves' Tools DC 18) To pick the cellar lock.
+- (Investigation DC 12) Searching the small storage area between the common area and Fordem's room will reveal a crowbar in amongst the other supplies. It can be used to help with forcing the cellar door.
+- (Strength DC 17) (Automatic: Crowbar or other suitable tool) To force the cellar door lock, and provide access to the cellar.
+
+Once the party gains access to the cellar, move to [Entering the Hideout](#entering-the-hideout).
 
 ### All Calm
 
@@ -58,71 +71,97 @@ None of the gang members will have returned to the hideout, so they will not be 
 Hope will be in either the common area or kitchen, cleaning and getting the tavern ready for the evening.
 She will have dutifully filled Whiskers' feeding bowl, but naturally he will not have eaten from it.
 
-The tavern door will not be locked, but it will be clear from the outside that it is not yet open.
-The bouncer will not be present on the door.
-
 Hope will assume the party are overly-eager patrons (possibly even recognising them from the night before) and if they walk in, will mention that the tavern opens later in the evening.
 She can be convinced to co-operate with the party (if the party still have Shufharz' seal that was given before they went to the Ordo, for example), or persuaded / convinced by other means to co-operate.
 If the party asks where Fordem is, or otherwise broaches a topic of conversation that Hope would need to ask Fordem about, Hope will suddenly realise she hasn't seen Fordem in a while.
 She will brush this off with him likely being in his office or down in the cellar looking for stock, but will be certain that he hasn't left the tavern.
 
-Have Whiskers join the scene when the party enters the tavern - he can even start making sounds to get Hope's attention if the party tries sneaking around the tavern too much.
-He can also be used as a guide of sorts to steer the party towards potential solutions to getting into the cellar.
-
-Hope's key doesn't unlock the cellar, so she can't provide direct access.
-The party will need to either discover the [hidden key in Fordem's room](./05-the-days-rest-tavern.md#fordems-room), use a key if they managed to steal one from the night before, break the cellar lock to get in, or find another way.
-Inventive solutions for getting through the cellar door (using either the alcohol behind the bar or supplies from the kitchen) should also be allowed.
-
-- (Thieves' Tools DC 18) To pick the cellar lock.
-- (Investigation DC 12) Searching the small storage area between the common area and Fordem's room will reveal a crowbar in amongst the other supplies. It can be used to help with forcing the cellar door.
-- (Strength DC 17) (ADV: Crowbar or other suitable tool) To force the cellar door lock, and provide access to the cellar.
-
 ### Unexpected Guests
 
-Gang members recently arrived & went into the cellar with Fordem, Fordem gives excuse, Hope mildly traumatised
+In this situation, gang members who were present at the heist have been tracked back to the hideout, realising that it was a setup and wanting to warn Fordem.
+These gang members will have arrived at the tavern slightly ahead of the party, and Fordem will have sensed the danger and waved them into the cellar with him.
+These gang members will bolster the numbers that are already present in the hideout.
 
-### Uninvited Visitors
+Hope will have noticed the commotion, but Fordem will give the excuse that the gang members who have turned up are here to pick up a faulty delivery of ale.
+However, she will notice that Fordem will lock the cellar behind him, and Whiskers will be visibly agitated.
+She will share this information with the party if they are upfront with their reasons for wanting to investigate.
 
-Loot ran through the tavern, Hope panicked and will claim Fordem "lead it" into the cellar.
+### Magic Monsters
 
-### Pandemonium
+Though gang members were not successfully tracked to the tavern, Animated Loot was forced to travel overground and has thus burst into the tavern, aiming for the cellar.
+Fordem - recognising the exposure risk to the gang's hideout - has opened the cellar under the guise of "leading" the dangerous creatures away from the tavern floor.
 
-The gang realises the jig is up, Fordem has gone into the hideout with the loot & surviving members to warn Carlton. Hope is both confused and scared.
+Hope will have seen the Animated Loot burst in and heard Fordem's fake cry of "I'm trapping it in the cellar" (or a suitable variation of that to the same effect).
+She will be shaken and panicked, and will be found running out of the tavern shouting for help when the party reaches the tavern.
+She will accept help from the party and explain the version of events that she believes, though reluctant to allow them to re-open the cellar for fear of letting the creatures out (though she will also be concerned for Fordem's safety).
+Otherwise, she will be willing to assist the party in gaining access to the cellar.
 
-## FIXME Copied from here: Entering via the Manhole
+In this situation, and after having heard the version of events from Hope, the party members can make a (hearing-based) check when in the vicinity of the cellar door:
 
-The manhole entrance is always available, and will allow the party to bypass the first few rooms in the hideout.
-However the party will only know of this entrance if they manage to track a piece of the animated cargo very carefully from the docks, and are not delayed by the other happenings on.
-Alternatively, the party might deliberately look for a back entrance if they strongly suspect something is up with the tavern - allow investigation checks to discover the entrance, but this is very hard without context clues.
+- (Perception DC 15) No sounds can be heard coming from behind the cellar door. There are no cries of help, heightened breathing, or sounds of a struggle.
+  - On a failure, simply say that the door is too thick to permit any sound to travel through.
 
-If the party does enter via the manhole, have Whiskers join them before the go in (if he is not with them already).
-Skip ahead to the "vault" section of the hideout.
+### The Jig Is Up
 
-## Entering via the Cellar
+In this situation, both Animated Loot and gang members have come back to the hideout.
+Fordem will realise this means that the jig is up, and will have taken everyone into the cellar without trying to explain anything to Hope.
 
-If they were suitably delayed at the docks, the party will likely arrive at the Day's Rest once the gang members and the "loot" from the docks has already arrived.
-Hope will be present and on cleaning duty prior to the tavern's opening hours later this evening.
-Whiskers, if not adopted, will also join the party at this point.
+Hope will be both confused and scared when the party turns up.
+She will relay what she witnessed from the kitchen - the Animated Loot bursting into the tavern and the gang members shortly afterwards, followed by Fordem letting them into the cellar.
+Fordem will have said nothing to her in this time, barely realising that she witnessed these events due to busily trying to usher everything into the cellar and hideout.
 
-If the animated cargo was prevented from taking the sewers to the hideout, then have a single animated loot wolf be present in the tavern.
-It will have backed Hope into the kitchen (what it is actually trying to do is enter the cellar, but is unable to do so hence is waiting idly), and she will naturally be terrified.
-The party should be able to dispatch the animated wolf quickly, or if they leave it up and open the cellar it will provide some more context clues in the next few scenes.
+Hope requires less convincing than in the other cases to help, if she can be reassured about the party's motivations.
 
-If the cargo managed to get to the hideout via the sewers, Hope will just be performing her cleaning duties and will be surprised to have the door open and the party burst in.
-She may recognise some of them from the night before, and will be helpful in answering any questions they have but is oblivious to the criminal hideout underground.
-If the party asks a lot of questions, have her answers veer more towards "I don't know" or "you'll have to ask Fordem", which should raise the topic of where he is.
-Hope will pause for a moment at this, then conclude that the last time she saw him today he was checking the stores in the cellar.
-If pressed for how recently, the amount of time she gives should be suitable length to indicate Fordem was absent from the tavern (IE in the hideout) about an hour or so prior to the cargo-heist starting.
+## Entering the Hideout
 
-Hope has a key to the cellar on her, which she can be convinced to use to open the cellar.
-Whiskers can also draw attention to the cellar door by scratching on the woodwork.
+FIXME entering the hideout from the cellar entrance, copied content follows
 
-- (Investigation DC 10) The cellar is locked, but Hope says Fordem was last seen down there.
-- (Investigation DC 20) If generally searching the bar/kitchen area, one of the gang's covert marks will be discovered indicating a direction towards the cellar trap door. It will have to be interpreted like the others at the bridge by a character who speaks Thieves' Cant.
-- (Strength DC 15) The cellar trapdoor can be forced open, damaging it in the process.
-- (Thieves' tools DC 20) The cellar can be lock-picked open.
+At this point, the party enters the hideout.
+Whiskers will come down into the cellar with the party, but Hope will refuse to join the group.
+There are no lit light sources in the room - the party will need darkvision to see properly.
 
-Once the cellar door is open, the animated wolf (if present) will immediately dive down into the cellar, ignoring the party and Hope.
+In the cellar will be a lot of barrels containing - presumably - beer and other assorted alcohol.
+The room the party enters into will be square, appearing to have solid walls on all sides.
+A staircase leads down one floor / story from the cellar door.
+
+On the wall to the left of the stairs are barrels that genuinely contain alcohol, but also contain some ingredients that the party might recognise as valuable alchemical ingredients / spell components.
+
+- (Strength DC 10) (ADV: Crowbar or other suitable tool) To open any of the barrels on this floor.
+- (Survival DC 14) (Arcana DC 14) To identify the "normal" alcoholic substances, and to identify the barrels that contain alchemical ingredients.
+  - 16+: If the party took interest in Groubun's potion ingredients [yesterday at the Ordo](./03-visiting-the-ordo-magicae.md), to identify the alchemical ingredients as those that Groubun was using in the lab the previous day, or using in his recent batch of experiments.
+
+The wall opposite the staircase is actually hollow, and hides the entrance to the Piranhas' hideout.
+This wall is partially obstructed by crates and smaller pallets, and there is one of the gang's marks on the wall. FIXME: image?
+There will be splintered wood and scratch marks on the stone floor near the hollow wall.
+
+- Unless the party arrived to [all calm](#all-calm), these smaller crates and pallets will appear to have been moved to the side, exposing the opposite wall.
+- (Investigation DC 13) (Perception DC 13) (Automatic: The wall is exposed) (ADV: At least one gang mark has been found before) To notice the gang mark in the hollow wall.
+  - The gang mark is etched into the wall, rather than being "drawn" on like the others the party has encountered before. It appears to be very simple in its design, just in the shape of a tooth with no further markings. FIXME: image?
+    - (History DC 11) The tooth shape is remarkably similar in size and design to the necklace ornaments that have been found on fallen Piranhas members.
+  - 15+: To identify the portion of the hollow wall that "opens" when the hole provided by the gang mark is filled.
+
+If the party has a gang necklace to hand, they can insert it into the hole provided by the gang mark and this will open a section of the hollow wall, providing access to the hideout's [recreation room](#recreation-room).
+If the party does not have a gang symbol to hand, they will need to find one.
+Note that the necklaces scattered about the tavern are deliberately not available in the previous visit, to ensure there is always one available here to provide access to the cellar without the need for a lengthy trip across town to fetch Shufharz.
+
+- The guest bedrooms housed Piranhas' members last night, and one of them will have left a necklace on the dressing table.
+  - Hope can provide a key to the room, or the locks can be picked as per the checks described [in the party's previous visit](./05-the-days-rest-tavern.md#guest-rooms).
+  - If the party arrived to [Unexpected Guests](#unexpected-guests) or [the Jig is Up](#the-jig-is-up), Hope (if asked) will mention that she thinks she recognised one of the gang members who arrived from the night before, as someone Fordem had rented a room to.
+
+Whiskers can be used to provide additional context clues, beyond the scrape marks on the floor.
+The Ring of Seeking will lead through the wall too, if it is still tracking one of the Animated Loot, giving further hints that the cellar does not end with the room the party finds themselves in.
+Other methods of getting through the wall should also be rewarded:
+
+- If the party has a means of replicating the tooth design from the wood splinters on the floor, allow them a check to do this and then place this replica into the gang mark slot.
+- If the party has identified the opening in the wall, they can try to simply break down the wall to access the hideout.
+  - (Strength DC 20) To create a vulnerability in the wall that can be further worked into an opening. This will take about 1 minute of effort.
+  - Allow the use of spells, potions, or other suitable substances to break through the wall.
+
+Once through the hollow wall, the party will enter the hideout proper, finding themselves in the [recreation room](#recreation-room).
+
+## Recreation Room
+
+## FIXME Copied Content from here
 
 ## The Cellar
 
