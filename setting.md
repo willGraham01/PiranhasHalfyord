@@ -22,6 +22,8 @@ All businesses that are based in the town and have a permanent premises are foun
 
 FIXME: places that are very plot relevant, need maps or descriptions should have their own pages w/ links to resources if available. EG ordo magicae needs ot have the lab and upper floors described!
 
+FIXME: move descriptions from events and scenes into these sections, for streamlining. Explain this at top of this section or in the how to read section.
+
 ## The Docks
 
 Situated on the west bank of the river are the docks, with the commercial docks being separated from the merchant docks by the bridge.
@@ -94,6 +96,28 @@ The meeting hall contains a hearth and the bar, which backs onto the kitchen.
 There is a mezzanine level above the hearth for patrons, which leads to the guest rooms, and a private staircase behind the bar that leads to the owner's lodgings.
 A trapdoor behind the bar leads down to the cellar and, unbeknownst to the public, leads to a secret storeroom which is the base of the Piranhas gang.
 This section of the basement is also accessible from a sewer grate outside the rear of the building.
+
+## The Piranhas' Hideout
+
+FIXME write after tidying up copied content
+The recreation room is rectangular, approximately twice as long as it is deep.
+The cellar joins to it TSTK FIXME write the hideout layout into the setting or other place where descriptions are needed! Don't pollute the events.
+
+Going through the wall will place the party in the gathering hall that the gang has underground.
+This area will be well-lit and most likely populated by gang members, unless they were all apprehended at the docks.
+There are two further exits on either side of the far side of the room, both with closed doors.
+Immediately in front of the wall-door is a desk and a makeshift supply dump that the gang has been using for their magical items and potions.
+There is a logbook on the desk which details which materials are assigned to who, for which heists or missions - note that the cargo heist today is listed as the last entry on the board.
+The centre of the room is taken up by a recreation area - there are rugs and cushions to form a seating area, and a table with cards and games left out.
+There is a notice board on the wall just beside the "games" table which has gang announcements of sorts.
+In particular, there will be a "next delivery exchange" note which may incriminate Groubun.
+The far end of the room has a table that's used as an eatery, and an unkempt bookshelf.
+
+Taking the door at the far end of the room, on the same wall as that which leads to the cellar, will take the party to the lodgings.
+There are several beds in here, a few weapon racks with various items missing or mislaid, some spare plain clothes in wardrobes, and a number of silver-tooth necklaces similar to those that the party might have recovered from gang members they've encountered before.
+
+The door opposite to the lodgings is reinforced, and leads into a log corridor lit by scones.
+At the end of the corridor there are two sets of doors facing each other.
 
 ## Other Locations of Import
 

@@ -61,7 +61,7 @@ Inventive solutions for getting through the cellar door (using either the alcoho
 - (Investigation DC 12) Searching the small storage area between the common area and Fordem's room will reveal a crowbar in amongst the other supplies. It can be used to help with forcing the cellar door.
 - (Strength DC 17) (Automatic: Crowbar or other suitable tool) To force the cellar door lock, and provide access to the cellar.
 
-Once the party gains access to the cellar, move to [Entering the Hideout](#entering-the-hideout).
+Once the party gains access to the cellar, move to [Entering the Cellar](#entering-the-cellar).
 
 ### All Calm
 
@@ -112,19 +112,15 @@ Fordem will have said nothing to her in this time, barely realising that she wit
 
 Hope requires less convincing than in the other cases to help, if she can be reassured about the party's motivations.
 
-## Entering the Hideout
+## Entering the Cellar
 
-FIXME entering the hideout from the cellar entrance, copied content follows
-
-At this point, the party enters the hideout.
+After opening the cellar door, the party will almost have access to the hideout.
+Switch to the [hideout map](FIXME) if you are using it.
+A staircase leads down one floor / story from the cellar door, into a square room.
+There are no lit light sources in the room, though there is an unlit torch sconce at the bottom of the stairs.
 Whiskers will come down into the cellar with the party, but Hope will refuse to join the group.
-There are no lit light sources in the room - the party will need darkvision to see properly.
 
-In the cellar will be a lot of barrels containing - presumably - beer and other assorted alcohol.
-The room the party enters into will be square, appearing to have solid walls on all sides.
-A staircase leads down one floor / story from the cellar door.
-
-On the wall to the left of the stairs are barrels that genuinely contain alcohol, but also contain some ingredients that the party might recognise as valuable alchemical ingredients / spell components.
+On the wall to the left of the stairs are barrels that contain alcohol and other beverages that are sold at the tavern, but also contain some ingredients that the party might recognise as valuable alchemical ingredients / spell components.
 
 - (Strength DC 10) (ADV: Crowbar or other suitable tool) To open any of the barrels on this floor.
 - (Survival DC 14) (Arcana DC 14) To identify the "normal" alcoholic substances, and to identify the barrels that contain alchemical ingredients.
@@ -161,39 +157,43 @@ Once through the hollow wall, the party will enter the hideout proper, finding t
 
 ## Recreation Room
 
-## FIXME Copied Content from here
-
-## The Cellar
-
-At this point, the party enters the hideout map.
-Whiskers will come down into the cellar with the party, but Hope will refuse to join the group.
-If alive, the loot wolf will be staring at the hollow wall that opens up to the hideout.
-There are no lit light sources in the room - the party will need darkvision to see properly.
-
-In the cellar will be a lot of barrels containing - presumably - beer and other assorted alcohol.
-There is splintered wood and scratch marks on the stone floor near the wall opposite the stairs, in front of the hollow wall.
-The hollow wall also has a number of smaller barrels (that are almost empty) blocking direct access to it.
-On the wall to the left of the stairs are barrels that genuinely contain alcohol, but also contain some ingredients that the party might recognise as valuable alchemical ingredients / spell components.
-Behind this cluster of barrels is another gang sign, next to a loose brick that acts as a switch and opens the hollow wall.
-
-The party should hopefully begin investigating and looking for a way forwards; with the following information available through checks:
-
-- (Strength, DC 10 ADV: Crowbar or other suitable tool) To open any of the barrels on this floor.
-- (Strength, DC 15 ADV: Two party members work together) To move the smaller barrels along the floor.
-- (Investigation DC 13 / Perception PASSIVE DC 13) A character notices the scratch marks and wood splinters on the floor.
-- (Nature / Perception DC 16, Arcana DC 18) A character notices an odd smell - not associated with alcohol - coming from the larger barrels. Can also be used to identify the substances as those that were in abundance at the Ordo if the barrels are opened.
-- (Investigation DC 15 ADV: A gang symbol has been previously identified) To notice the marking on the wall, near the lever. Further investigation will reveal the loose brick.
-- (Investigation / Perception DC 14 ADV: Tapping the walls for hollow spots or loose bricks) Tapping along the walls identifies the hollow wall. If the character is not tapping along the walls, they might instead notice faint slits of light creeping through the stonework near the hollow wall, which is odd because they are underground and not outward-facing.
-- (Strength DC 20) The hollow wall can be broken down. This is LOUD.
-
-Allow other methods for discover of a way forward or ingenuity - using explosives to break down the walls for example by igniting the alcoholic barrels.
-Just make sure to note if the entry method the party chooses is LOUD, and/or destabilising to the structure of the building.
-
-Whiskers can be used to provide context clues.
-If the party is genuinely stuck, have them move a barrel which reveals a cat-sized hole.
-Whiskers (or a druid party member) can then go through the hole and open the hollow door from the inside.
-
 ## Hideout Recreational Area
+
+On the opposite side of the wall that opens out of the cellar will be a common or recreation room of sorts.
+This area is well-lit, contrary to the cellar, and looks like it sees regular use - there will be furniture placed around the room, a small kitchen-like area, and several bookcases and desks.
+The desk directly opposite the entrance from the cellar will have the gang's coded logbook, and the unencrypted copy that they are creating as fake evidence against Faire.
+The table in the middle / centre of the room will have [Carlton's letter to Groubun](FIXME) on it, asking for the [potion to revert Faire's form](../items/potion-of-corporeal-resetting.md).
+The board will also have recent additions to the usual gang marks, including one that has been recently added to implicate Faire.
+
+There will be at least two gang members present in the recreation room.
+If [Unexpected Guests](#unexpected-guests) or [the Jig is Up](#the-jig-is-up) occurred, the gang members that were tracked back from the docks will also be present here.
+If any of these additional gang members were severely injured when they arrived, have those members start in the hideout barracks (having just settled down to try and recover from their injuries).
+
+When the party enters the recreation room via the cellar, the gang members in the recreation room will be having a conversation, and they will all have their armour equipped and weapons to hand.
+They will all be gathered at the far end of the room, near the kitchenette looking area and door leading to the barracks.
+If the party enters carefully, they may be able to overhear part of their conversation.
+
+If the party arrived to anything other than [All Calm](#all-calm);
+
+- (Stealth DC 17) To enter the hideout without alerting the group of gang members, and reach a hiding space on the opposite of the room to the gang members.
+  - To get closer to the gang members undetected will require further stealth checks, at an appropriate DC as dictated by player actions.
+  - (Perception DC 10) To successfully listen in on the gang members' discussion. The character will overhear that Fordem has gone to see Carlton in his HQ, and usual activity in the hideout has been interrupted for the time being.
+    - 11+ (only in the event of [Magic Monsters](#magic-monsters) or [The Jig is Up](#the-jig-is-up)): The same gang member will comment on the fact that one of the "potion animals" came in with Fordem, rather than the usual way via the sewer-connection to the vault.
+    - 13+: One of the gang members will make an offhand comment that Fordem shouted this as he entered, and this caused him to spill ink over the copy of the logbook that they were working on. This is in reference to the logbook - currently resting on the desk opposite the cellar entrance - that the gang plans to use as "fake evidence" to pin the blame on Faire.
+    - 16+: The other gang member will mention that Fordem looked very concerned, and the fact that they have been put on alert likely means the plans to leave Halfyord are being bought forward.
+
+Otherwise, the two gang members that are present will be having a conversation across the room to each other.
+One will be seated at the desk across from the cellar entryway, working on the fake logbook to plant on Faire as evidence.
+The other will be sat at the table, sealing Carlton's letter and preparing to run an errand to delivery it.
+The gang member working on the logbook will be expecting other gang members to return to the hideout from the heist at the docks, so will not be immediately weary when they hear / see the wall opening.
+They will get suspicious if no-one they recognise appears through the gap after a short time though.
+
+- (Stealth DC 10) The gang member working on the logbook does not clock the party's presence when the cellar wall opens out.
+  - (Perception DC 10) To overhear the conversation between the gang members. The one at the desk will ask where the other is going, and the other gang member will respond by explaining Fordem is planning with Carlton in his HQ, and gave him a letter to deliver to the Ordo Magicae.
+    - 13+: The gang member at the desk will mention that it looks like "everything is coming together", and soon they'll be leaving Halfyord with their pockets lined.
+  - Once the party overhears this information, have the gang member at the desk look towards the cellar wall and shout a greeting to (what they presume) are more gang members arriving.
+
+<!-- FIXME GOT TO HERE!!!!!! -->
 
 Going through the wall will place the party in the gathering hall that the gang has underground.
 This area will be well-lit and most likely populated by gang members, unless they were all apprehended at the docks.
