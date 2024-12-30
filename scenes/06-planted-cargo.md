@@ -142,7 +142,7 @@ If a character loiters around the underpass, when the gang kicks off it's attack
 
 ### Additional Gang Members
 
-If [Groubun's suspicion](FIXME) has reached a suitable level, the gang will send additional manpower to help with the heist.
+If [Groubun's suspicion](../scenes.md#groubuns-suspicion) has reached a suitable level, the gang will send additional manpower to help with the heist.
 These gang members will be loitering on the bridge, overlooking the mooring station.
 If one player character in particular made themselves obvious to Groubun, and this character is also on the bridge, this group might try to pre-emptively sneak up on this character before the attack begins.
 

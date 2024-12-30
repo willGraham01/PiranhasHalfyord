@@ -57,7 +57,7 @@ But he is unlikely to share a lot of it.
 
 - Groubun knows the true events that lead to Faire's disappearance:
   - Both him and Faire were working in the lab around noon, when Jenessa left for the Herbalist.
-  - Groubun slipped some of the [potion of polymorph](FIXME) into Faire's coffee, which it didn't take long for him to drink.
+  - Groubun slipped a potion of polymorph into Faire's coffee, which it didn't take long for him to drink.
   - After Faire's transformation, Groubun quickly scooped up the confused Faire into a cage, and transported him to the Day's Rest with the [Confining Collar](../items/confining-collar.md).
   - Groubun met Fordem and Carlton in the hideout, where they put the collar on Faire, who was now [Whiskers](../characters/whiskers.md).
 - Groubun also has his own version of events that lead to Faire's disappearance:

@@ -183,7 +183,7 @@ This will reveal small hole in the brickwork behind the vines, revealing an appr
 - Sets of dockworkers clothes.
 
 The exact quantities of these items will depend on how many gang members are going to be present tomorrow, which depends on your party size.
-See [the relevant combat](FIXME) for the numbers.
+See [the relevant combat](./06-planted-cargo.md#encounter-information) for the numbers.
 
 The party should be able to infer that this means _some_ gang members will be present tomorrow in disguises; as a members of the public or travellers, and others as dock workers.
 If the party wants, they can remove any items from the cache and the gang will not have them at their disposal tomorrow.
