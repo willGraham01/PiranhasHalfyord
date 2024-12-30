@@ -325,6 +325,9 @@ Carlton and Fordem can reveal (and are willing to trade) the following informati
 If all of the above fail, have Carlton pretend to offer a bribe to the party in exchange for their silence.
 Whilst he is "negotiating" with the party, have Fordem initiate combat by taking an action, then roll initiative.
 
+If the party accepts Carlton's deal, Groubun **looses** FIXME suspicion points (meaning the party may potentially have time to apprehend him).
+These points should be given back to his total if the party attacks Carlton (or otherwise goes back on their word) after making a deal to get the information Carlton offered.
+
 ### Encounter Information
 
 Trigger: Parley fails, or the party conducts a hostile action.
@@ -366,7 +369,7 @@ The fight takes place in Carlton's HQ room.
 - Fordem has his weapons and gold tooth necklace.
 - The party is then free to loot the room(s).
 
-### Search the HW
+### Search the HQ
 
 Once the fight is over, the party can freely search the HQ, and Carlton's adjoining room, for the remaining clues.
 
