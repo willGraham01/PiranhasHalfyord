@@ -33,7 +33,7 @@ The party will likely arrive at the scene in one of two ways;
 - Via the streets, overground, in pursuit of either animated loot or gang members following events at the docks. They may also be following the trail from the Ring of Seeking.
 - Via the sewers, if the party is quick enough to follow the animated loot before it reaches the vault and the rear entrance is sealed.
 
-In the latter case, the party will enter this scene in the Piranhas' vault, jump to the [relevant event](FIXME).
+In the latter case, the party will enter this scene in the Piranhas' vault, jump to the [relevant event](#the-vault).
 The party will likely not have Whiskers with them, but the scene setup is otherwise identical.
 
 The party's expected manner of arrival is via the streets and the main entrance to the Day's Rest.
@@ -234,6 +234,8 @@ Notable marks include; TSTK - make an image and collate all mentioned symbols in
 - A mark for "leader", which is an alias for Carlton.
 - A mark for "deputy", which is an alias for Fordem.
 - A mark for "ally", which is an alias for Groubun.
+- A mark that just says "ordinator", which is a planted alias for Faire.
+  - (Investigation DC 10 / Survival DC 14) This mark was added much more recently than the others. It is drawn on rather than carved into the wood, and the paint is still slightly damp.
 - A mark for "footpad" or "member", which is a generic alias for the lower members of the gang.
 - (Investigation DC 10) All the other notes on the board are written in terms of these signs.
   - 11+: One note appears to have today's date, the word "docks", and a number of "footpad" symbols on it. The number of footpad symbols matches the number of gang members that were sent to the docks. If additional gang members were sent due to Groubun's suspicion, the character notices that there appear to have been additional "footpad"s added more recently.
@@ -241,74 +243,148 @@ Notable marks include; TSTK - make an image and collate all mentioned symbols in
 
 ## The Barracks
 
-TSTK TO HERE, has Whisker's broken cage
+The room that the Piranhas use as a barracks or armoury of sorts connects to the recreation room, on the wall opposite to the corridor leading to the vault and Carlton's HQ.
+There may be a wounded gang member in one of the beds, depending on events at the docks and which situation the party arrived to.
+
+The only notable item of relevance to the plot in this room is Whisker's broken cage, that he escaped out of before being "adopted" by Hope upstairs.
+It is a fairly small box, slightly bigger than the box one might use to take cats on public transport or in cars, but is composed entirely of bars with a solid floor rather than having 3 solid walls and a door.
+
+Inspecting the cage will reveal that it might have been fairly sturdy at one point, but it looks like the locking mechanism on the cage has been clawed at and broken away from the cage frame itself.
+If Whiskers is with the party, he will growl angrily at the cage, indicating what its previous contents were.
 
 ## The Corridor
 
-Exiting the recreational room via the door opposite the lodging area will open into a narrow corridor.
-If a fight broke out in the recreational area, have whichever party member opened the door notice Fordem at the far end of the corridor taking a key out of the vault door.
-Fordem will see the party and duck into Carlton's room (the door will not be locked though).
-
+Exiting the recreational room via the door opposite the barracks will open into a narrow corridor.
 Proceeding down the corridor is harmless, though the party might be weary of traps.
-The two doors at the far end of the corridor lead to either Carlton's study or the vault.
+The two doors at the far end of the corridor lead to either Carlton's HQ or the vault.
 
-The vault door has a heavy lock and iron bars across.
-The other door is again reinforced but unlocked and leads to Carlton's planning room, and a door further in to his private room.
+The door to Carlton's HQ is relatively unassuming, and does not have any distinguishing markings to indicate it leads into the HQ.
+It will not be locked when the party approaches, but when they move up to the door have Carlton call out to the party, inviting them to parley.
 
-Unlocking the vault without Fordem's key is a very hard check (Thieves' Tools, DC 25).
-A failed attempt will cause a loud, shrilling sounds to be emitted from the door and force anyone in the vicinity to make a DC 15 Wisdom saving throw.
-On a failed save, a character takes 1d6+2 psychic damage and has a nasty headache.
+Across from the door to the HQ is the vault door - it has a heavy lock on it, and thick iron bars across it.
+The vault door requires two keys to be inserted into it simultaneously to be opened from the corridor - one of these keys is carried by Fordem and Carlton each.
+The party may already have Fordem's key if they stole it from him when they visited the Day's Rest Tavern or found the spare key in his upstairs room.
+The two locks are distinct, so placing one copy of Fordem's key into each of the two keyholes will not unlock the vault, and will trigger the trap as below.
+
+- (Thieves' Tools DC 25) To unlock one of the two vault locks without the required key.
+  - On failure: The character attempting to unlock the vault door takes 1d8 lightning damage as the metallic components of the door begin to conduct a harmful electric current. An alarm siren briefly sounds too. Fordem and Carlton will be alerted to the group's presence if they weren't already, and in any event will comment on the futility of opening the vault without the key and invite the party to parley.
+
+The vault door can be unlocked from the inside by pulling a release lever next to the door.
+This will temporarily open the vault door, but it will automatically close and lock after 30 seconds.
 
 ## The Vault
 
 Inside the vault are most of the valuables that the gang has managed to steal since Groubun begun assisting them.
-Any animated wolves that made it from the docks will be standing idly in the room, they will not react to the party's entry.
-If the party manages to infiltrate the sewers they will enter directly into the vault (from the "ceiling") - they will be able to lift the lock on the vault from the inside without issue, and the alarm will not sound in this case.
+Any Animated Loot that made it from the docks will be standing idly in the room (even if not via the sewers), they will not react to the party's entry.
+If the party manages to infiltrate the sewers they will enter directly into the vault, via the sewer entrance that the Animated Loot used.
 
-There is a small fortune stored in the vault, however the party should be aware that Kamonas and Shufharz are looking to reclaim most of the wealth the gang has stolen thus far.
-Allow them to line their pockets with a few gold coins (2d6+1) each, however if they attempt to take more, have the animated wolves turn on them.
-The wolves turning on them will also trip the alarm if it was not triggered already.
+There will be a small horde of valuables in the vault; the party might recognise some of the valuables as those that have gone missing if Shufharz and Kamonas were asked about this earlier.
+The majority of these will be packed into wooden crates (currently unsealed) with the lids off and laid beside the crates they fit onto.
+The party may well attempt to acquire some of this wealth for themselves, however be sure to comment that very little of what is in the vault is actually in coins - it is mostly in items like jewellery, paintings, ornaments and the like, which would need to be fenced and are unwieldy to transport.
+If the party persist, allow them to take items worth a total value of 2d6+1 gold pieces each, and make a comment that the Animated Loot that is in the vault with them starts to twitch.
+If the party attempts to take any more items out of the vault, have the Animated Loot turn on them, and the vault alarm sound.
+The party's reward at the end of the adventure will also be smaller, since Kamonas' accountants and scribes will note the missing deficit and determine that the gang must have made off with some of the valuables before the party arrived.
 
-If the alarm goes off and the party entered via the sewers, have all gang members (including Carlton and Fordem) open the vault door to confront the party once combat with the wolves ends.
-If the alarm goes off and the party has made their way through the hideout, have Carlton call out to the party from his study to entice them into conversation and the final encounter.
-If they don't take the bait, have him and Fordem move out to confront them - with the animated bear already up.
+- If the vault alarm sounds in this way, have Carlton and Fordem make another comment like the one described in [the corridor](#the-corridor). If the party does not immediately take up this offer of parley, they will come through the HQ door (with the Piranha taxidermy already animated) and attack, offering no quarter.
+  - If the party entered via the sewers, there may also be gang members in the recreation room. In this case, have these gang members enter the corridor when Carlton and Fordem make their offer of parley (Carlton will tell them to hold for the time being). Aggressive actions towards these gang members will make Fordem and Carlton join the fight as per the text above. Otherwise, they will follow the party into the HQ when they accept the parley offer, and potentially join the fight that ensues.
+
+If the party did not enter via the sewers, a character inspecting the room can notice the one-way hatch in the ceiling.
+
+- (Investigation DC 10) To notice the one-way trapdoor in the ceiling.
+- (Perception DC 10) There is a lingering smell of waste and sewage in the vault.
 
 ## Carlton's HQ
 
-Assuming Carlton and Fordem are still in his HQ, the party will need to open the door to trigger the final confrontation.
-The door itself will not be locked, nor is it trapped - the party can just walk in.
-When they open the door, Carlton will be sitting at the desk directly ahead of them, and Fordem will be standing nearby with his weapon drawn.
-Carlton will attempt to engage the group in dialogue (provided they did not ready any hostile actions, which will skip to the combat).
+Carlton and Fordem will be in the HQ, and the party will need to open the door to trigger the final confrontation.
+Carlton may have invited the party in for parley depending on how they acted in the vault or corridor, or the party's entry might take the two of them by surprise.
+Regardless, they will not be immediately hostile unless the party comes into the room guns blazing.
 
-Carlton will attempt to negotiate his freedom; he still has a few tricks up his sleeve, but he is also aware that he has little in the way of bargaining chips.
-He will begin by offering up Faire's location - and the collar-key that he keeps around his neck.
-The party might have already deduced that Whiskers is Faire by this point though, in which case Carlton will offer to spill the beans on the entire operation with Groubun, again in exchange for his freedom.
-Carlton cannot be convinced to turn himself in - Fordem however can be persuaded to take the fall for Carlton (and potentially even testify against Groubun).
-Fordem will not give himself up though, unless Carlton's negotiations fail.
-The following conversation paths are available:
+When the party enters, Carlton will be sitting at the desk directly ahead of them, and Fordem will initially be next to the desk, seemingly pointing to something on the desk.
+Fordem is pointing to a map of the sewer system that is laid out across Carlton's desk, which is being weighed down (to prevent it curling up) by a candle on one corner and a [potion of animating](../items/potion-of-animating.md) on the other corner.
+Fordem will move away from the desk towards the door to Carlton's room for cover as the conversation progresses, picking up a wand as he does, but will not take any outwardly hostile actions.
+Whiskers will hiss angrily at Carlton and Fordem when he enters, which will prompt an offhand comment from one of them.
+Carlton will then engage the group in the promised parley.
 
-- Carlton's opening greetings and exchanges. It will culminate with Carlton asking why the group is here / is so motivated.
-- Carlton will offer up information about Faire in exchange for his freedom.
-  - The party can reject this offer.
-  - The party can demand Carlton still come with them, rather than being killed in his hideout. Carlton will reject this offer, but Fordem will step in to throw himself under the bus. (Persuasion, DC20) Fordem can be convinced to take the fall for Carlton, and Carlton goes free.
-- Carlton offers up information about the operation with Groubun.
-  - The options are identical to the earlier offer to Faire.
-- Having exhausted all his options, Carlton will initiate combat.
+- (Perception DC 19) (Arcana DC 19) To notice / identify that Fordem picks up a wand from Carlton's desk. The spells stored in the wand cannot be deduced via this check.
 
-Use the ["encounter with Carlton"](../../combats/carlton.md) combat for the final confrontation.
+Carlton and Fordem at this point will be happy to escape with their lives and freedom, and are unconcerned about taking the gang's stash with them.
+Depending on the party's knowledge, Carlton and Fordem may have information they can trade for their freedom.
+In exchange, they will request that the party leave the hideout and report it as empty to Shufharz - Carlton and Fordem will be gone by the time the guard turn up to secure the area.
+They will use the time between the party leaving to report to Shufharz and the guard arriving to exit to the boat waiting in the sewers (accessible via Carlton's room) and escape Halfyord.
 
-### Loot
+Carlton and Fordem can reveal (and are willing to trade) the following information:
 
-Once the fight is over, the party can loot the HQ and the bodies of Carlton and Fordem for valuables.
+- That Groubun was the one supplying them with potions and other magical assistance.
+  - (Persuasion DC 18) To get Carlton to offer up this information as a sign of goodwill behind his parley offer.
+  - Whiskers will meow in confusion and shock at this revelation.
+- If it is clear that the party knows that Groubun was in on the plot, Carlton and Fordem can offer up the details of the arrangement.
+  - They will explain everything short of how they were planning to turn Faire back into an elf at the end of everything. If the party did not find the logbook copy, "fake" gang mark on the notice board, or letter in the recreation room, Carlton can offer these to be used as evidence (and explain their purpose).
+- If the party already has sufficient evidence to explain the plot, Carlton and Fordem will offer up the cure for Faire's condition that they know of. They will also reveal that it will wipe his memory of being a cat.
+  - If asked how the cure can be altered, Carlton and Fordem will dismiss the question because they don't know the answer. They will suggest - now that the party knows the cure has this property - asking members of the Ordo how to do this.
 
-- Carlton's desk has a master key for the hideout and cellar. It also has a number of papers that incriminate Groubun, including instructions for the use of the collar and the runic key to unlock it.
+If all of the above fail, have Carlton pretend to offer a bribe to the party in exchange for their silence.
+Whilst he is "negotiating" with the party, have Fordem initiate combat by taking an action, then roll initiative.
+
+### Encounter Information
+
+Trigger: Parley fails, or the party conducts a hostile action.
+Intended difficulty: Medium / Hard
+
+Participants:
+
+- [Shark Carlton](../characters/shark-carlton.md)
+- [Fordem Chev](../characters/fordem-chev.md)
+- 1 Animated Piranha
+
+Enemy Objectives:
+
+- Kill or subdue the party, this is the only route to freedom!
+
+#### Initial Locations
+
+The fight takes place in Carlton's HQ room.
+
+- Carlton will start behind his desk.
+- Fordem will start in the doorway to Carlton's room from the HQ.
+- The Animated Piranha starts as a piece of taxidermy on the wall to the right of the entrance from [the corridor](#the-corridor). Carlton or Fordem will animate it on their first turn.
+
+#### Other Encounter Factors
+
+- This is a fight to the death, surrender is beyond Carlton and Fordem at this point.
+  - Carlton and Fordem can be knocked unconscious, if the party wishes to take them alive. They will obviously attempt to escape if they are not bound and restrained when they come to conciousness.
+- Carlton will activate their ring on turn 1.
+- Fordem will pick up a wand from the desk that lets him cast Counterspell once, Hold Person once, and Dispel Magic twice, before the wand is exhausted and breaks. The spell DC of the wand is 15, otherwise use Fordem's Intelligence as his casting stat to determine any necessary attack roll bonuses. The wand cannot be recharged and breaks if Fordem exhausts all the charges in it.
+- Whoever acts first between Fordem and Carlton will animate the piranha on the wall, bringing it into the fight.
+  - Roll initiative for the Animated Piranha before the fight breaks out, but skip its turn if it acts before it can be animated.
+  - Carlton can kick his desk over to propel the potion towards the wall to achieve this.
+  - Fordem can do this using the wand he has picked up off the desk (to add some flavour to the wand). In this case, have the potion on Carlton's desk be spilled harmlessly during the fight.
+- Additional gang members may be present if the party did not deal with the group in the [recreation room](#recreation-room).
+
+#### Loot
+
+- Carlton has his two scimitars, and his golden tooth necklace. The blink ring and pistols can also be looted but will need repair before they are in a usable state.
+- Fordem has his weapons and gold tooth necklace.
+- The party is then free to loot the room(s).
+
+### Search the HW
+
+Once the fight is over, the party can freely search the HQ, and Carlton's adjoining room, for the remaining clues.
+
+- Carlton's desk has a master key for the hideout and cellar.
+  - If the desk was knocked over during the fight, these items may be on the floor.
+  - (Thieves' Tools DC 16) (AUTO: Carlton's master key) To open the desk drawers, which are locked.
+    - One of the desk draws has a note from Groubun (which does not identify his person), giving instructions for the use of the [Confining Collar](../items/confining-collar.md) and the runic key to unlock it.
+  - On the desk is a map of the sewers (that Fordem was pointing to earlier). A route is drawn in red, that starts from a tooth mark and appears to end outside Halfyord's city walls.
 - Carlton's room has further loot:
   - The bedside table has the collar key on it.
-    - Inside the chest of draws is a potion. (Arcana DC 10 / Identify / Detect magic) it is a potion of dispelling (this can be used to restore Faire to elf form).
-  - The chest contains some nice clothes, a few gems, and a coin pouch.
+  - A chest at the end of Carlton's bed contains some nice clothes, a few gems, and a coin pouch.
     - Gems: (party size * 2) pearls worth 25GP each.
     - Coins: (party size)d4s gold pieces are found.
     - Clothes: A shirt of mending can be found in the chest.
-  - The weapon rack has a rapier and a shortsword that can be taken.
+  - Carlton's weapon rack has a rapier and a short-sword that can be taken.
+  - (Perception DC 15) (Survival DC 14) (Nature DC 17) (Investigation DC 16) To identify a small crack in the far wall, from which an unpleasant smell is coming.
+    - Pressing against this crack will cause the section of wall to turn as if on hinges, revealing an entrance into a sewer tunnel. A small boat with a pair of oars is floating on top of the sewage thoroughfare, moored to a pole. The thoroughfare, if followed, leads out beyond the city walls into a rather unclear pond.
 
-Once the party is finished, move into the conclusions scenes.
+## Next Scenes
+
+Once the party is finished, move on to the [Conclusion](./08-conclusions.md).
