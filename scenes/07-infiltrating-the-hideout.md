@@ -157,12 +157,10 @@ Once through the hollow wall, the party will enter the hideout proper, finding t
 
 ## Recreation Room
 
-## Hideout Recreational Area
-
 On the opposite side of the wall that opens out of the cellar will be a common or recreation room of sorts.
 This area is well-lit, contrary to the cellar, and looks like it sees regular use - there will be furniture placed around the room, a small kitchen-like area, and several bookcases and desks.
 The desk directly opposite the entrance from the cellar will have the gang's coded logbook, and the unencrypted copy that they are creating as fake evidence against Faire.
-The table in the middle / centre of the room will have [Carlton's letter to Groubun](FIXME) on it, asking for the [potion to revert Faire's form](../items/potion-of-corporeal-resetting.md).
+The table in the middle / centre of the room will have [Carlton's letter to Groubun](#carltons-letter) on it, asking for the [potion to revert Faire's form](../items/potion-of-corporeal-resetting.md).
 The board will also have recent additions to the usual gang marks, including one that has been recently added to implicate Faire.
 
 There will be at least two gang members present in the recreation room.
@@ -193,49 +191,57 @@ They will get suspicious if no-one they recognise appears through the gap after 
     - 13+: The gang member at the desk will mention that it looks like "everything is coming together", and soon they'll be leaving Halfyord with their pockets lined.
   - Once the party overhears this information, have the gang member at the desk look towards the cellar wall and shout a greeting to (what they presume) are more gang members arriving.
 
-<!-- FIXME GOT TO HERE!!!!!! -->
+### Combat Encounter (Recreation Room)
 
-Going through the wall will place the party in the gathering hall that the gang has underground.
-This area will be well-lit and most likely populated by gang members, unless they were all apprehended at the docks.
-There are two further exits on either side of the far side of the room, both with closed doors.
-Immediately in front of the wall-door is a desk and a makeshift supply dump that the gang has been using for their magical items and potions.
-There is a logbook on the desk which details which materials are assigned to who, for which heists or missions - note that the cargo heist today is listed as the last entry on the board.
-The centre of the room is taken up by a recreation area - there are rugs and cushions to form a seating area, and a table with cards and games left out.
-There is a notice board on the wall just beside the "games" table which has gang announcements of sorts.
-In particular, there will be a "next delivery exchange" note which may incriminate Groubun.
-The far end of the room has a table that's used as an eatery, and an unkempt bookshelf.
+Provoking the gang members in this room will lead to a combat with these gang members.
+There are no special objectives for this combat, nor scaling of the number of gang members.
+The gang members will be trying to kill the intruders, and the combat "reward" will be being able to explore the immediate area uninterrupted.
 
-Taking the door at the far end of the room, on the same wall as that which leads to the cellar, will take the party to the lodgings.
-There are several beds in here, a few weapon racks with various items missing or mislaid, some spare plain clothes in wardrobes, and a number of silver-tooth necklaces similar to those that the party might have recovered from gang members they've encountered before.
+### Looking for Clues
 
-The door opposite to the lodgings is reinforced, and leads into a log corridor lit by scones.
-At the end of the corridor there are two sets of doors facing each other.
+After dealing with the gang members in the room (and possibly the adjoining barracks), the party can explore the area and might uncover the available clues.
 
-### Populated
+#### Coded Logbook
 
-If the party gained access to the hideout in a LOUD way, Carlton and Fordem will have joined the rest of the gang members in the recreational area.
-The gang members in the lodging room will also be present immediately, rather than absent from the main room.
-If this is the case, use the notes in the "encounter with Carlton" section - the resulting fight will play out slightly differently due to the distance to the vault and change of scenery, but otherwise can take place here.
+The desk opposite the entrance from the cellar has the gang's coded logbook, and the un-encrypted copy that they are making to leave as fake evidence to implicate Faire.
+The un-encrypted copy will not be complete, missing the entries in the actual (encrypted) logbook that record events from the previous 2 days.
 
-Otherwise, only the gang members who made it back from the heist will be present in the hideout, along with 2 gang members who will be at the table playing cards.
-There will also be at least one gang member in the lodging room, partially dressed.
-If an animated wolf was in the cellar, it will immediately head through the wall and towards the vault.
-Have the gang members exclaim in shock, but do not blow the party's cover yet - have them exclaim their surprise or why the back entrance was not used instead.
+- (Investigation DC 10) (ADV: Character overheard the gang members mention the logbook) To discover the two logbooks, side-by-side, and both open to a similar page. One appears to be incomplete, with the subsequent pages being blank, but the other appears to be filled out.
+  - 12+: The filled out notebook appears to be encrypted, whereas the un-filled notebook is written in common and legible without the need of a cipher.
+  - 15+: There are several references to Faire in the last few weeks in the un-encrypted logbook, and all of them mention either receipt of supplies or delivery of alchemical materials.
+  - 17+: (Only if the encrypted logbook has been deciphered, do not require a re-roll if deciphering occurred after this check) There is a delivery entry in the encrypted logbook for yesterday evening, the symbol used for the delivery-person matches [Groubun's alias on the gang board](#gang-notice-board).
+- (Intelligence DC 15) (ADV: Thieves' Cant / suitable feature involving codebreaking / the board with the gang marks has been discovered) To decipher the logbook, based on context clues. This does not provide complete translation, but provides a working understanding of what is in the notebook. It does highlight that Faire's name has replaced someone else's in the translation between the logbooks, however.
 
-- (Stealth DC 15 GROUP) The party's use of the hollow wall and subsequent entry does not alert the gang members playing cards. Put this down to EG the gang members both sitting at chairs that face away from the entrance, or be in the middle of a discussion.
+#### Carlton's Letter
 
-There is more evidence that the party can gather in this room.
-If the gang members have not been dealt with, moving around the room will require stealth checks.
+On the table near the centre of the room will be a note that Carlton instructed to be delivered to Groubun, the text of which [can be found here](../items/carltons-letter-to-groubun.md).
+It is sealed in an envelope that contains no text nor name - one of the gang members in the recreation room may mention that they were told to deliver it directly to Groubun at the Ordo, rather than posting it.
+The letter is not encrypted nor written in Thieves' Cant, since Groubun needs to be able to read it.
+However, it does not use names nor provide any other identifying information about the parties involved.
 
-- (Perception DC 15) If the gang members are not alerted, they can be eavesdropped on. Most of their conversation will be mundane, but they will also talk about today's heist. One will mention Groubun's visit last night (only referring to him as "the dwarf"). Another might mention that the others have been gone longer than expected.
-- (Investigation / Nature / Survival / Arcana DC 10) The supply shelf can be investigated to reveal potions very similar in substance and appearance to those Groubun was creating last night. Detect magic or Identify can also provide this information.
-- The logbook on the desk can be read for evidence. A character will notice that someone was in the process of copying from one book into the other, but notices that the incomplete book has Faire's name in it, whilst the complete one just has "G".
-- The notice board near the table with cards will have the delivery notice on it, again with a "G" in place of an actual name.
-- (Investigation DC 10) Looking through the lodgings room will reveal a cat-carry cage in one of the corners of the room.
+This letter contains a short note requesting that Groubun deliver the [potion that will restore Faire's form](../items/potion-of-corporeal-resetting.md), as the gang is beginning to leave Halfyord and frame Faire in the process.
+It also mentions the conclusion of the arrangement between Groubun and the Piranhas gang.
 
-If the gang members are alerted here, then use the "hideout rec room" encounter for guidance.
-Importantly, if the party gets into a fight here, having not ENTERED in a loud manner, do not have Carlton and Fordem join the fight.
-But do have Fordem be seen ducking into Carlton's study when the party moves into the corridor towards the vault.
+#### Gang Notice Board
+
+Hanging on one of the walls in the room is a notice board of sorts that the gang clearly uses for organisational purposes.
+It contains a mixture of paper notes that are fixed to the board via nails or knives, and etched into the wood of the board itself is the legend for translating the gang marks that the Piranhas use to communicate.
+
+A character inspecting the board will immediately notice that there is a key to the gang marks on this board (though if no gang marks were found, they might not necessarily know what these symbols mean).
+The full key will be available to read, along with some marks that appear in the logbook and on the other notes on the board too.
+Notable marks include; TSTK - make an image and collate all mentioned symbols into it!!!
+
+- A mark for "leader", which is an alias for Carlton.
+- A mark for "deputy", which is an alias for Fordem.
+- A mark for "ally", which is an alias for Groubun.
+- A mark for "footpad" or "member", which is a generic alias for the lower members of the gang.
+- (Investigation DC 10) All the other notes on the board are written in terms of these signs.
+  - 11+: One note appears to have today's date, the word "docks", and a number of "footpad" symbols on it. The number of footpad symbols matches the number of gang members that were sent to the docks. If additional gang members were sent due to Groubun's suspicion, the character notices that there appear to have been additional "footpad"s added more recently.
+  - 14+: One note appears to have yesterday's date, the symbol for "delivery", and the "ally" alias.
+
+## The Barracks
+
+TSTK TO HERE, has Whisker's broken cage
 
 ## The Corridor
 
