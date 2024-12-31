@@ -101,7 +101,7 @@ This section of the basement is also accessible from a sewer grate outside the r
 
 FIXME write after tidying up copied content
 The recreation room is rectangular, approximately twice as long as it is deep.
-The cellar joins to it TSTK FIXME write the hideout layout into the setting or other place where descriptions are needed! Don't pollute the events.
+The cellar joins to it FIXME write the hideout layout into the setting or other place where descriptions are needed! Don't pollute the events.
 
 Going through the wall will place the party in the gathering hall that the gang has underground.
 This area will be well-lit and most likely populated by gang members, unless they were all apprehended at the docks.

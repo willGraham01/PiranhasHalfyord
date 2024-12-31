@@ -72,7 +72,6 @@ In this case, the party will be forced to either capture a gang member who is pr
 If any gang members escape, they will alert everyone in the hideout and the party will face much tougher resistance when they arrive.
 
 Failing to capture a gang member, or otherwise learn the location of the hideout in the above circumstance, results in the party failing the adventure if they cannot track Carlton down by the end of the day.
-The Piranhas successfully move the stash in their vault out of Halfyord, and plant their evidence on Faire (TSTK see possible endings FIXME).
 
 ### Gang Members Disguised as Dock workers
 

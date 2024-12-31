@@ -229,7 +229,7 @@ It contains a mixture of paper notes that are fixed to the board via nails or kn
 
 A character inspecting the board will immediately notice that there is a key to the gang marks on this board (though if no gang marks were found, they might not necessarily know what these symbols mean).
 The full key will be available to read, along with some marks that appear in the logbook and on the other notes on the board too.
-Notable marks include; TSTK - make an image and collate all mentioned symbols into it!!!
+Notable marks include; FIXME - make an image and collate all mentioned symbols into it!!!
 
 - A mark for "leader", which is an alias for Carlton.
 - A mark for "deputy", which is an alias for Fordem.
