@@ -98,4 +98,5 @@ Level 1 (4 / day):
 - Find Familiar
 - Identify
 - Mage Armour
+- Speak with Animals (R)
 - Witch Bolt
