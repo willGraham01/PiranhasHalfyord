@@ -1,5 +1,17 @@
 # Setting
 
+This section describes the town of Halfyord, where the adventure was originally intended to take place.
+The town is deliberately designed to be somewhat self-contained, to allow the adventure to be "insertable" into larger games or longer-running campaigns, and some aspects of teh descriptions below are left deliberately vague.
+In particular, there is deliberately no mention of the state or wider governing body that Halfyord belongs to, the major settlements that it trades with or is situated between, and the details about the Ordo Magicae are deliberately limited just to the organisational structure within the town's guildhall itself.
+
+DMs should feel free to expand on the descriptions given here, or adapt them as necessary to suit their needs or personal campaigns and games.
+A more detailed discussion of the core mechanics that the story depends on, and how to change the appearance of the adventure without changing the underlying store is given in the [customising the adventure](FIXME) section.
+
+Some locations within Halfyord have detailed descriptions and floorplans, since the party is expected to explore and interact with these environments in depth during the story.
+These locations are given a short summary in the [following section](#halfyord), and are further elaborated on in the [mapped locations](FIXME) section, and sample floor-plans are provided for online TTRPG tools.
+
+## Halfyord
+
 Halfyord is a prosperous town that straddles both sides of the river Hal, which runs north to south through the town and split it into two (referred to as the east and west bank).
 The town started off as a small fishing town that ran a ferry commissions for travellers looking to cross the banks of the Hal.
 Over time, the town grew in importance and size as the number of travellers increased and the surrounding roads and trade routes began to develop.
@@ -24,7 +36,7 @@ FIXME: places that are very plot relevant, need maps or descriptions should have
 
 FIXME: move descriptions from events and scenes into these sections, for streamlining. Explain this at top of this section or in the how to read section.
 
-## The Docks
+### The Docks
 
 Situated on the west bank of the river are the docks, with the commercial docks being separated from the merchant docks by the bridge.
 A small underpass runs underneath the bridge that links the two areas of the docks.
@@ -38,7 +50,7 @@ It typically sees a lot of activity in the early mornings and late afternoons of
 The merchant docks to the north of the bridge see a large amount of activity, seeing a large number of goods passing through in both directions each week.
 Large warehouses line the docks and back onto the town streets behind, with cranes and other lifting machinery being present at a number of docking stations along the bank.
 
-## The Great Market Square
+### The Great Market Square
 
 On the west side of the river, visible from the docks, sits the Great Market Square.
 It is open to the air, and centres on a statue of the town founder, atop a large fountain.
@@ -51,7 +63,7 @@ The square is also typically where businesses will go to negotiate and finalise 
 Governor's Walk is the street that runs from the Great Market Square directly to the Magistrate's office and attached barracks.
 The main road through town linking the west and east gate passes along the southern edge of the square.
 
-## The Ordo Magicae Outpost
+### The Ordo Magicae Outpost
 
 Halfyord is large enough to warrant a permanent outpost for the Ordo Magicae, located to the south of the Great Market Square.
 It is a detached building, much like most of the buildings on the west bank, but is not as grand as a full guildhall.
@@ -64,7 +76,7 @@ The first floor hosts a communal living space, rooms for the lower-ranking perma
 The laboratory is primarily for members of the guild to conduct experiments in, and to use when manufacturing items commissioned through the store-front on the ground floor, but is also where the guild stores its alchemical or magical components (such as gems).
 The second (top) floor has rooms for the Ordinator and their Apprentice.
 
-## The Magistrates Office and Barracks
+### The Magistrates Office and Barracks
 
 The magistrates office is the public-facing courthouse, as well as the place of residence for the local governor.
 It is built at the end of Governor's Walk, the main street leading directly to the Great Market Square and lined with mansion houses owned by the city elite, most of which are on the city council in some capacity.
@@ -75,7 +87,7 @@ The main entrance now leads into a lobby and the council chambers (on the ground
 The barracks is mostly accessed through a side-entrance that is not visible from the front of the building, with the jail entirely underground beneath this part of the building.
 The upper floors of the barracks home the city guard who do not own a residence inside the city, as well as providing modest quarters for the captain of the town guard.
 
-## The Temple
+### The Temple
 
 Halfyord is home to an ecumenical temple to no particular deity, which is open to public worship and holds sermons on weekends.
 It can be found on the eastern bank of the Hal, on the edge of the residential suburbs near the city wall.
@@ -86,7 +98,7 @@ It is also the de-facto hospital for the town, and gets most of its herbal suppl
 
 The temple is funded mostly by donations from pilgrims on their way to holy sites of greater import, and the healing services it provides.
 
-## The Day's Rest Tavern
+### The Day's Rest Tavern
 
 The Day's Rest is one of several taverns that can be found on the east bank of Halfyord.
 It's residents are typically locals from the surrounding suburbs, and it typically does not see much of the merchant traffic who typically stay either closer to the docks or on the west bank.
@@ -94,10 +106,11 @@ It's residents are typically locals from the surrounding suburbs, and it typical
 The building has guest lodgings on the first floor and a large meeting hall on the ground.
 The meeting hall contains a hearth and the bar, which backs onto the kitchen.
 There is a mezzanine level above the hearth for patrons, which leads to the guest rooms, and a private staircase behind the bar that leads to the owner's lodgings.
-A trapdoor behind the bar leads down to the cellar and, unbeknownst to the public, leads to a secret storeroom which is the base of the Piranhas gang.
-This section of the basement is also accessible from a sewer grate outside the rear of the building.
+A door behind the bar leads down to the cellar and, unbeknownst to the public, leads to a secret hideout which is the base of the Piranhas gang.
 
-## The Piranhas' Hideout
+The tavern and hideout are [split into two locations with separate maps](#mapped-locations), with the cellar door leading between the two.
+
+#### The Piranhas' Hideout
 
 FIXME write after tidying up copied content
 The recreation room is rectangular, approximately twice as long as it is deep.
@@ -119,7 +132,7 @@ There are several beds in here, a few weapon racks with various items missing or
 The door opposite to the lodgings is reinforced, and leads into a log corridor lit by scones.
 At the end of the corridor there are two sets of doors facing each other.
 
-## Other Locations of Import
+### Other Locations of Import
 
 Off in the side streets that lead away from the market, on the west side of the Hal, a number of permanent shops can be found.
 These include all the usual amenities like a:
@@ -133,3 +146,19 @@ These include all the usual amenities like a:
 - Herbalist,
 
 etc.
+
+## Mapped Locations
+
+Not all scenes in the story have a map provided, which is typically true of the locations where the party's interactions are (expected to be) limited to social interactions or investigations.
+Areas of Halfyord that the party visits multiple times, or whose layout is useful to visualise (due to potential combat encounters, or spatial reasoning) are provided here for use.
+They have been designed to try and be faithful to the descriptions of the areas given above, and should contain the necessary features that the scenes in the story refer to as holding clues or other sources of information for the party.
+
+All maps give the number of 5ft-by-5ft squares that make up the map, and each map is given to a scale of 50px = one 5ft-by-5ft square.
+Click on a location to download its map as either a `.png`.
+These maps were made using [DungeonScrawl](https://www.dungeonscrawl.com/), if you want to tweak certain features of the map you can contact the maintainers and we can provide the corresponding `.ds` file.
+
+- [The Great Market Square](./floorplans/market-50px-per-square-36x33.png), 36 (W) by 33 (H) squares. This map is meant to only represent one quarter of the market square, which is why some features abruptly end.
+- [The Ordo Magicae Outpost](./floorplans/ordo-outpost-50px-per-square-34x59.png), 34 (W) by (59) squares. The map is divided into the 3 floors of the building, with the ground floor at the bottom of the map and the top floor at the top.
+- [The Docks](./floorplans/docks-50px-per-square-75x48.png), 75 (W) by 48 (H) squares. This only represents the relevant docking station and it's connections to the main bridge over Halford. The bridge underpass is provided off to the left of the map as its own small area, since the bridge itself overlaps with the underpass when viewed from above.
+- [The Day's Rest Tavern](./floorplans/days-rest-interior_31x33.png), 31 (W) by 33 (H) squares. A trapdoor is used to represent the cellar door entrance, though this could just as well be a regular door depending on the flavour you want to apply.
+- [The Piranhas Hideout](./floorplans/hideout-50px-per-square-32x36.png) 32 (W) by (36) squares. The crack in the wall from Calton's room into the sewers is not represented.

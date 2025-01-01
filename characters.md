@@ -20,7 +20,7 @@ For example, Shufharz and Kamonas both want the Piranhas' attacks to stop, but S
 
 You can find the character profiles for each NPC below.
 Each character has a short backstory, physical description, a summary of their relations to the other characters, and some notes on any plot-relevant knowledge they have.
-Statblocks are also provided, though beyond Carlton, Fordem, and possibly Groubun, those of the other characters should not be necessary.
+Stat-blocks are also provided, though beyond Carlton, Fordem, and possibly Groubun, those of the other characters should not be necessary.
 
 - [Faire Ron-Ron](./characters/faire-ron-ron.md)
 - [Fordem Chev](./characters/fordem-chev.md)
