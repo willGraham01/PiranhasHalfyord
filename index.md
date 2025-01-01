@@ -11,10 +11,9 @@ Each scene also tries to provide enough investigative / social angles so that ev
 - [Setting](./setting.md)
 - [Background and Plot](./background-plot.md)
 - [Characters and Factions](./characters.md)
-- Scenes
-- Combat Encounters
+- [Scenes](./scenes.md)
 - Customising the Adventure
-- Appendix: Character Summary
+- [Appendix: Character Summary](./appendix/appendix-character-summary.md)
 - [Appendix: Monster Stat Blocks](./appendix/appendix-monster-stat-blocks.md)
 - [Appendix: Custom Items](./appendix/appendix-custom-items.md)
 - Appendix: Sample Player Characters

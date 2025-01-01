@@ -8,7 +8,7 @@ The majority of each scene takes place in one location in the town of Halfyord.
 Some scenes have the party move between locations, but usually only one of these locations will see any activity beyond social interaction, so should not require large-scale setting nor description.
 Dividing the adventure up this way also allows us manage the rate at which information is made available (or discoverable) by the party, and also set some benchmarks for what the party will hopefully learn from each scene.
 
-Each scene has a loose sequence of events that should unfold whilst the party is in them.
+Each scene has a sequence of events that should unfold whilst the party is in them; these are generally given in chronological order, but some scenes might have events occurring out-of-order
 Some of these events might be in direct response to the party's actions, others are necessary to the plot progression, and others are optional to make the world feel a bit more involved.
 Feel free to deviate from, mix up the order of, or rework these events as the adventure unfolds - no plan ever survives first contact with the party!
 
