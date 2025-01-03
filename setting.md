@@ -50,6 +50,28 @@ It typically sees a lot of activity in the early mornings and late afternoons of
 The merchant docks to the north of the bridge see a large amount of activity, seeing a large number of goods passing through in both directions each week.
 Large warehouses line the docks and back onto the town streets behind, with cranes and other lifting machinery being present at a number of docking stations along the bank.
 
+The portion of the docks that the party will be concerned with the mooring station in the commercial side of the docks, closest to the town bridge, which is where they will [scout in the evening](./scenes/04-scouting-the-docks.md) and then be present for [the plant the following day](./scenes/06-planted-cargo.md).
+A winding, sloped road runs across the bridge and then splits at a junction, with one of these split roads running parallel to the mooring station and serving as an access road to the commercial docks with various slip-roads that break off to the various mooring stations.
+The bridge is approximately 50ft higher than the docks platform, with the mooring stations being closer to the water still to allow ships to dock at them.
+There is also a spiral staircase that descends from the bridge itself to the docks, exiting out onto the docks platform near the docking crane and the bridge underpass.
+
+Nestled in the square-like area that the road wraps around is the docking crane and various containers and crates that are presumably used for loading.
+This area sits on a raised platform approximately 1m above the docks, with a small access ramp providing access from the docking platform.
+The crane itself sits on a turntable, and is operated by a series of levers, winches, and pulleys - there is usually a dedicated team of dockworkers coordinating this operation.
+A small, square platform is attached to the arm of the crane which is used for loading and unloading ships - the reach of this arm extends comfortably over the mooring station.
+On the map, the crane is only represented by its turntable, in the upper-left corner.
+
+The docking platform itself has the river on one side and is lined with a series of warehouses, crane platforms, and mooring stations.
+Of concern to the adventure is the warehouse & mooring station closest to the town bridge.
+The mooring station consists of a straight platform like one might see on a canal, with hitching posts that boats can attach to.
+It sits slightly closer to the water level of the river than the main docks platform, again accessed via a short ramp which is approximately 60-100ft from the bridge underpass.
+The mooring station itself has nothing remarkable about it, whilst the warehouse is a two-story building that can be accessed from the docking platform via a double doorway, and has a single window with shutters that also faces out over the docking platform on the upper floor.
+Inside the warehouse is a massive supply of empty boxes and crates, covered with tarpaulins, which have been pushed to the back and sides of the warehouse floor.
+There is a small workstation in the back right corner of the ground floor that looks to house various repair and woodworking tools for use during loading.
+A staircase runs up the wall next to the workstation to get to the upper floor, which much like the lower floor contains a few empty crates and tarpaulins (though of a smaller size).
+
+The segment of the docking platform that is used in the adventure extends approximately 150ft from the bridge underpass.
+
 ### The Great Market Square
 
 On the west side of the river, visible from the docks, sits the Great Market Square.

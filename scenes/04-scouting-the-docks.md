@@ -86,11 +86,6 @@ Each event that has a gang mark will describe what that particular one looks lik
 
 ## Investigations: The Mooring Station
 
-The mooring station consists of a straight platform like one might see on a canal, with hitching posts that boats can attach to.
-Wooden pallets can then be used to bridge a walkway between the moored ship and the dockyard itself.
-The mooring station has an unloading area where the cargo is normally moved to, on a level slightly above the mooring station itself.
-The station is a good 50-100 feet or so from the crane and the bridge, though the former's arm is able to be moved to raise cargo from the deck of a docked ship.
-
 The Harbourmaster and Ship Captain can brief the players at this location so can provide any ideas based on the player's investigations:
 
 - Dockworkers ferry the cargo on and off the ship as they arrive, so a character could pose as one of these un-loaders. Players can use this to "pretend" the cargo is something that it isn't; EG by deliberately making out that what they're carrying is heavy, or glowing, or has a particular smell, etc.
