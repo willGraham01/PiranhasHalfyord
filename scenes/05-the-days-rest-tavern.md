@@ -31,22 +31,8 @@ This scene takes place in: The Day's Rest Tavern
 
 As the party follows Groubun on his journey through the streets from the docks, it will quickly become apparent that he is not heading to the temple (the only plausible location if he previously gave his "healing salve" excuse).
 He will lead the party to the Day's Rest tavern.
-
-When they arrive, the tavern will be busy and noisy.
 There will be a bouncer on the door and the sound of music and chatter coming from inside the tavern.
 Groubun will be waved in by the bouncer when he arrives, the party will have to give up their weapons before they enter.
-
-The tavern itself sits on one corner of a 4-way junction.
-It is a large, 2-story structure which is attached on one side to what looks to be terraced houses along one of the streets leading up to the junction.
-There is a narrow alleyway that runs from the street along the tavern wall, which a window in the tavern's kitchen opens out into.
-
-The door to the tavern opens out into a large hall or common room.
-There is a hearth on one of the walls with a fire going, and the bar backs onto the wall on the right of the doorway upon entering.
-Along from the bar (moving away from the entryway) is the door to the kitchen, and along the same wall in the opposite direction is a small doorway that leads to a staircase and the owner's room.
-
-The area opposite the bar has little floor space, mostly being taken up by tables of varying sizes.
-A staircase leads to a mezzanine level that overlooks the table area and bar, where some more seating can be found and a band / musician can be found playing.
-The upper level also leads to the restroom and the rooms for rent.
 
 It's the end of a working day and the tavern is busy.
 Most tables are full with patrons, with most of them being from the working classes of Halfyord.

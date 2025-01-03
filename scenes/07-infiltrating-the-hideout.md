@@ -115,7 +115,7 @@ Hope requires less convincing than in the other cases to help, if she can be rea
 ## Entering the Cellar
 
 After opening the cellar door, the party will almost have access to the hideout.
-Switch to the [hideout map](FIXME) if you are using it.
+Switch to the [hideout map](../setting.md#mapped-locations) if you are using it.
 A staircase leads down one floor / story from the cellar door, into a square room.
 There are no lit light sources in the room, though there is an unlit torch sconce at the bottom of the stairs.
 Whiskers will come down into the cellar with the party, but Hope will refuse to join the group.

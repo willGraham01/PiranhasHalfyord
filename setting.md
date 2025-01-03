@@ -154,13 +154,31 @@ The temple is funded mostly by donations from pilgrims on their way to holy site
 
 The Day's Rest is one of several taverns that can be found on the east bank of Halfyord.
 It's residents are typically locals from the surrounding suburbs, and it typically does not see much of the merchant traffic who typically stay either closer to the docks or on the west bank.
+The tavern itself sits on one corner of a 4-way junction.
+It is a large, 2-story structure which is attached on one side to what looks to be terraced houses along one of the streets leading up to the junction.
+There is a narrow alleyway that runs from the street along the tavern wall, which a window in the tavern's kitchen opens out into.
 
-The building has guest lodgings on the first floor and a large meeting hall on the ground.
-The meeting hall contains a hearth and the bar, which backs onto the kitchen.
-There is a mezzanine level above the hearth for patrons, which leads to the guest rooms, and a private staircase behind the bar that leads to the owner's lodgings.
-A door behind the bar leads down to the cellar and, unbeknownst to the public, leads to a secret hideout which is the base of the Piranhas gang.
+The door to the tavern opens out into a large hall or common room, a space of approximately 75 square feet.
+There is a hearth on the same wall as the entrance doors, and the bar backs onto the wall on the right of the doorway upon entering.
+Immediately to the right from the street entrance, on the same wall as the bar, is a small doorway that leads to a staircase and the tavern owner's room.
+On the same wall, behind the bar is the entrance to the cellar, and further along the same wall is the doorway to the tavern kitchens.
+The cellar leads to the Piranhas' hideout, which is [split into its own location wth a separate map](#mapped-locations).
 
-The tavern and hideout are [split into two locations with separate maps](#mapped-locations), with the cellar door leading between the two.
+The bar has a number of stools placed around it for patrons to sit at when ordering.
+Various spirits and mixers are placed on shelves behind the bar, and a few casks are setup on the bar itself to draw pints from.
+The common area opposite the bar is otherwise filled with tables and chairs of varying sizes.
+There is a small area that is kept free and has what looks to be several faded chalk rings drawn on the floor, where fisticuff contests are frequently held.
+
+A staircase on the wall opposite the street entrance leads to a mezzanine level that overlooks the table area and bar, where some more seating can be found and an area is setup for a musician or band to be playing.
+Doing a U-turn at the top of the stairs will take a person into a corridor that runs back along the same wall as the staircase, which provides access to the restrooms, guest bedrooms and Hope's room (right at the end of the corridor).
+
+The kitchen - as one might expect - contains a fireplace over which a cooking pot or joint of meat could be places, a number of workspaces with cutting, chopping, and cleaning tools, and a sink and drying rack for crockery.
+It also appears to double as where the non-perishable food is stored on the premises, and Whiskers' cat bowls live on the floor of the kitchen too.
+Opposite the kitchen entrance is a window that opens up into the alleyway that runs along the tavern wall - there is a puddle of dirty and greasy water underneath the window in the alley, indicating that it is used to dispose of used water.
+
+The owner's room is designed to double as both a bedroom and study - it has a large double bed, floor-to-ceiling wardrobe, and a work-desk with plenty of storage compartments.
+There is also a rug laid out across the middle of the room, under which is a loose floorboard that hides a master key to the tavern.
+There is a window on the right-hand wall (when entering the room), however it faces out onto the alleyway so doesn't offer much natural light.
 
 #### The Piranhas' Hideout
 
