@@ -46,7 +46,7 @@ The other Ordo staff members are absent, save for one who is taking a break in t
 
 ### Groubun's Suspicion
 
-This scene is the first opportunity for Groubun's suspicion to come into play, if you are tracking it.
+This scene is the first opportunity for [Groubun's suspicion](../scenes.md#groubuns-suspicion) to come into play, if you are tracking it.
 Its value persists through all subsequent scenes, and you should start tracking it here.
 
 ## Meeting Jenessa

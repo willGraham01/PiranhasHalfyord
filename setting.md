@@ -94,9 +94,39 @@ The permanent staff consist of a fully qualified mage who runs the outpost, hold
 Their Apprentice is typically next in the chain of command, and the remaining staff are administrative or predominantly attendants to the Ordinator.
 
 The ground floor hosts a shop front that offers access to basic off-the-shelf potions and mundane magical items, as well as services such as identification or enchantment commissions - though the latter is typically unaffordable except by the town elite or wealthy adventurers.
+The ground floor is approximately a 75-by-75ft square in terms of floor space.
+A shop desk is situated across the ground floor from the street entrance, in clear view so that whoever is behind the desk can see customers entering the shop.
+There are a number of display tables, shelves, and cases on the shop floor, as well as bookcases containing journal articles by members of the guildhall, as well as more standard textbook like tomes for sale.
+In the left-hand corner of the floor (after entering from the street) is a small waiting area that customers may wait in when they request specific magic items or services (like silvering or enchanting).
+The "top right" corner of the floor is section off into it's own small room, accessible through a locked doorway.
+This contains the stairway to the next floor, and is also a temporary storage location for tables and other display cases that are currently not in use on the main shop floor.
+
 The first floor hosts a communal living space, rooms for the lower-ranking permanent staff members and visiting guild members, and the laboratory.
-The laboratory is primarily for members of the guild to conduct experiments in, and to use when manufacturing items commissioned through the store-front on the ground floor, but is also where the guild stores its alchemical or magical components (such as gems).
+Entering the floor from the shop floor places a person in the communal living space, an approximately 50ft-by-40ft rectangular room ("wider" than it is "tall" when viewed from top-down).
+Directly across the room from this staircase is another set of stairs leading to the top floor.
+The communal space has a kitchenette-style area, are fireplace with some comfy looking chairs and rugs, and a more practical dining table.
+There is also a notice board fixed to the long wall opposite the kitchenette area, that has various guild-related announcements and news articles pinned to it.
+The communal space has a doorway to the lab in the opposite corner to the stairs from the shop floor, and a smaller doorway to the living quarters on the short wall opposite the staircases.
+
+The communal space is actually just a narrow corridor that runs along the (opposite side of the) short wall of the communal space, with some small rooms that each open out into the corridor.
+These rooms are for the lower-ranking members of the guild, and one is kept free for guests if any members of the Ordo are visiting.
+They each have a bed, wardrobe and chest of draws, and a small side table for the bed.
+There is also a restroom in the corridor.
+
+The laboratory is primarily for members of the guild to conduct experiments in, and to use when manufacturing items commissioned through the store-front on the ground floor, but is also where the guild stores its alchemical reagents and magical components (such as gems).
+It shares one of its walls with one of the long walls of the communal space, and almost has as much floor space.
+In the centre of the lab is a single table that has multiple workstations, each with different pieces of kit setup for experiments.
+Though it is intended that equipment not being used be put away in the cupboards and shelves that line the outer walls of the lab, in practice a lot of frequently-used equipment is left out on the main table.
+The outer walls are designed to maximise storage, and are packed with shelves, bookcases, and cabinets - there are even some wires that have alchemical reagents hanging overhead and growing off them.
+There are two desks in the far corners (from the entrance) that are used by the Ordinator and their Apprentice.
+These desks typically contain experimental logbooks, draft manuscripts, and the remains of food or drink that can't be taken near the experiments.
+
 The second (top) floor has rooms for the Ordinator and their Apprentice.
+Accessing it from the staircase in the communal area of the floor below will place a person into a corridor that the two rooms open out onto, along with another restroom.
+
+The two rooms on this floor are quarters for the Ordinator and their Apprentice, and have slightly nicer accommodations and more spacious layouts.
+Each have a hearth, floor-to-ceiling wardrobe, separate chest of draws, and study desk.
+The Ordinator's room also has some comfy armchairs and multiple bedside tables.
 
 ### The Magistrates Office and Barracks
 
