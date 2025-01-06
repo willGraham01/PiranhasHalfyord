@@ -1,14 +1,14 @@
 # Setting
 
 This section describes the town of Halfyord, where the adventure was originally intended to take place.
-The town is deliberately designed to be somewhat self-contained, to allow the adventure to be "insertable" into larger games or longer-running campaigns, and some aspects of teh descriptions below are left deliberately vague.
+The town is deliberately designed to be somewhat self-contained, to allow the adventure to be "insertable" into larger games or longer-running campaigns, and some aspects of the descriptions below are left deliberately vague.
 In particular, there is deliberately no mention of the state or wider governing body that Halfyord belongs to, the major settlements that it trades with or is situated between, and the details about the Ordo Magicae are deliberately limited just to the organisational structure within the town's guildhall itself.
 
 DMs should feel free to expand on the descriptions given here, or adapt them as necessary to suit their needs or personal campaigns and games.
 A more detailed discussion of the core mechanics that the story depends on, and how to change the appearance of the adventure without changing the underlying store is given in the [customising the adventure](FIXME) section.
 
 Some locations within Halfyord have detailed descriptions and floorplans, since the party is expected to explore and interact with these environments in depth during the story.
-These locations are given a short summary in the [following section](#halfyord), and are further elaborated on in the [mapped locations](FIXME) section, and sample floor-plans are provided for online TTRPG tools.
+These locations are given a short summary in the [following section](#halfyord), and maps are available for download in the [mapped locations](#mapped-locations) section.
 
 ## Halfyord
 
@@ -31,10 +31,6 @@ The streets are narrower and "more lively" at night than on the west bank, but a
 The wealthier citizens typically reside on the west bank, in slightly grander detached houses compared to the terraced houses that make up the majority of the east bank.
 The elite live in mansion houses that line the main street running from the market square to the magistrates office.
 All businesses that are based in the town and have a permanent premises are found on this side of the river too.
-
-FIXME: places that are very plot relevant, need maps or descriptions should have their own pages w/ links to resources if available. EG ordo magicae needs ot have the lab and upper floors described!
-
-FIXME: move descriptions from events and scenes into these sections, for streamlining. Explain this at top of this section or in the how to read section.
 
 ### The Docks
 

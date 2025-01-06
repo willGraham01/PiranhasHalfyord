@@ -12,9 +12,9 @@ Each scene also tries to provide enough investigative / social angles so that ev
 - [Background and Plot](./background-plot.md)
 - [Characters and Factions](./characters.md)
 - [Scenes](./scenes.md)
-- Customising the Adventure
+- [Customising the Adventure](FIXME)
 - [Appendix: Character Summary](./appendix/appendix-character-summary.md)
 - [Appendix: Monster Stat Blocks](./appendix/appendix-monster-stat-blocks.md)
 - [Appendix: Custom Items](./appendix/appendix-custom-items.md)
-- Appendix: Sample Player Characters
+- [Appendix: Sample Player Characters](FIXME)
 - [Appendix: Dice Games](./appendix/appendix-dice-games.md)
