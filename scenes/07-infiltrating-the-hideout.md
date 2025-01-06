@@ -116,11 +116,9 @@ Hope requires less convincing than in the other cases to help, if she can be rea
 
 After opening the cellar door, the party will almost have access to the hideout.
 Switch to the [hideout map](../setting.md#mapped-locations) if you are using it.
-A staircase leads down one floor / story from the cellar door, into a square room.
-There are no lit light sources in the room, though there is an unlit torch sconce at the bottom of the stairs.
 Whiskers will come down into the cellar with the party, but Hope will refuse to join the group.
 
-On the wall to the left of the stairs are barrels that contain alcohol and other beverages that are sold at the tavern, but also contain some ingredients that the party might recognise as valuable alchemical ingredients / spell components.
+The party might recognise the smell of familiar alchemical reagents as they descend into the cellar, coming from the barrels stored down here:
 
 - (Strength DC 10) (ADV: Crowbar or other suitable tool) To open any of the barrels on this floor.
 - (Survival DC 14) (Arcana DC 14) To identify the "normal" alcoholic substances, and to identify the barrels that contain alchemical ingredients.
@@ -157,8 +155,7 @@ Once through the hollow wall, the party will enter the hideout proper, finding t
 
 ## Recreation Room
 
-On the opposite side of the wall that opens out of the cellar will be a common or recreation room of sorts.
-This area is well-lit, contrary to the cellar, and looks like it sees regular use - there will be furniture placed around the room, a small kitchen-like area, and several bookcases and desks.
+The party will find themselves in the recreation room once they get through the cellar wall.
 The desk directly opposite the entrance from the cellar will have the gang's coded logbook, and the unencrypted copy that they are creating as fake evidence against Faire.
 The table in the middle / centre of the room will have [Carlton's letter to Groubun](#carltons-letter) on it, asking for the [potion to revert Faire's form](../items/potion-of-corporeal-resetting.md).
 The board will also have recent additions to the usual gang marks, including one that has been recently added to implicate Faire.
@@ -247,8 +244,6 @@ The room that the Piranhas use as a barracks or armoury of sorts connects to the
 There may be a wounded gang member in one of the beds, depending on events at the docks and which situation the party arrived to.
 
 The only notable item of relevance to the plot in this room is Whisker's broken cage, that he escaped out of before being "adopted" by Hope upstairs.
-It is a fairly small box, slightly bigger than the box one might use to take cats on public transport or in cars, but is composed entirely of bars with a solid floor rather than having 3 solid walls and a door.
-
 Inspecting the cage will reveal that it might have been fairly sturdy at one point, but it looks like the locking mechanism on the cage has been clawed at and broken away from the cage frame itself.
 If Whiskers is with the party, he will growl angrily at the cage, indicating what its previous contents were.
 
@@ -256,12 +251,9 @@ If Whiskers is with the party, he will growl angrily at the cage, indicating wha
 
 Exiting the recreational room via the door opposite the barracks will open into a narrow corridor.
 Proceeding down the corridor is harmless, though the party might be weary of traps.
-The two doors at the far end of the corridor lead to either Carlton's HQ or the vault.
 
-The door to Carlton's HQ is relatively unassuming, and does not have any distinguishing markings to indicate it leads into the HQ.
-It will not be locked when the party approaches, but when they move up to the door have Carlton call out to the party, inviting them to parley.
+The door to Carlton's HQ will not be locked when the party approaches, but when they move up to the door have Carlton call out to the party, inviting them to parley.
 
-Across from the door to the HQ is the vault door - it has a heavy lock on it, and thick iron bars across it.
 The vault door requires two keys to be inserted into it simultaneously to be opened from the corridor - one of these keys is carried by Fordem and Carlton each.
 The party may already have Fordem's key if they stole it from him when they visited the Day's Rest Tavern or found the spare key in his upstairs room.
 The two locks are distinct, so placing one copy of Fordem's key into each of the two keyholes will not unlock the vault, and will trigger the trap as below.
@@ -269,17 +261,12 @@ The two locks are distinct, so placing one copy of Fordem's key into each of the
 - (Thieves' Tools DC 25) To unlock one of the two vault locks without the required key.
   - On failure: The character attempting to unlock the vault door takes 1d8 lightning damage as the metallic components of the door begin to conduct a harmful electric current. An alarm siren briefly sounds too. Fordem and Carlton will be alerted to the group's presence if they weren't already, and in any event will comment on the futility of opening the vault without the key and invite the party to parley.
 
-The vault door can be unlocked from the inside by pulling a release lever next to the door.
-This will temporarily open the vault door, but it will automatically close and lock after 30 seconds.
-
 ## The Vault
 
 Inside the vault are most of the valuables that the gang has managed to steal since Groubun begun assisting them.
 Any Animated Loot that made it from the docks will be standing idly in the room (even if not via the sewers), they will not react to the party's entry.
 If the party manages to infiltrate the sewers they will enter directly into the vault, via the sewer entrance that the Animated Loot used.
 
-There will be a small horde of valuables in the vault; the party might recognise some of the valuables as those that have gone missing if Shufharz and Kamonas were asked about this earlier.
-The majority of these will be packed into wooden crates (currently unsealed) with the lids off and laid beside the crates they fit onto.
 The party may well attempt to acquire some of this wealth for themselves, however be sure to comment that very little of what is in the vault is actually in coins - it is mostly in items like jewellery, paintings, ornaments and the like, which would need to be fenced and are unwieldy to transport.
 If the party persist, allow them to take items worth a total value of 2d6+1 gold pieces each, and make a comment that the Animated Loot that is in the vault with them starts to twitch.
 If the party attempts to take any more items out of the vault, have the Animated Loot turn on them, and the vault alarm sound.
@@ -386,7 +373,7 @@ Once the fight is over, the party can freely search the HQ, and Carlton's adjoin
     - Clothes: A shirt of mending can be found in the chest.
   - Carlton's weapon rack has a rapier and a short-sword that can be taken.
   - (Perception DC 15) (Survival DC 14) (Nature DC 17) (Investigation DC 16) To identify a small crack in the far wall, from which an unpleasant smell is coming.
-    - Pressing against this crack will cause the section of wall to turn as if on hinges, revealing an entrance into a sewer tunnel. A small boat with a pair of oars is floating on top of the sewage thoroughfare, moored to a pole. The thoroughfare, if followed, leads out beyond the city walls into a rather unclear pond.
+    - Pressing against this crack will cause the section of wall to turn as if on hinges, revealing an entry point to the sewer thoroughfare and the planned escape route for the gang in the form of the boat.
 
 ## Next Scenes
 

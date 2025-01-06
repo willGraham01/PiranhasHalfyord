@@ -180,27 +180,91 @@ The owner's room is designed to double as both a bedroom and study - it has a la
 There is also a rug laid out across the middle of the room, under which is a loose floorboard that hides a master key to the tavern.
 There is a window on the right-hand wall (when entering the room), however it faces out onto the alleyway so doesn't offer much natural light.
 
-#### The Piranhas' Hideout
+### The Piranhas' Hideout
 
-FIXME write after tidying up copied content
-The recreation room is rectangular, approximately twice as long as it is deep.
-The cellar joins to it FIXME write the hideout layout into the setting or other place where descriptions are needed! Don't pollute the events.
+#### Cellar
 
-Going through the wall will place the party in the gathering hall that the gang has underground.
-This area will be well-lit and most likely populated by gang members, unless they were all apprehended at the docks.
-There are two further exits on either side of the far side of the room, both with closed doors.
-Immediately in front of the wall-door is a desk and a makeshift supply dump that the gang has been using for their magical items and potions.
-There is a logbook on the desk which details which materials are assigned to who, for which heists or missions - note that the cargo heist today is listed as the last entry on the board.
-The centre of the room is taken up by a recreation area - there are rugs and cushions to form a seating area, and a table with cards and games left out.
-There is a notice board on the wall just beside the "games" table which has gang announcements of sorts.
-In particular, there will be a "next delivery exchange" note which may incriminate Groubun.
-The far end of the room has a table that's used as an eatery, and an unkempt bookshelf.
+The door / trapdoor behind the bar at the Day's Rest Tavern descends into the cellar, and from there into Piranhas' hideout.
+A staircase leads down one floor / story from the cellar door, into a square room.
+There are scones to light the staircase and cellar itself, though by default they are unlit.
 
-Taking the door at the far end of the room, on the same wall as that which leads to the cellar, will take the party to the lodgings.
-There are several beds in here, a few weapon racks with various items missing or mislaid, some spare plain clothes in wardrobes, and a number of silver-tooth necklaces similar to those that the party might have recovered from gang members they've encountered before.
+On the wall to the left of the stairs are barrels that contain alcohol and other beverages that are sold at the tavern, but also contain some valuable alchemical ingredients / spell components that the Piranhas are storing to pass back to Groubun when he visits.
 
-The door opposite to the lodgings is reinforced, and leads into a log corridor lit by scones.
-At the end of the corridor there are two sets of doors facing each other.
+The wall opposite the staircase is actually hollow, and hides the entrance to the Piranhas' hideout.
+This wall is partially obstructed by crates and smaller pallets, and there is one of the gang's marks on the wall. FIXME: image?
+There will be splintered wood and scratch marks on the stone floor near the hollow wall.
+Inserting one of the gang necklaces into the divot created by this mark opens the hollow wall, providing access to the hideout's [recreation room](#recreation-room).
+
+#### Recreation Room
+
+On the opposite side of the hollow  wall that opens out of [the cellar](#cellar) will be a common or recreation room of sorts.
+The room is rectangular, approximately 100ft-by-40ft in floor space.
+The hollow wall acts as a doorway that enters through one of the long edges, approximately 10ft away from the nearest wall corner.
+There are two doors at the opposite end of the room from this entrance, both doors are again placed on the long walls.
+The door on the same wall as the entrance from the cellar is approximately 10ft away from the opposite corner, and leads to the [barracks area](#the-barracks).
+The door on the opposite long wall is nestled right in the opposite corner of the "rectangle" that makes up the room - it leads into [the corridor](#the-corridor).
+
+This area is well-lit, contrary to the cellar, and looks like it sees regular use - there will be furniture placed around the room, a small kitchen-like area, and several bookcases and desks.
+There will be a desk and bookcase directly opposite the entrance from the cellar, which the gang uses to keep records of sorts.
+The centre of the room has creature comforts like a table that will have cards, dice, and other game-related items strewn about it, some rugs and cushions to form a comparatively nice seating area, and a notice board that the gang uses to record information available to all members.
+The board in particular includes a [decryption of the gang marks](./scenes/07-infiltrating-the-hideout.md#gang-notice-board) that can be found during the adventure, as well as new additions that have been specifically added to implicate Faire.
+
+The far end of the room includes some kind of food preparation or storage area, and some basic utensils and crockery.
+
+#### The Barracks
+
+The room that the Piranhas use as a barracks or armoury of sorts connects to the [recreation room](#recreation-room), through the doorway on the same long wall as the entrance from the cellar.
+This room contains a number of military-like cots, providing basic sleeping facilities, as well as some weapon racks and mannequins that are wearing some patchwork leather armour.
+
+Whiskers' broken cage is also found in this room.
+It is a fairly small box, slightly bigger than the box one might use to take cats on public transport or in cars, but is composed entirely of bars with a solid floor rather than having 3 solid walls and a door.
+
+#### The Corridor
+
+Exiting the recreational room via the door in the far corner from the cellar entrance will open into a narrow corridor.
+It will be lit by torch scones on both sides, and there will be no visibility issues.
+The corridor itself is about 80ft long and wide enough for two people to walk side-by-side.
+The two doors at the far end of the corridor lead to [Carlton's HQ](carltons-hq) and [the vault](#the-vault).
+
+The door to Carlton's HQ is relatively unassuming, and does not have any distinguishing markings to indicate it leads into the HQ.
+
+Across from the door to the HQ is the vault door - it has a heavy lock on it, and thick iron bars across it.
+The vault door requires two keys to be inserted into it simultaneously to be opened from the corridor - one of these keys is carried by Fordem and Carlton each.
+
+- (Thieves' Tools DC 25) To unlock one of the two vault locks without the required key.
+  - On failure: The character attempting to unlock the vault door takes 1d8 lightning damage as the metallic components of the door begin to conduct a harmful electric current. An alarm siren briefly sounds too. Fordem and Carlton will be alerted to the group's presence if they weren't already, and in any event will comment on the futility of opening the vault without the key and invite the party to parley.
+
+#### The Vault
+
+The vault door can be unlocked from the inside by pulling a release lever next to the door.
+This will temporarily open the vault door, but it will automatically close and lock after 30 seconds.
+
+The Piranhas' vault is a 20ft-by-40ft room that has minimal decorations.
+Several heavy-duty chests will be present inside it, loaded up with valuables, whilst the unsorted good are just scattered about on the floor.
+There will be a small horde of valuables in the vault; the party might recognise some of the valuables as those that have gone missing if Shufharz and Kamonas were asked about this.
+The majority of these will be packed into wooden crates (currently unsealed) with the lids off and laid beside the crates they fit onto.
+
+There is a small trapdoor in the ceiling, that only opens one-way (from outside into the vault).
+The other side connects to the sewer network, any Animated Loot is expected to move through the sewers and then via this trapdoor to get into the vault.
+
+#### Carlton's HQ
+
+Entering Carlton's HQ through the door from [the corridor](#the-corridor) opens into an approximately 45ft-by-30ft rectangular room, with the door on one of the short sides.
+The room has several items of taxidermy mounted on plaques on the walls, notably including various types of fish (a piranha among them) and other sea creatures.
+
+Directly across from the doorway, against the far wall is a desk and cushioned chair, that Carlton uses as his planning desk.
+To the left of the doorway is a long bench or sofa in an "L" shape, sitting in the corner where the short wall with the door and the (left) long wall join.
+A rug is laid out in the surrounding area, and a set of shelves is positioned further along the long wall from where the rug and bench / sofa end.
+This set of shelves contains a number of maps with drawings on - seemingly blueprints for various parts of Halfyord's buildings and infrastructure that have been used for planning in the past.
+It also contains a number of other documents, like letters from the former (corrupt governor), delivery schedules or reports concerning the movement of merchants through the town, and similar.
+
+At the very end of the left hand long wall is a final door that leads through to Carlton's room.
+This room is only about 20ft-by-30ft big, but contains a dense amount of furniture; a double bed, chest, waist-high wardrobe that doubles as a bedside table, and a small weapon rack.
+
+The far wall from the doorway to  Carlton's room bears a faint crack that splits through the brickwork.
+Pressing against this crack will cause the section of wall to turn as if on hinges, revealing an entrance into a sewer tunnel.
+A small boat with a pair of oars is floating on top of the sewage thoroughfare, moored to a pole.
+The thoroughfare, if followed, leads out beyond the city walls into a rather unclean pond.
 
 ### Other Locations of Import
 
