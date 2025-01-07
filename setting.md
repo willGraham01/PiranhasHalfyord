@@ -5,7 +5,7 @@ The town is deliberately designed to be somewhat self-contained, to allow the ad
 In particular, there is deliberately no mention of the state or wider governing body that Halfyord belongs to, the major settlements that it trades with or is situated between, and the details about the Ordo Magicae are deliberately limited just to the organisational structure within the town's guildhall itself.
 
 DMs should feel free to expand on the descriptions given here, or adapt them as necessary to suit their needs or personal campaigns and games.
-A more detailed discussion of the core mechanics that the story depends on, and how to change the appearance of the adventure without changing the underlying store is given in the [customising the adventure](FIXME) section.
+A more detailed discussion of the core mechanics that the story depends on, and how to change the appearance of the adventure without changing the underlying store is given in the [customising the adventure](./customising.md) section.
 
 Some locations within Halfyord have detailed descriptions and floorplans, since the party is expected to explore and interact with these environments in depth during the story.
 These locations are given a short summary in the [following section](#halfyord), and maps are available for download in the [mapped locations](#mapped-locations) section.

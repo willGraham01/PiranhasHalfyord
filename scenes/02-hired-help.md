@@ -79,7 +79,3 @@ This will take a while, and it will likely mean that the Ordo Magicae will be cl
 ## Next Scenes
 
 The party should proceed to [Visiting the Ordo Magicae](./03-visiting-the-ordo-magicae.md) after this scene.
-
-There was originally a variant of the adventure that allowed the party to choose either scouting the docks first, or going to the Ordo.
-Going to the docks first can change the nature of the adventure quite considerably, as the party may not have as much time in the Ordo itself to look for clues.
-This variant is discussed in [customising the adventure](FIXME).
