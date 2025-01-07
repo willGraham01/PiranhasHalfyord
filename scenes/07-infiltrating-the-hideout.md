@@ -292,7 +292,7 @@ Fordem will move away from the desk towards the door to Carlton's room for cover
 Whiskers will hiss angrily at Carlton and Fordem when he enters, which will prompt an offhand comment from one of them.
 Carlton will then engage the group in the promised parley.
 
-- (Perception DC 19) (Arcana DC 19) To notice / identify that Fordem picks up a wand from Carlton's desk. The spells stored in the wand cannot be deduced via this check.
+- (Perception DC 19) (Arcana DC 19) To notice / identify that Fordem picks up a wand from Carlton's desk. This is the [Jury-Rigged wand](../items/jury-rigged-wand.md), though its properties cannot be deduced via this check.
 
 Carlton and Fordem at this point will be happy to escape with their lives and freedom, and are unconcerned about taking the gang's stash with them.
 Depending on the party's knowledge, Carlton and Fordem may have information they can trade for their freedom.
@@ -343,17 +343,17 @@ The fight takes place in Carlton's HQ room.
 - This is a fight to the death, surrender is beyond Carlton and Fordem at this point.
   - Carlton and Fordem can be knocked unconscious, if the party wishes to take them alive. They will obviously attempt to escape if they are not bound and restrained when they come to conciousness.
 - Carlton will activate their ring on turn 1.
-- Fordem will pick up a wand from the desk that lets him cast Counterspell once, Hold Person once, and Dispel Magic twice, before the wand is exhausted and breaks. The spell DC of the wand is 15, otherwise use Fordem's Intelligence as his casting stat to determine any necessary attack roll bonuses. The wand cannot be recharged and breaks if Fordem exhausts all the charges in it.
+- Fordem will pick the [Jury-Rigged Wand](../items/jury-rigged-wand.md) from the desk, and use it during the fight.
 - Whoever acts first between Fordem and Carlton will animate the piranha on the wall, bringing it into the fight.
   - Roll initiative for the Animated Piranha before the fight breaks out, but skip its turn if it acts before it can be animated.
-  - Carlton can kick his desk over to propel the potion towards the wall to achieve this.
-  - Fordem can do this using the wand he has picked up off the desk (to add some flavour to the wand). In this case, have the potion on Carlton's desk be spilled harmlessly during the fight.
+  - Carlton can kick his desk over to propel the potion towards the wall to achieve this. In this case, do not allow Fordem to do this by using the wand as flavour.
+  - Fordem can be flavoured to do this using the wand he picks up off the desk (to add some flavour to the wand). In this case, have the potion on Carlton's desk be spilled harmlessly during the fight.
 - Additional gang members may be present if the party did not deal with the group in the [recreation room](#recreation-room).
 
 #### Loot
 
 - Carlton has his two scimitars, and his golden tooth necklace. The blink ring and pistols can also be looted but will need repair before they are in a usable state.
-- Fordem has his weapons and gold tooth necklace.
+- Fordem has his weapons and gold tooth necklace. The [Jury-Rigged Wand](../items/jury-rigged-wand.md) might also still be salvageable, if Fordem did not exhaust it during the fight.
 - The party is then free to loot the room(s).
 
 ### Search the HQ
