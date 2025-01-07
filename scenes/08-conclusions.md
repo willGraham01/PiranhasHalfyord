@@ -148,6 +148,7 @@ Jenessa and the other staff members will likely be re-assigned to other guildhal
 After resolving all other plot threads, the party stands to get their reward.
 Shufharz will ask the party to take up temporary lodgings in the Day's Rest Tavern whilst the city scribes and guards complete their investigation and sweep of the hideout.
 She will also ask if there is anyone suitable to look after the tavern "part" of the Day's Rest whilst the investigation is underway - the party can choose to mention Hope here, otherwise Shufharz will mention that the city legislators will look into the matter of ownership.
+At this point, Shufharz will request the [Networked Earrings of Message](../items/networked-earrings-of-message.md) back from the party, and Jenessa will ask for the [Ring of Seeking](../items/ring-of-seeking.md).
 
 The party can take up residence in the Day's Rest for the next couple of days, effectively having downtime for this time.
 They may choose to help with the hideout investigation, use the services the town provides, or interact with some of the characters already introduced.
