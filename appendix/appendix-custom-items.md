@@ -18,7 +18,7 @@ Particular notes or clues that have explicit text on them, that the party may fi
 
 - [Carlton's Letter to Groubun](../items/carltons-letter-to-groubun.md)
 
-## Other Notable Items or Scenary
+## Other Notable Items or Scenery
 
 ### Gang Symbols
 
