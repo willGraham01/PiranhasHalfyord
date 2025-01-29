@@ -125,12 +125,12 @@ The party might recognise the smell of familiar alchemical reagents as they desc
   - 16+: If the party took interest in Groubun's potion ingredients [yesterday at the Ordo](./03-visiting-the-ordo-magicae.md), to identify the alchemical ingredients as those that Groubun was using in the lab the previous day, or using in his recent batch of experiments.
 
 The wall opposite the staircase is actually hollow, and hides the entrance to the Piranhas' hideout.
-This wall is partially obstructed by crates and smaller pallets, and there is one of the gang's marks on the wall. FIXME: image?
+This wall is partially obstructed by crates and smaller pallets, and there is the [gang mark for hiding spot / disguise](../appendix/appendix-custom-items.md#gang-symbols) on the wall.
 There will be splintered wood and scratch marks on the stone floor near the hollow wall.
 
 - Unless the party arrived to [all calm](#all-calm), these smaller crates and pallets will appear to have been moved to the side, exposing the opposite wall.
 - (Investigation DC 13) (Perception DC 13) (Automatic: The wall is exposed) (ADV: At least one gang mark has been found before) To notice the gang mark in the hollow wall.
-  - The gang mark is etched into the wall, rather than being "drawn" on like the others the party has encountered before. It appears to be very simple in its design, just in the shape of a tooth with no further markings. FIXME: image?
+  - The gang mark is etched into the wall, rather than being "drawn" on like the others the party has encountered before. It is the symbol for hiding spot or disguise (and indicates the presence of the hideout if deciphered).
     - (History DC 11) The tooth shape is remarkably similar in size and design to the necklace ornaments that have been found on fallen Piranhas members.
   - 15+: To identify the portion of the hollow wall that "opens" when the hole provided by the gang mark is filled.
 
@@ -224,9 +224,9 @@ It also mentions the conclusion of the arrangement between Groubun and the Piran
 Hanging on one of the walls in the room is a notice board of sorts that the gang clearly uses for organisational purposes.
 It contains a mixture of paper notes that are fixed to the board via nails or knives, and etched into the wood of the board itself is the legend for translating the gang marks that the Piranhas use to communicate.
 
-A character inspecting the board will immediately notice that there is a key to the gang marks on this board (though if no gang marks were found, they might not necessarily know what these symbols mean).
+A character inspecting the board will immediately notice that there is [a key to the gang marks](../appendix/appendix-custom-items.md#gang-symbols) (though if no gang marks were found, they might not necessarily know what these symbols mean).
 The full key will be available to read, along with some marks that appear in the logbook and on the other notes on the board too.
-Notable marks include; FIXME - make an image and collate all mentioned symbols into it!!!
+Notable marks include;
 
 - A mark for "leader", which is an alias for Carlton.
 - A mark for "deputy", which is an alias for Fordem.

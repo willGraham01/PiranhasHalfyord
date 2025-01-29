@@ -187,7 +187,7 @@ There are scones to light the staircase and cellar itself, though by default the
 On the wall to the left of the stairs are barrels that contain alcohol and other beverages that are sold at the tavern, but also contain some valuable alchemical ingredients / spell components that the Piranhas are storing to pass back to Groubun when he visits.
 
 The wall opposite the staircase is actually hollow, and hides the entrance to the Piranhas' hideout.
-This wall is partially obstructed by crates and smaller pallets, and there is one of the gang's marks on the wall. FIXME: image?
+This wall is partially obstructed by crates and smaller pallets, and there is the gang mark for hideout / disguise etched into the wall.
 There will be splintered wood and scratch marks on the stone floor near the hollow wall.
 Inserting one of the gang necklaces into the divot created by this mark opens the hollow wall, providing access to the hideout's [recreation room](#recreation-room).
 

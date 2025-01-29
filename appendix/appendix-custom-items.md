@@ -20,4 +20,12 @@ Particular notes or clues that have explicit text on them, that the party may fi
 
 ## Other Notable Items or Scenary
 
-FIXME put the gang symbol board here.
+### Gang Symbols
+
+The Piranhas' gang has a set of covert glyphs and markings that they leave around Halfyord, to convey information to each other that goes unnoticed by the general public and the guards.
+The party may encounter these symbols during their reconnaissance of the docks, or notice them during the day when the gang takes action.
+There is also a board with a key to the symbols pinned up in the Piranhas' hideout; the relevant markings are shown in the image below.
+
+![A key to the gang symbols, as found in the hideout.](../images/gang-symbols.png)
+
+Note that as per the description in the [relevant scene](../scenes/07-infiltrating-the-hideout.md), the symbol for Faire or Ordinator has been drawn onto the board recently.

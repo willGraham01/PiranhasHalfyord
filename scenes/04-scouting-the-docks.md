@@ -76,13 +76,14 @@ These can be discovered by a character investigating the relevant area by passin
 - Grant advantage on these checks if a character has any of:
   - Thieves' Cant
   - Criminal or other background feature that might involve leaving coded or cryptic messages.
-  - The party has previously found one of the gang's other marks, and the character is aware of this
+  - The party has previously found one of the gang's other marks, and the character is aware of this.
 
 Once a sign has been discovered, a character can attempt to "decode" it, or ascertain its meaning:
 
 - (History DC 15) (ADV: Thieves' Cant language) (ADV: Criminal or other background feature that might involve leaving coded or cryptic messages) The meaning behind the sign can be inferred.
 
 Each event that has a gang mark will describe what that particular one looks like, and the information that is obtained if it is deciphered.
+You can also show the players the relevant panel from the [key provided in the appendix](../appendix/appendix-custom-items.md#gang-symbols).
 
 ## Investigations: The Mooring Station
 
@@ -95,7 +96,7 @@ The information that can be garnered from this location is as follows:
 
 - (Investigation DC 10) (Perception DC 10) (Asking the Harbourmaster about this topic) This area is accessible by the public, so the party might conclude this is a location from which the gang might attempt to throw their potions.
 - [GANG SIGN](#gang-signs). Whilst looking around the area, a character notices markings etched into the low wall on the upper level near where the cargo is unloaded. It has the same mark as the gang's necklace design that the party has encountered, along with some other arrows sketched around it.
-  - The mark has a tooth which appears to have it's point lowered onto the floor. Along the floor, various arrows are drawn pointing towards where the end of the tooth makes contact with the floor. FIXME: picture?
+  - The mark in question is the "meeting point" gang mark.
   - (Deciphered) The mark can be deciphered to indicating something like a meeting spot or staging post.
 
 ## Investigations: The Docking Crane
@@ -115,7 +116,7 @@ There is also a billboard opposite the crane controls, on which one of the relev
   - 15+: Rifling through some of the older schedules that have been left on the billboard from past weeks, the new name does not appear on any of those assignments.
   - The Harbourmaster delegates the day-to-day worker assignments to some of his senior dock-hands, so will not be able to offer any incriminating information about the new name that is present. The docks are one of the largest employers in Halfyord, so it is possible that the worker in question has recently joined or just been moved from another mooring station to cover for someone else.
 - [GANG SIGN](#gang-signs). There is a gang mark next the billboard.
-  - The mark has a tooth that appears to be part of a necklace (like the necklaces the Piranhas members wear). The necklace is drawn in such a way that it looks like it is being tucked into a shirt or pocket. FIXME: image
+  - This is the symbol for disguise or hiding spot.
   - (Deciphered) The mark can be deciphered as indicating that information for a cover story, or some kind of safehouse or hiding spot is nearby.
   - If the mark is deciphered and the party have also seen the new name on the board, a character can infer that this is likely the cover story that the mark refers to.
 
@@ -158,7 +159,7 @@ There also looks to be a fishing rod left leaning against the arch of the bridge
 - (History DC 12) (Investigation DC 15) (Perception DC 15) The arch of the bridge is well-kept and crafted from stone. Most of the mossy plant life that you would expect to see has been cleaned off - likely to keep up appearances for the town.
   - (Survival Dc 10) (Nature DC 10) (ADV: The absence of mossy plant life has been noted) The plant life that remains is not typically found near canals or rivers - it looks like a garden climber plant that one might see decorating a house or mansion. Furthermore, a portion of it looks to be spread across an area of the wall in a very precise lattice-shape, rather than a natural formation.
 - [GANG SIGN](#gang-signs) The plant life conceals a gang mark.
-  - This mark looks to have several shark-like teeth (like is found on the Piranha gang's necklaces) being either placed into, or removed from, a box. FIXME: image
+  - This is the gang mark corresponding to a cache, or supplies.
   - (Deciphered) The mark can be deciphered as indicating that a cache or supplies is located nearby.
 
 The "lattice-shaped" portion of the plant is meant to resemble a net, and conceals the hidden cache that the gang mark is referring to.
@@ -193,7 +194,7 @@ The bridge wil be busy with members of the public crossing both ways to get to t
 
 - (Perception DC 15) From this vantage point, a character notices that there is a sewer grate with a missing cover on the same side of the docks as the mooring station. The grate empties out into the river, and there are several more along the docks at each mooring station that have a cover.
 - [GANG SIGN](#gang-signs) There is a gang sign etched into the bridge railing on the side that faces out over the mooring station.
-  - This gang sign has a tooth that has been made to look like the nose to two very narrow eyes. FIXME: image
+  - This is the gang symbol for observation point, or reconnaissance.
   - (Deciphered) The mark probably indicates a vantage or reconnaissance point.
 
 A character can look off the "opposite" side of the bridge to the loading area, which looks out onto the civilian transport docks - a number of small ferries and fishing boats will be visible on this side.
