@@ -6,3 +6,6 @@
 
 sample_pcs/sample_characters_cheat_sheet.pdf
 tokens/
+
+# Xournal metadata
+*.xoj
