@@ -1,6 +1,11 @@
 # The Piranhas of Halfyord
 
-FIXME flavour text here
+The affluent merchant town of Halfyord has recently fallen on hard times.
+A high-ranking wizard who resides in the town has gone missing without a trace.
+Their disappearance has suspiciously coincided with the resurgence of the Piranhas - a criminal gang that once held [de facto](https://en.wikipedia.org/wiki/De_facto) control of the town.
+Now the Piranhas are back, and have strung together a high-profile and highly-successful crime spree, with their gang members seemingly aided by magical forces that the guards cannot hope to match without help.
+As the authorities hatch a plan to stop the gang, a group of adventurers finds themselves caught up in the events that are unfolding.
+Will they be able to teach the Piranhas that they've bitten off more than they can chew?
 
 ## What is this Adventure?
 
