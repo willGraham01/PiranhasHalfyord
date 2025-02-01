@@ -1,4 +1,8 @@
-# Characters and Factions
+---
+title: Characters
+description: Descriptions of the characters and factions that will be encountered during the adventure.
+header_nav: True
+---
 
 The Piranhas of Halfyord features eight notable NPCs, one major faction (the Piranhas gang), and one notable cat (Whiskers).
 To avoid spreading character introductions throughout the scenes and plot summary, we have included them here.

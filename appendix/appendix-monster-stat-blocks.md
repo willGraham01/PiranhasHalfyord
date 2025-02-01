@@ -1,4 +1,7 @@
-# Appendix: Monster Stat Blocks
+---
+title: Stat Blocks
+description: A compendium of the unorthodox monsters and creatures that will be encountered on this adventure.
+---
 
 A compendium of the unorthodox monsters and creatures that will be encountered on this adventure.
 

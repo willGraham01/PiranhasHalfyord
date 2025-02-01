@@ -1,4 +1,6 @@
-# Hope
+---
+title: Hope
+---
 
 ## At a Glance
 

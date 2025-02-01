@@ -1,4 +1,6 @@
-# Jury-Rigged Wand
+---
+title: Jury-Rigged Wand
+---
 
 Uncommon magic item.
 

@@ -1,4 +1,6 @@
-# Appendix: Custom Items
+---
+title: Custom Items
+---
 
 ## Magic Items
 

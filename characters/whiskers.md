@@ -1,4 +1,6 @@
-# Whiskers
+---
+title: Whiskers
+---
 
 ## At a Glance
 

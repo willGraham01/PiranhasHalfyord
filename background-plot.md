@@ -1,4 +1,8 @@
-# Background and Plot
+---
+title: Plot
+description: Any plot-relevant background information, and a summary of the plot of the adventure.
+header_nav: True
+---
 
 In this section you'll find a summary of the plot for the adventure, as well as the the necessary history (or "lore") that will setup the story context.
 You might want to cross-reference names and factions with those that appear in the [corresponding section](./characters.md), or use the [appendix](./appendix/appendix-character-summary.md) as a quick reference.
@@ -23,7 +27,7 @@ But for this plan to work, she needs the help of a group of adventurers who are 
 
 ## Background
 
-Whilst town of Halfyord has a long and storied history, the plot-relevant events begin approximately 2 years into the past from when the adventure starts.
+Whilst the town of Halfyord has a long and storied history, the plot-relevant events begin approximately 2 years into the past from when the adventure starts.
 
 ### Decline of the Piranhas
 

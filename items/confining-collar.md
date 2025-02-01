@@ -1,4 +1,6 @@
-# Confining Collar
+---
+title: Confining Collar
+---
 
 Very rare magic item.
 

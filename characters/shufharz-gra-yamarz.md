@@ -1,4 +1,6 @@
-# Shufharz gra-Yamarz
+---
+title: Shufharz gar-Yamarz
+---
 
 ## At a Glance
 

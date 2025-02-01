@@ -1,4 +1,6 @@
-# Infiltrating the Hideout
+---
+title: Infiltrating the Hideout
+---
 
 Having participated in Shufharz' reverse-heist plan, the party follows the trail back to the Day's Rest, where they need to apprehend the Piranha's leadership before they get wind of the events that have transpired.
 

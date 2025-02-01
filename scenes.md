@@ -1,4 +1,8 @@
-# Scenes
+---
+title: Scenes
+description: Overview of the scenes that comprise the adventure.
+header_nav: True
+---
 
 The Piranhas of Halfyord is designed to be played out over several scenes.
 Each scene is itself a short sequence of events that will involve the party in some way, and serve to move the story along if the party is dawdling on what to do next.

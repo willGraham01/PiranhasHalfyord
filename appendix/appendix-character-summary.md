@@ -1,4 +1,6 @@
-# Appendix: Character Summary
+---
+title: Character Summary
+---
 
 A summary of the notable characters that you have (or will) meet on this adventure.
 Characters are listed in the order that you are most likely to encounter them in the story.

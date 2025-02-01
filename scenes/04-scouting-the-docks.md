@@ -1,4 +1,6 @@
-# Scouting the Docks
+---
+title: Scouting the Docks
+---
 
 After visiting the Ordo Magicae, the party meets Shufharz at the docks to reconnoiter the area in preparation for tomorrow.
 

@@ -1,7 +1,7 @@
 ---
 title: The Piranhas of Halfyord
 description: Landing page for the Piranhas of Halfyord.
-header_nav: True
+header_nav: False
 ---
 
 The affluent merchant town of Halfyord has recently fallen on hard times.
@@ -28,9 +28,4 @@ There are also several appendices with lookups for the custom items the adventur
 - [Characters and Factions](./characters.md)
 - [Scenes](./scenes.md)
 - [Customising the Adventure](./customising.md)
-- [Appendix: Character Summary](./appendix/appendix-character-summary.md)
-- [Appendix: Capturing Gang Members](./appendix/appendix-capturing-gang-members.md)
-- [Appendix: Custom Items](./appendix/appendix-custom-items.md)
-- [Appendix: Dice Games](./appendix/appendix-dice-games.md)
-- [Appendix: Monster Stat Blocks](./appendix/appendix-monster-stat-blocks.md)
-- [Appendix: Sample Player Characters](./appendix/appendix-sample-characters.md)
+- [Appendices](./appendix/appendix-index.md)

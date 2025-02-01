@@ -1,5 +1,6 @@
-
-# Appendix: Dice Games
+---
+title: Dice Games
+---
 
 The [Day's Rest Tavern scene](../scenes/05-the-days-rest-tavern.md) gives the players the opportunity to partake in some card games (which will be dice games in practice) with the patrons of the tavern.
 In this section we provide a sample game that you can have them play to simulate the card game.

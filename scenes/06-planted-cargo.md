@@ -1,4 +1,6 @@
-# The Planted Cargo
+---
+title: The Planted Cargo
+---
 
 After completing their investigations for the evening, the party returns to the barracks for rest and to plan the following day with Shufharz.
 This scene covers the execution of Shufharz' plan to lure out the Piranhas gang and track them to their headquarters.

@@ -1,4 +1,6 @@
-# Sample Player Characters
+---
+title: Sample Player Characters
+---
 
 The Piranhas of Halyford is intended to be an introductory adventure, and to help new players avoid the complexities of character creation we provide a couple of sample player characters that are designed to fit into the adventure.
 They each come with a short backstory that can be expanded on by creative players, and their appearance (beyond race restrictions) is to be determined by the player.

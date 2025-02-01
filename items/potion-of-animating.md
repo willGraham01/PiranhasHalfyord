@@ -1,4 +1,6 @@
-# Potion of Animating
+---
+title: Potion of Animating
+---
 
 Rare magic item (potion).
 

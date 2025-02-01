@@ -1,4 +1,6 @@
-# Potion of Corporeal Resetting
+---
+title: Potion of Corporeal Resetting
+---
 
 Rare magic item (potion).
 
