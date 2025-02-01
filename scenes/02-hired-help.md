@@ -1,4 +1,6 @@
-# The Magistrate's Office
+---
+title: The Magistrate's Office
+---
 
 After the attack in the market, Shufharz takes the party to the magistrates office to enlist their help, and fill them in on the situation.
 

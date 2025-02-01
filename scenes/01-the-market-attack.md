@@ -1,4 +1,6 @@
-# The Market Attack
+---
+title: The Market Attack
+---
 
 The adventure begins with the party - either as a collective or individuals - present in Halfyord's great market.
 

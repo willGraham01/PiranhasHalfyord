@@ -1,4 +1,6 @@
-# Potion of Lesser Invisibility
+---
+title: Potion of Lesser Invisibility
+---
 
 Rare magic item (potion).
 

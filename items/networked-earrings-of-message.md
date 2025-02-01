@@ -1,4 +1,6 @@
-# Networked Earrings of Message
+---
+title: Networked Earrings of Message
+---
 
 Uncommon magic item(s).
 

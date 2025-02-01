@@ -1,4 +1,6 @@
-# Faire Ron-Ron
+---
+title: Faire Ron-Ron
+---
 
 ## At a Glance
 

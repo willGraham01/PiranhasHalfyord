@@ -1,4 +1,6 @@
-# Ring of Seeking
+---
+title: Ring of Seeking
+---
 
 Uncommon magic item.
 

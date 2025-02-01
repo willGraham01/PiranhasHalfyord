@@ -1,4 +1,6 @@
-# Piranhas Gang Member
+---
+title: Piranhas Gang Member
+---
 
 - Medium Humanoid.
 - Any non-lawful alignment.

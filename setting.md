@@ -1,4 +1,8 @@
-# Setting
+---
+title: Adventure Setting
+description: Background information and description of Halfyord.
+header_nav: True
+---
 
 This section describes the town of Halfyord, where the adventure was originally intended to take place.
 The town is deliberately designed to be somewhat self-contained, to allow the adventure to be "insertable" into larger games or longer-running campaigns, and some aspects of the descriptions below are left deliberately vague.

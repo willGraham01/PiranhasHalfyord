@@ -1,4 +1,8 @@
-# Customising the Adventure
+---
+title: Customisations
+description: Ideas for adapting the adventure to suite a particular setting.
+header_nav: True
+---
 
 The Piranhas of Halfyord is presented in a manner that makes the adventure self-contained, and suitable for a one-shot or an introductory session.
 However its setting might not be directly suitable to already-running campaigns that want to use the story as a small side quest or plot point in a grander scheme.

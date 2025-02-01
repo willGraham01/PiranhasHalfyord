@@ -9,3 +9,8 @@ tokens/
 
 # Xournal metadata
 *.xoj
+
+# Jekyll things
+_site
+.sass-cache
+.jekyll-metadata

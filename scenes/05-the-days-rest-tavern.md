@@ -1,4 +1,6 @@
-# The Day's Rest Tavern
+---
+title: The Day's Rest Tavern
+---
 
 The party trails Groubun from the Docks, suspicious of where he is heading.
 

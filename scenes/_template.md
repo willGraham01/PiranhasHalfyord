@@ -1,4 +1,6 @@
-# Scene name
+---
+title: Scene Name
+---
 
 Short summary of the scene.
 

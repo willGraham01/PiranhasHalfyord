@@ -1,4 +1,6 @@
-# Full-Char-Name
+---
+title: Full Character Name
+---
 
 ## At a Glance
 

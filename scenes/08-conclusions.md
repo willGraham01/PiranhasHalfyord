@@ -1,4 +1,6 @@
-# Conclusions
+---
+title: Conclusions
+---
 
 This scene summarises the possible endings of the adventure, and how the party can interact with the characters for closure.
 

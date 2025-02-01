@@ -1,4 +1,6 @@
-# The Ordo Magicae
+---
+title: The Ordo Magicae
+---
 
 The party is sent to the Ordo Magicae by Shufharz to pick up a delivery, before meeting her at the docks.
 

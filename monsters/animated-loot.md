@@ -1,5 +1,6 @@
-
-# Animated Loot (Loot Wolf)
+---
+title: Animated Loot (Loot Wolf)
+---
 
 - Medium Construct
 - Unaligned

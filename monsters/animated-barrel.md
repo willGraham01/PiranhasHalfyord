@@ -1,5 +1,6 @@
-
-# Animated Barrel
+---
+title: Animated Barrel
+---
 
 - Medium or Small Construct
 - Unaligned

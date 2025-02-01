@@ -1,4 +1,6 @@
-# Appendix: Captured Gang Members
+---
+title: Captured Gang Members
+---
 
 Over the course of the adventure is it very possible that the party will be able to take a Piranhas' gang member alive; specifically they will have opportunities to do this during:
 
