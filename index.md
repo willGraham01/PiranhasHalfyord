@@ -1,12 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+title: The Piranhas of Halfyord
+description: Landing page for the Piranhas of Halfyord.
+header_nav: True
 ---
-
-
-# The Piranhas of Halfyord
 
 The affluent merchant town of Halfyord has recently fallen on hard times.
 A high-ranking wizard who resides in the town has gone missing without a trace.
